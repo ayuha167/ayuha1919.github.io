@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[恋心は超グリーディ]]></title>
+  <link href="http://ayuha167.github.io/atom.xml" rel="self"/>
+  <link href="http://ayuha167.github.io/"/>
+  <updated>2013-12-23T23:46:10+09:00</updated>
+  <id>http://ayuha167.github.io/</id>
+  <author>
+    <name><![CDATA[アユハ/Ayuha]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Page]]></title>
+    <link href="http://ayuha167.github.io/blog/2013/12/23/title/"/>
+    <updated>2013-12-23T22:50:59+09:00</updated>
+    <id>http://ayuha167.github.io/blog/2013/12/23/title</id>
+    <content type="html"><![CDATA[<p>ブログを遂に始めました。誤解があったかもしれない。「再開」しました。</p>
+
+<p>GitHub と Octopress を連携させています。詳しくは以下で↓<br/>
+<a href="http://salinger.github.io/data/niigatall_2013_03/Octopress.pdf">Salingerさんのページ</a></p>
+
+<!--more-->
+
+
+<p>Salingerさんの.pdfが一番役に立ちました。
+mac向けにも書いてあり、ruby のインストール等々で苦戦しましたが、しっかりこの通り動きました。</p>
+
+<p>まだこれはテストページですが、今後ともよろしくお願いします。</p>
+
+<h2>環境</h2>
+
+<p>PC: MacBook Pro, Core i7, Mem 8GB, not Retina<br/>
+OS: OS X 10.7.3<br/>
+XCode: 4.6.2</p>
+
+<h2>ちなみに、備忘録</h2>
+
+<pre><code>    $ rake new_post\[title\]
+</code></pre>
+
+<p>で記事が作成され、 source/_post/2013-XX-XX-1.markdown というディレクトリに記事のテンプレートが現れる。これを編集してページ作るのです。</p>
+
+<p>Markdown記法に関しては、<br/>
+<a href="http://kojika17.com/2013/01/starting-markdown.html">kojika17さんのページ</a>
+で。</p>
+
+<p>簡単に言うと、</p>
+
+<ul>
+<li>スペース2個で改行</li>
+<li>HTML の &lt;えいち1> が &ldquo;シャープ&rdquo;, &lt;えいち2> が &ldquo;シャープシャープ&rdquo;</li>
+</ul>
+
+
+<p>です。</p>
+
+<p>あとは</p>
+
+<pre><code>    $ rake generate
+</code></pre>
+
+<p>で。<br/>
+プレビュー見るなら</p>
+
+<pre><code>    $ rake preview
+</code></pre>
+
+<p>で、<a href="http://localhost:4000/">http://localhost:4000/</a> にアクセスすれば見られる。</p>
+
+<p>ここでOKなら、</p>
+
+<pre><code>    $ rake deploy
+</code></pre>
+
+<p>で公開。</p>
+]]></content>
+  </entry>
+  
+</feed>
