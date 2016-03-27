@@ -4,7 +4,7 @@
   <title><![CDATA[恋心は超グリーディ]]></title>
   <link href="http://ayuha167.github.io/atom.xml" rel="self"/>
   <link href="http://ayuha167.github.io/"/>
-  <updated>2016-03-27T11:24:53+09:00</updated>
+  <updated>2016-03-27T13:55:35+09:00</updated>
   <id>http://ayuha167.github.io/</id>
   <author>
     <name><![CDATA[アユハ/Ayuha]]></name>
@@ -12,6 +12,96 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Twitch API とサービス]]></title>
+    <link href="http://ayuha167.github.io/blog/2016/03/27/"/>
+    <updated>2016-03-27T12:40:21+09:00</updated>
+    <id>http://ayuha167.github.io/blog/2016/03/</id>
+    <content type="html"><![CDATA[<p>Twitch API は公開されています。デベロッパの方向け&hellip;程には書くスキルがないのですが、紹介いたします。
+<a href="https://github.com/justintv/Twitch-API">https://github.com/justintv/Twitch-API</a></p>
+
+<!-- more -->
+
+
+<h2>Twitch API</h2>
+
+<p>もしかして、Twitchのことを書くのは初めてでしょうか？<br/>
+というわけで、<a href="https://github.com/justintv/Twitch-API">上のリンク</a>でTwitchのAPIは出ています。これを用いて開発が可能です。</p>
+
+<p><a href="https://www.twitchalerts.com/">Twitch Alerts</a> や <a href="https://nightdev.com/followalert/">Night Dev</a> といった、生放送の体験を拡張する機能から、#TwitchPlaysPokemon で一度Twitterを沸かせた企画まで、色々出来ます。</p>
+
+<h2>最近リリースされたサービス</h2>
+
+<p>そんな中、最近<a href="https://twitter.com/noticoco">のちょうさん</a>がリリースした<a href="http://smacuration.com/stream">スマキュレーション</a>に、配信チェック機能が追加されました。<br/>
+内容は以下のツイートをご参考に：</p>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">スマキュレーションにスマブラーのTwitch配信の一括視聴機能を追加しました。<br>「1クリックでチャンネル切替」「マルチウインドウ機能（多窓）」など、スマブラの配信が手軽に見られます。<a href="https://t.co/JwPqMIh4eY">https://t.co/JwPqMIh4eY</a> <a href="https://t.co/NwlIJldQAt">pic.twitter.com/NwlIJldQAt</a></p>&mdash; のちょう (@noticoco) <a href="https://twitter.com/noticoco/status/712640718532059138">March 23, 2016</a></blockquote>
+
+
+<script async src="http://ayuha167.github.io//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">機能１「チャンネル切替」<br><br>事前に登録してあるスマブラーの配信状態をチェックでき、１クリックで配信が切り替わります。<br>配信状態は一定間隔で自動更新されるので、リロードの必要はありません。<br>一部海外の有名プレイヤーも追加しています。 <a href="https://t.co/mssmlkQu8X">pic.twitter.com/mssmlkQu8X</a></p>&mdash; のちょう (@noticoco) <a href="https://twitter.com/noticoco/status/712642441635975168">March 23, 2016</a></blockquote>
+
+
+<script async src="http://ayuha167.github.io//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">機能２「マルチウインドウ」<br><br>右上の「マルチウインドウに切替」を押すことで、リストに載っているプレイヤーを同時視聴できます。<br>最大３窓まで設定を行えます。リストからドラッグ＆ドロップするだけです。<br>※ＰＣ版のみの機能です <a href="https://t.co/dthxGwctSk">pic.twitter.com/dthxGwctSk</a></p>&mdash; のちょう (@noticoco) <a href="https://twitter.com/noticoco/status/712643110958800896">March 23, 2016</a></blockquote>
+
+
+<script async src="http://ayuha167.github.io//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">機能３　「スマートフォン視聴」<br><br>通常はTwitchはアプリをインストールしないと視聴できないのですが、ブラウザからそのまま視聴が行えるようにしました。<br>ただ、一部のiOSでしか確認が取れていないため、観れない場合もあるかも？ <a href="https://t.co/QtUNnT7pQE">pic.twitter.com/QtUNnT7pQE</a></p>&mdash; のちょう (@noticoco) <a href="https://twitter.com/noticoco/status/712644257308213249">March 23, 2016</a></blockquote>
+
+
+<script async src="http://ayuha167.github.io//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">スマブラを主に配信される方は追加致します！<br>ニコ生派の方はTwitchも同時に配信すればいいんじゃないかな！<br>とゆうことで、みんなTwitchに登録してね！！！！！（熱いステマ）</p>&mdash; のちょう (@noticoco) <a href="https://twitter.com/noticoco/status/712645564899274752">March 23, 2016</a></blockquote>
+
+
+<script async src="http://ayuha167.github.io//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>Twitch は固定URLで永遠に配信が出来るため、HTMLでのウェブサイト埋め込みをはじめ、こんなこと↑まで可能にしています。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Genesis3 旅日記 ブログエントリー]]></title>
+    <link href="http://ayuha167.github.io/blog/2016/03/27/"/>
+    <updated>2016-03-27T11:25:43+09:00</updated>
+    <id>http://ayuha167.github.io/blog/2016/03/</id>
+    <content type="html"><![CDATA[<p>2016年2月末に公開した &ldquo;Genesis3 旅日記&rdquo; のブログエントリーです。この旅日記はウェブサイト上でしか公開していませんが、履歴のためにブログにもURL載せました。それだけです。<br/>
+<a href="http://ayuha167.web.fc2.com/lian_xinhaguridi/Genesis3_00.html">http://ayuha167.web.fc2.com/lian_xinhaguridi/Genesis3_00.html</a></p>
+
+<!-- more -->
+
+
+<h2>旅日記一覧</h2>
+
+<ul>
+<li><p><a href="http://ayuha167.web.fc2.com/lian_xinhaguridi/Genesis3_00.html">トップ</a></p></li>
+<li><p><a href="http://ayuha167.web.fc2.com/lian_xinhaguridi/Genesis3_01.html">序詞</a></p></li>
+<li><p><a href="http://ayuha167.web.fc2.com/lian_xinhaguridi/Genesis3_02.html">第1曲</a></p></li>
+<li><p><a href="http://ayuha167.web.fc2.com/lian_xinhaguridi/Genesis3_03.html">第2曲</a></p></li>
+<li><p><a href="http://ayuha167.web.fc2.com/lian_xinhaguridi/Genesis3_04.html">第3曲</a></p></li>
+<li><p><a href="http://ayuha167.web.fc2.com/lian_xinhaguridi/Genesis3_05.html">第4曲</a></p></li>
+<li><p><a href="http://ayuha167.web.fc2.com/lian_xinhaguridi/Genesis3_06.html">第5曲</a></p></li>
+<li><p><a href="http://ayuha167.web.fc2.com/lian_xinhaguridi/Genesis3_07.html">第6曲</a></p></li>
+</ul>
+
+
+<h2>Genesis3旅日記とは</h2>
+
+<p><img src="http://ayuha167.github.io/images/RP2_4114-X3.jpg" alt="&quot;Genesis3 旅日記 ブログエントリー&quot;" /> <a href="http://gallery.rmpaul.com/Esports/Genesis-3/Day-3/i-XW2vHcS/A">Robert Paul より</a></p>
+
+<p>Genesis3はスマブラのみを扱うゲーム大会としては最大。これに参加した筆者と日本勢の足跡。これが Genesis3 旅日記です。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[スマブラ世界王者決定戦の魅力]]></title>
