@@ -4,7 +4,7 @@
   <title><![CDATA[恋心は超グリーディ]]></title>
   <link href="http://ayuha167.github.io/atom.xml" rel="self"/>
   <link href="http://ayuha167.github.io/"/>
-  <updated>2016-12-17T13:13:58+09:00</updated>
+  <updated>2016-12-17T13:16:34+09:00</updated>
   <id>http://ayuha167.github.io/</id>
   <author>
     <name><![CDATA[アユハ/Ayuha]]></name>
@@ -29,8 +29,8 @@
 
 
 <ul>
-<li><p>iOS 向け手引：</p></li>
-<li><p>Android 向け手引 :</p></li>
+<li><p>iOS 向け手引：<a href="http://ayuha167.github.io/blog/2016/12/17/title1/">http://ayuha167.github.io/blog/2016/12/17/title1/</a></p></li>
+<li><p>Android 向け手引 : <a href="http://ayuha167.github.io/blog/2016/12/17/title2/">http://ayuha167.github.io/blog/2016/12/17/title2/</a></p></li>
 </ul>
 
 
@@ -65,9 +65,11 @@
     <link href="http://ayuha167.github.io/blog/2016/12/17/title2/"/>
     <updated>2016-12-17T11:57:03+09:00</updated>
     <id>http://ayuha167.github.io/blog/2016/12/17/title2</id>
-    <content type="html"><![CDATA[<p>タイトルのとおりです。
-こちらの投稿：
-が元です。</p>
+    <content type="html"><![CDATA[<p>タイトルのとおりです。</p>
+
+<p>こちらの投稿：<a href="http://ayuha167.github.io/blog/2016/12/17/">http://ayuha167.github.io/blog/2016/12/17/</a></p>
+
+<p>が元です。</p>
 
 <!-- more -->
 
@@ -108,9 +110,11 @@ Twitch アプリを態々開くのが億劫であるなら、BitStream から配
     <link href="http://ayuha167.github.io/blog/2016/12/17/title1/"/>
     <updated>2016-12-17T11:55:47+09:00</updated>
     <id>http://ayuha167.github.io/blog/2016/12/17/title1</id>
-    <content type="html"><![CDATA[<p>タイトルのとおりです。
-こちらの投稿：
-が元です。</p>
+    <content type="html"><![CDATA[<p>タイトルのとおりです。</p>
+
+<p>こちらの投稿：<a href="http://ayuha167.github.io/blog/2016/12/17/">http://ayuha167.github.io/blog/2016/12/17/</a></p>
+
+<p>が元です。</p>
 
 <!-- more -->
 
