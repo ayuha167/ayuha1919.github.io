@@ -4,7 +4,7 @@
   <title><![CDATA[恋心は超グリーディ]]></title>
   <link href="http://ayuha167.github.io/atom.xml" rel="self"/>
   <link href="http://ayuha167.github.io/"/>
-  <updated>2016-08-26T00:57:02+09:00</updated>
+  <updated>2016-12-17T13:13:58+09:00</updated>
   <id>http://ayuha167.github.io/</id>
   <author>
     <name><![CDATA[アユハ/Ayuha]]></name>
@@ -12,6 +12,172 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[スマホからTwitchへ配信！]]></title>
+    <link href="http://ayuha167.github.io/blog/2016/12/17/"/>
+    <updated>2016-12-17T11:57:49+09:00</updated>
+    <id>http://ayuha167.github.io/blog/2016/12/</id>
+    <content type="html"><![CDATA[<p>こんにちはアユハです。<br/>
+スマホからTwitchへ、ボタン操作でカメラ生配信を可能とする手引です。</p>
+
+<p><a href="https://docs.google.com/document/d/1HTSZQ1R-U3LMQzR8qkuIdMmTrdIi_ZvSd7uvh1_Oy_A/edit?usp=sharing">https://docs.google.com/document/d/1HTSZQ1R-U3LMQzR8qkuIdMmTrdIi_ZvSd7uvh1_Oy_A/edit?usp=sharing</a></p>
+
+<p>こちらの英語版を、日本語に訳しました。</p>
+
+<!-- more -->
+
+
+<ul>
+<li><p>iOS 向け手引：</p></li>
+<li><p>Android 向け手引 :</p></li>
+</ul>
+
+
+<p>この度、Twitch に IRL（雑談）が追加されます。ご自身の世界を共有するために、この手引がその一助になれば幸いです。ちなみに2017年初頭に、Twitch アプリにスマホからの直接配信方法が追加される予定です。そちらの情報もお見逃しなく。</p>
+
+<p>【雑談】については、以下のFAQからもご覧になれます（すみません英語です）</p>
+
+<ul>
+<li><a href="https://help.twitch.tv/customer/portal/articles/2672652-irl-faq">https://help.twitch.tv/customer/portal/articles/2672652-irl-faq</a></li>
+<li><a href="https://blog.twitch.tv/announcing-irl-mobile-broadcasting-and-updated-community-guidelines-6833dcac8012#.e180k6mht">https://blog.twitch.tv/announcing-irl-mobile-broadcasting-and-updated-community-guidelines-6833dcac8012#.e180k6mht</a></li>
+</ul>
+
+
+<p><a href="twitter.com/thegunrun">theGunrun</a> 使用デバイス</p>
+
+<ul>
+<li>Aukey Wide Angle Lens : <a href="https://www.amazon.com/gp/product/B018TQTP0C/">https://www.amazon.com/gp/product/B018TQTP0C/</a></li>
+<li>TFY Open-Face Sport Armband : <a href="https://www.amazon.com/gp/product/B00L7Q68WA/">https://www.amazon.com/gp/product/B00L7Q68WA/</a></li>
+<li>Bluetooth Headset for Wireless mic : <a href="https://www.amazon.com/LG-Infinim-HBS-900-Wireless-Headset/dp/B00NW2JBYO/">https://www.amazon.com/LG-Infinim-HBS-900-Wireless-Headset/dp/B00NW2JBYO/</a></li>
+<li>Unlimited Data Verizon Hotspot from Unlimited Ville : <a href="http://www.unlimitedville.com/">http://www.unlimitedville.com/</a></li>
+</ul>
+
+
+<hr />
+
+<p>それでは、ライブストリーミングご武運を。- <a href="twitter.com/ayhua167">アユハ/Ayuha</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[AndroidからTwitchへ配信]]></title>
+    <link href="http://ayuha167.github.io/blog/2016/12/17/title2/"/>
+    <updated>2016-12-17T11:57:03+09:00</updated>
+    <id>http://ayuha167.github.io/blog/2016/12/17/title2</id>
+    <content type="html"><![CDATA[<p>タイトルのとおりです。
+こちらの投稿：
+が元です。</p>
+
+<!-- more -->
+
+
+<h1>Android デバイス</h1>
+
+<ol>
+<li><p>Google Play Store から BitStream をダウンロードします。
+<a href="https://play.google.com/store/apps/details?id=ro.numedecod.cast&amp;hl=en">https://play.google.com/store/apps/details?id=ro.numedecod.cast&amp;hl=en</a></p></li>
+<li><p>アプリ、起動。</p></li>
+<li><p>写真の撮影・動画の録画に関して許可を求められたら “Allow”（許可） を押して下さい。</p></li>
+<li><p>Streaming（生配信）をする先を “Twitch” と選択。</p></li>
+<li><p>Twitch にログイン。</p></li>
+<li><p>お近くのサーバーを選んで下さい。（皆様はたぶん Asia : Tokyo, Japan です）</p></li>
+<li><p>Record Audio（オーディオ録音）の許可を求められたら “Allow”（許可）を押して下さい。</p></li>
+<li><p>ライブストリーミングする解像度（Resolution）・ビットレート（Bitrate）を選択して下さい。通常、720p・2500kbps がオススメです。</p></li>
+<li><p>これで基本は準備完了です！</p></li>
+</ol>
+
+
+<hr />
+
+<p>おまけ :</p>
+
+<p>■黒いバーを削除
+内向きカメラを用いると、配信画面には左右に黒いバーが見えてしまいます。ローテーションロック（画面向き固定）を解除して、画面を調整することをオススメします。</p>
+
+<p>■アプリ内で Twitch タイトル・カテゴリを変更
+Twitch アプリを態々開くのが億劫であるなら、BitStream から配信のタイトル・カテゴリを変更できます。右中央のボタンをクリックして下さい。 “Edit Channel” を押せば編集できます。</p>
+
+<p>■Bluetoothのススメ
+高性能の Bluetooth イヤホン/ヘッドホン をマイクとして用いることで、スマホのカメラを好き放題動かしても、音声が常にしっかり入ります。スマホから配信なさる場合は意外と便利です。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[iOSからTwitchへ配信]]></title>
+    <link href="http://ayuha167.github.io/blog/2016/12/17/title1/"/>
+    <updated>2016-12-17T11:55:47+09:00</updated>
+    <id>http://ayuha167.github.io/blog/2016/12/17/title1</id>
+    <content type="html"><![CDATA[<p>タイトルのとおりです。
+こちらの投稿：
+が元です。</p>
+
+<!-- more -->
+
+
+<h1>iOS デバイス</h1>
+
+<ol>
+<li><p>App Store から Live Air Solo をダウンロードしてください。
+<a href="https://itunes.apple.com/us/app/live-air-solo-stream-live/id1051147032">https://itunes.apple.com/us/app/live-air-solo-stream-live/id1051147032</a></p></li>
+<li><p>アプリ、起動。</p></li>
+<li><p>カメラ・マイク・写真・位置情報 へのアクセスを許可するように訊かれたら「OK」を押します。</p></li>
+<li><p>Destination に Twitch を選びます。</p></li>
+<li><p>ユーザー名・パスワードを入力して Twitch のアカウントへログイン。
+2段階認証を用いている方は、Authy/SMS からのコードを、パスワードの文字列につづいてパスワードボックスに直接打ち込んで下さい。</p></li>
+<li><p>お近くのサーバーを選んで下さい。（皆様はたぶん Asia : Tokyo, Japan です）</p></li>
+</ol>
+
+
+<p>［ココから配信画面の設定です］</p>
+
+<ol>
+<li><p>【カメラ】
+画面左端を真ん中へスワイプしてください。Sources バーが表示されます。（ここから、フロント/バック カメラを配信映像として選べます。）
+Add New Source をクリックしてください。次に iOS Camera を選択します。そして、サムネイルを選択して、iOSカメラに切り替えます。
+<img src="http://ayuha167.github.io/images/IMG_0522.PNG" alt="&quot;iOSからTwitchへ配信&quot;" /></p></li>
+<li><p>【オーバーレイ】
+オーバーレイを変更・削除する場合は、画面右端を真ん中へスワイプします。オーバーレイメニューバーの中にあるサムネイルをクリックすることで、オーバーレイのパーツを追加/削除 することが出来ます。長押しすれば編集が出来ます。
+<img src="http://ayuha167.github.io/images/IMG_0524.PNG" alt="&quot;iOSからTwitchへ配信&quot;" />
+Add New Overlay を押せば、自分で作成した画像をオーバーレイに出来ます。</p></li>
+<li><p>これで基本は準備完了です！
+画面上端を下へスワイプすると、Go Live ボタンが現れます。こちらを押すとライブストリーミング開始です！
+<img src="http://ayuha167.github.io/images/IMG_0523.PNG" alt="&quot;iOSからTwitchへ配信&quot;" /></p></li>
+</ol>
+
+
+<hr />
+
+<h1>おまけ :</h1>
+
+<p>■ 解像度の変更
+画面上端から下へスワイプして、Live バーを表示して下さい。左の方にある青いギアマークを押しましょう。
+<img src="http://ayuha167.github.io/images/IMG_0525.PNG" alt="&quot;iOSからTwitchへ配信&quot;" /></p>
+
+<p>OUTPUT の下の Encoder Settings をクリックし、Manual を選択します。良いインターネット接続がある場合は、
+720p, 3500kbps, 30fps, 2s Keyframe Intervals, Adaptive Bitrate ON, Bitrate Limiting OFF
+をオススメします。</p>
+
+<p>■Adaptive Bitrate
+上で用いた Adaptive Bitrate ですが、常に ON にすべきです。
+ONにすると、デバイスに繋がっている帯域が自分で設定したビットレートよりも小さくなった場合に自動的に適応してくれます。</p>
+
+<p>■オーディオ
+マイクをONにするには、画面下端から上へスワイプしてオーディオメニューを開きます。スピーカーのアイコンをクリックして、マイクのミュートを切り、ONにします。映像にマイク音が載ります。</p>
+
+<p>注意。iOSデバイスのボリュームは0まで下げましょう。0以外にしてしまうと、（LiveAirSoloのマイクをONにしている場合）音声がループしてしまいます。というより寧ろ、音声がループしていたらココを疑って下さい。</p>
+
+<p>■カメラ
+上記オーディオメニューを開くと、右に在る歯車を押せば、カメラメニューが現れます。</p>
+
+<p>■チャットを載せる
+Settings（画面上端をスワイプして現れる青い歯車）から、Extra Features をクリックして Twitch Chat を 360円 でお買い求めください。
+入手されましたら、まずは Go Live を押して開始してのち、上のメニューから チャットアイコンをクリックする順番でないと動作しません。</p>
+
+<p>■Bluetoothのススメ
+高性能の Bluetooth イヤホン/ヘッドホン をマイクとして用いることで、スマホのカメラを好き放題動かしても、音声が常にしっかり入ります。スマホから配信なさる場合は意外と便利です。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[EVO2016で結果を残した日本スマブラWiiU勢。日本のシーンの秘訣。]]></title>
