@@ -4,7 +4,7 @@
   <title><![CDATA[恋心は超グリーディ]]></title>
   <link href="http://ayuha167.github.io/atom.xml" rel="self"/>
   <link href="http://ayuha167.github.io/"/>
-  <updated>2016-12-20T16:04:16+09:00</updated>
+  <updated>2016-12-20T16:08:17+09:00</updated>
   <id>http://ayuha167.github.io/</id>
   <author>
     <name><![CDATA[アユハ/Ayuha]]></name>
@@ -27,6 +27,10 @@
 
 <!-- more -->
 
+
+<p><img src="http://ayuha167.github.io/images/IRL.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /></p>
+
+<p>Twitchでの【雑談】（英語名 &ldquo;IRL&#8221;）カテゴリの導入に伴い、スマホからの配信の需要は出てくると思います。そのための手引です。2017年諸島に、Twitch アプリから直接配信する方法が導入される予定ですが、それまでは代用下さい。</p>
 
 <p>それぞれアプリで、iOS では Live Air Solo を、Android では Bitstream を用います。</p>
 
