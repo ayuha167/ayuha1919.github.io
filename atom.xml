@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[恋心は超グリーディ]]></title>
-  <link href="/index.html/atom.xml" rel="self"/>
-  <link href="/index.html/"/>
-  <updated>2017-02-06T18:18:21+09:00</updated>
-  <id>/index.html/</id>
+  <link href="/archives/index.html/atom.xml" rel="self"/>
+  <link href="/archives/index.html/"/>
+  <updated>2017-02-06T18:36:32+09:00</updated>
+  <id>/archives/index.html/</id>
   <author>
     <name><![CDATA[アユハ/Ayuha]]></name>
     
@@ -14,10 +14,32 @@
 
   
   <entry>
+    <title type="html"><![CDATA[よしもとファクション 加入について]]></title>
+    <link href="/archives/index.html/blog/2017/02/06/"/>
+    <updated>2017-02-06T18:27:58+09:00</updated>
+    <id>/archives/index.html/blog/2017/02/</id>
+    <content type="html"><![CDATA[<p>「よしもとファクション」という部署に所属になったので報告いたします。</p>
+
+<!-- more -->
+
+
+<h1>仕事のお話？</h1>
+
+<p>久々に仕事の内容です。<br/>
+「よしもとファクション」は 吉本興業株式会社 の中で、新しいコンテンツの探求・アイデア出しを行っていく部署です。「よしもと」は事業ごとに関連会社がたくさん有りますが、吉本興業は本体にあたります。</p>
+
+<h2>Twitch は？</h2>
+
+<p>Twitch は変わらず今まで通りです。<br/>
+よろしくお願いいたします。</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[2017年1月 世界WiiUスマブラーTop16情報]]></title>
-    <link href="/index.html/blog/2017/01/14/"/>
+    <link href="/archives/index.html/blog/2017/01/14/"/>
     <updated>2017-01-14T14:49:49+09:00</updated>
-    <id>/index.html/blog/2017/01/</id>
+    <id>/archives/index.html/blog/2017/01/</id>
     <content type="html"><![CDATA[<p>「スマブラ」総合大会 &ldquo;Genesis4&rdquo; が今年もやってきます。毎年恒例の「年始トッププレイヤー紹介」です。2017年1月20-22日に開催されるこの大会の、Top16シードを、プロシーンの側面から紹介します。</p>
 
 <!-- more -->
@@ -45,11 +67,11 @@
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just so y&#39;all won&#39;t have to do the math, here&#39;s the Smash 4 Wii U seeding for Top 16 Singles &amp; Doubles at GENESIS 4.<a href="https://twitter.com/hashtag/G4?src=hash">#G4</a><br>Note: Not <a href="https://twitter.com/hashtag/PGRv2?src=hash">#PGRv2</a> <a href="https://t.co/TAJENt3LYz">pic.twitter.com/TAJENt3LYz</a></p>&mdash; Bear 🔜 GENESIS 4 (@BearUNLV) <a href="https://twitter.com/BearUNLV/status/817552496029614081">January 7, 2017</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>
-（ツイートが消えたときのためにこちらに <a href="/index.html/images/Genesis4_01.jpg">画像データ</a>）</p>
+（ツイートが消えたときのためにこちらに <a href="/archives/index.html/images/Genesis4_01.jpg">画像データ</a>）</p>
 
 <p>そのGenesis4（#G4）のTop16シードが以上のメンバーである。（トーナメント運営のBear氏、お疲れ様です。）誰が誰なのか、見ていきましょう。<br/>
 （スマブラ世界ランキングは、<a href="http://panda.gg/articles/news/gaming/43/panda-global-rankings-10-1">WiiU を Panda Global</a> が・DX を MIOM が出していますが、PandaGlobal（以下PG）はその最新版が未発表ゆえ、Genesis4のシードを今回紹介。）<br/>
@@ -60,7 +82,7 @@
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s all the details for my meet &amp; greet <a href="https://twitter.com/EsportsArena">@EsportsArena</a> this Friday the night before 2GG Genesis saga. Post here if you&#39;ll attend! <a href="https://t.co/siFo89nGBz">pic.twitter.com/siFo89nGBz</a></p>&mdash; ZeRo (@TSMZeRo) <a href="https://twitter.com/TSMZeRo/status/818577115067150337">January 9, 2017</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>
@@ -73,7 +95,7 @@ ZeRo。チリ出身。2016年PG世界ランキング1位。私の旅日記では
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Dense una vuelta a mirar el talento mexicano 😎 <a href="https://t.co/v7rZkzc1hc">https://t.co/v7rZkzc1hc</a></p>&mdash; Echo Fox lMVGl MkLeo (@Mkleosb) <a href="https://twitter.com/Mkleosb/status/812098534048571392">December 23, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>
@@ -85,7 +107,7 @@ ZeRo。チリ出身。2016年PG世界ランキング1位。私の旅日記では
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Happy to announce I am now apart of <a href="https://twitter.com/MisfitsGG">@MisfitsGG</a> as their professional Smash 4 player! Just in time for G4!!</p>&mdash; Larry Lurr (@LarryLurr) <a href="https://twitter.com/LarryLurr/status/819937077483683840">January 13, 2017</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>
@@ -98,7 +120,7 @@ ZeRo。チリ出身。2016年PG世界ランキング1位。私の旅日記では
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s time! <a href="https://t.co/tfONA1Pf26">pic.twitter.com/tfONA1Pf26</a></p>&mdash; Elliot Carroza (C9) (@C9AlIy) <a href="https://twitter.com/C9AlIy/status/816310134863523840">January 3, 2017</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>
@@ -110,7 +132,7 @@ ZeRo。チリ出身。2016年PG世界ランキング1位。私の旅日記では
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Playing with <a href="https://twitter.com/Marss_NE">@Marss_NE</a> until others arrive :) <a href="https://t.co/J1QJuwU7LX">https://t.co/J1QJuwU7LX</a></p>&mdash; CLG VoiD (@gsmVoiD) <a href="https://twitter.com/gsmVoiD/status/819389280334155778">January 12, 2017</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>ハワイ出身、現在Socalに住まうシーク使い。WiiU版からの参戦。ウメブラ25で来日。少々日本語を使う。<br/>
@@ -121,7 +143,7 @@ ZeRo。チリ出身。2016年PG世界ランキング1位。私の旅日記では
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/7pG33Qj4jN">https://t.co/7pG33Qj4jN</a> IT&#39;S TIME TO WATCH THE SWITCH EVENT LET&#39;S GO!!</p>&mdash; NRG Nairo (@NairoMK) <a href="https://twitter.com/NairoMK/status/819756076061036544">January 13, 2017</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>
@@ -134,7 +156,7 @@ Nairoは以前 Team Liquid Pro に所属していたが、NRGへの移籍に際�
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m sponsored by <a href="https://twitter.com/2GGaming">@2GGaming</a>.<br>Thank you for the opportunity.<br>Breaking Our Limits!!<a href="https://t.co/ScxfAhBJ5v">https://t.co/ScxfAhBJ5v</a></p>&mdash; 2GG|komorikiri (@komorikiri_SSCF) <a href="https://twitter.com/komorikiri_SSCF/status/798685484431966208">November 16, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>日本の関西を拠点とする：古森霧 選手。日本プレイヤーランキング1位。（<a href="https://twitter.com/harukisb/status/794179749358645248">Smash Records : Japan Power Rankings</a>）昨年のGenesis3にてダブルスは優勝。その際のペアは らない 選手。後述。<br/>
@@ -145,7 +167,7 @@ Nairoは以前 Team Liquid Pro に所属していたが、NRGへの移籍に際�
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">People complaining about having to pay for Switch Wi-Fi? If you want a good product you gotta pay you bums</p>&mdash; Jason Bates (@Anti) <a href="https://twitter.com/Anti/status/819791972235739136">January 13, 2017</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>ANTi。ギャグキャラとして他ゲーファンであろうとも名は音に聞く。「Apex2012本戦寝坊」といったサボり伝説は数知れず。「週40時間も仕事してたらプロにはなれない」など格言は後を絶たない。多キャラ使い。CEO2016 優勝。<br/>
@@ -156,7 +178,7 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It was a long way, BUT FINALLY.<br>I’m super excited to play for <a href="https://twitter.com/Luminosity">@Luminosity</a> Gaming!<br>Thank you for the opportunity :D<a href="https://t.co/QjAjaCL3qC">https://t.co/QjAjaCL3qC</a></p>&mdash; LG.Abadango (@LG_Abadango) <a href="https://twitter.com/LG_Abadango/status/784871626215227403">October 8, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>日本：関東のあばだんご。2016年PG世界ランキング5位。日本SmashRecordsランキング13位。<br/>
@@ -168,7 +190,7 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tweek activated his bankai right there</p>&mdash; 😼 RNG|Dabuz 🌈 (@DabuzSenpai) <a href="https://twitter.com/DabuzSenpai/status/820494870124998656">January 15, 2017</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>ニューヨークを拠点とするプレイヤー。安定感が高いロゼッタ使い。昨年のGenesis3で準優勝。ウメブラSATで来日。<br/>
@@ -179,7 +201,7 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you don&#39;t want to fuse with anyone else besides Void <a href="https://t.co/yhlVGo4Dg5">pic.twitter.com/yhlVGo4Dg5</a></p>&mdash; Mr.R (@Mr_RSmash) <a href="https://twitter.com/Mr_RSmash/status/820498936414801921">January 15, 2017</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>オランダのプレイヤー。シーク使い。ウメブラSATで来日。<br/>
@@ -190,7 +212,7 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">新成人ってマジですか？ — そうですね <a href="https://t.co/cd0HdqvDeQ">https://t.co/cd0HdqvDeQ</a></p>&mdash; DNG|Kameme (@kameme8808) <a href="https://twitter.com/kameme8808/status/820284508230578176">January 14, 2017</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>かめむし/Kamemushiと同一人物。日本：関東のプレイヤー。初遠征であるEVO2016で準優勝したロックマン。最近はシークも用いる。<br/>
@@ -201,7 +223,7 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I am glad to announce that I will be attending Genesis 4 with the help from <a href="https://twitter.com/2GGaming">@2GGaming</a> !  I will be using the tag 2GG|Ranai during Genesis 4.</p>&mdash; らない/Ranai (@hysranai) <a href="https://twitter.com/hysranai/status/813174946121674753">December 26, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>らない 選手。日本：関西のプレイヤー。通称「村長」。昨年のGenesis3にて3位。EVO2016ベスト6。レアキャラである むらびと 使い。昨年は帰国前にバーガー屋で店員にサインを求められた。<br/>
@@ -212,7 +234,7 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Feeling ready for UGC! Also just want to extend my appreciation to <a href="https://twitter.com/DenialEsports">@DenialEsports</a> for all they&#39;ve done for me thus far. <a href="https://t.co/y7Dl9TJoKU">pic.twitter.com/y7Dl9TJoKU</a></p>&mdash; Denial | Marss (@Marss_NE) <a href="https://twitter.com/Marss_NE/status/805078995213676544">December 3, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>
@@ -224,7 +246,7 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">*Pinned Tweet* Follow me at <a href="https://t.co/tXR9DJzFJk">https://t.co/tXR9DJzFJk</a> for Smash 4 labbing, viewer battles, and more! <a href="https://t.co/dtDSD9o9a7">pic.twitter.com/dtDSD9o9a7</a></p>&mdash; MVG | Salem (@MVG_Salem) <a href="https://twitter.com/MVG_Salem/status/772530520777523200">September 4, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>昨今浮上して来たSalem。東海岸のベヨネッタ使い。以前はスマブラXにてApex2013年を征した戴冠者。当時ダークホース過ぎて Ally をして「いいか、Salem が優勝したら、俺はスマブラXを辞める。約束する。」とまで言わしめたプレイヤー。（結局優勝したが、Allyは引退しなかった。）<br/>
@@ -235,7 +257,7 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In SoCal ☺️ <a href="https://t.co/5uSVQpPllG">pic.twitter.com/5uSVQpPllG</a></p>&mdash; tweek (@TweekSsb) <a href="https://twitter.com/TweekSsb/status/820192979209990144">January 14, 2017</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>東海岸のクラウド使い。以前はクッパJr.も用いていた。98年生まれの18歳。PG世界ランキング15位。直近の 2GGC Genesis Saga にて4位であり、他のシードプレイヤーにとって全く油断ならないだろう。<br/>
@@ -252,9 +274,9 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
   
   <entry>
     <title type="html"><![CDATA[セジュン来日前に質問]]></title>
-    <link href="/index.html/blog/2017/01/04/"/>
+    <link href="/archives/index.html/blog/2017/01/04/"/>
     <updated>2017-01-04T18:25:46+09:00</updated>
-    <id>/index.html/blog/2017/01/</id>
+    <id>/archives/index.html/blog/2017/01/</id>
     <content type="html"><![CDATA[<p>SGC が開催されます。ポケモンの『シングル厨』そしてスマブラの『ウメブラ』による合同開催イベントです。<br/>
 このイベントの目玉参戦プレイヤーである「セジュン」こと Sejun Park に、お話を聞きました。</p>
 
@@ -264,8 +286,8 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
 <h2>セジュンとは</h2>
 
 <p>（王者セジュンの説明になります。ポケモン勢の方には釈迦に説法なので読み飛ばして結構です。 &ldquo;Questions&rdquo; 章まで飛んで下さい。）
-<img src="/index.html/images/SGC_PR3.jpg" alt="&quot;代替メッセージ&quot;" />
-<img src="/index.html/images/SGC02.png" alt="&quot;代替メッセージ&quot;" /></p>
+<img src="/archives/index.html/images/SGC_PR3.jpg" alt="&quot;代替メッセージ&quot;" />
+<img src="/archives/index.html/images/SGC02.png" alt="&quot;代替メッセージ&quot;" /></p>
 
 <p>セジュンは Pokemon WCS 2014 の VGC Masters 部門で優勝した South Korea のプレイヤーです。要するに、2014年にポケモンのゲーム公式世界大会を制した韓国のプレイヤーです。他ゲー勢の私だから暴論を申しますと</p>
 
@@ -279,7 +301,7 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
 
 <h3>どうすごいの？</h3>
 
-<p><img src="/index.html/images/SGC03.jpg" alt="&quot;代替メッセージ&quot;" />
+<p><img src="/archives/index.html/images/SGC03.jpg" alt="&quot;代替メッセージ&quot;" />
 （画像元リンク : <a href="http://4archive.org/board/vp/thread/26805014">http://4archive.org/board/vp/thread/26805014</a> ）</p>
 
 <p>セジュンがなぜ凄いのか。このアメリカのファンメイド画像が有名ですが、2013, 2014年に Sejun の文字列が見えます。2013年には「ブーバー」を使って世界の軍目付の目に留まり、2014年には「メガシンカ」する猛獣が台頭する中、マスコットキャラである「パチリス」を以て優勝してしまいました。「なんだ珍キャラ使いか」と片付けることは早計で、ポケモンはそもそも育成型一人用RPGであるため、「ストーリー序盤に捕獲できるキャラ」と「ストーリー終盤に手に入るキャラ」は同じ性能になるように作られていません。他ゲーで例えるとバスターソードとアルテマウェポン、ヴァルファーレとバハムート、デクの棒とメガトンハンマー。「パチリス」と他のポケモンにはこういった差がある訳です。明らかに不利なチョイスで世界を驚嘆させました。</p>
@@ -289,7 +311,7 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Korea&#39;s Smash 4 Power Rankings! Be on the look out for these guys in the future! <a href="https://twitter.com/hashtag/KoreaSmash?src=hash">#KoreaSmash</a> <a href="https://t.co/3eBmjeDKiK">pic.twitter.com/3eBmjeDKiK</a></p>&mdash; Keitaro (@KeitaroTime) <a href="https://twitter.com/KeitaroTime/status/792377214679384065">October 29, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>Korea Power Ranking で2位につけているデデデ使い（Mungmi）です。これまたレアキャラ&hellip;。世界でもスマブラWiiU強豪である日本（平均レベルは世界最強との呼び声高い）への挑戦に意気込みは昂ぶっています。</p>
@@ -326,9 +348,9 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
   
   <entry>
     <title type="html"><![CDATA[RTA in Japan の もか さんにインタビュー]]></title>
-    <link href="/index.html/blog/2017/01/03/"/>
+    <link href="/archives/index.html/blog/2017/01/03/"/>
     <updated>2017-01-03T20:05:47+09:00</updated>
-    <id>/index.html/blog/2017/01/</id>
+    <id>/archives/index.html/blog/2017/01/</id>
     <content type="html"><![CDATA[<p>2016年12月28-30日。RTA in Japan というオフラインイベントが行われました。</p>
 
 <ul>
@@ -340,7 +362,7 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">RTA in japanの録画をゲーム別にYouTubeにアップし終えました！ こちらの内容はTwitchのハイライトをそのままYouTubeにエクスポートしただけです。 <a href="https://t.co/yPpaDMYpEy">https://t.co/yPpaDMYpEy</a> <a href="https://twitter.com/hashtag/RTAinJapan?src=hash">#RTAinJapan</a></p>&mdash; RTAPlay! (@rta_play) <a href="https://twitter.com/rta_play/status/815849630122459136">January 2, 2017</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p></p>
@@ -352,7 +374,7 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
 
 <ul>
 <li>Twitter : <a href="https://twitter.com/moka_peer">https://twitter.com/moka_peer</a>
-<img src="/index.html/images/RTA02.png" alt="&quot;RTA in Japan の もか さんにインタビュー&quot;" /><br/>
+<img src="/archives/index.html/images/RTA02.png" alt="&quot;RTA in Japan の もか さんにインタビュー&quot;" /><br/>
 （イベントの配信に映るもかさん）</li>
 </ul>
 
@@ -361,7 +383,7 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
 
 <p>そもそも RTA とは、Real Time Attack の略で、ゲームをクリアするタイムを競うプレイ方式を指します。この言葉をご存じなくとも、マリオ64や時のオカリナを高速でクリアする映像をどこかで見たことある方は多いでしょう。RTAは和製英語なので、海外では &ldquo;Speedrun&rdquo; と呼ぶ方が一般的だと私は認識しています。</p>
 
-<p><img src="/index.html/images/RTA01.png" alt="&quot;RTA in Japan の もか さんにインタビュー&quot;" /></p>
+<p><img src="/archives/index.html/images/RTA01.png" alt="&quot;RTA in Japan の もか さんにインタビュー&quot;" /></p>
 
 <ul>
 <li>動画 <a href="https://www.twitch.tv/rtainjapan/videos/all">Twitchハイライト</a></li>
@@ -398,7 +420,7 @@ A: RTAについては&hellip;、<br/>
 昔は日本の主流は「タイムアタック」でした。<br/>
 タイムアタックとは、&hellip;FFなら分かりやすいのですが、「最後のセーブポイントのタイム」の画像を観るものです。（試行の末に理想のゲーム内クリアタイムを追求する。）なので「とあるボスが1/128でドロップするアイテムを出すまで粘る」というのが主流でした。</p>
 
-<p><img src="/index.html/images/IMG_0550.JPG" alt="&quot;RTA in Japan の もか さんにインタビュー&quot;" /><br/>
+<p><img src="/archives/index.html/images/IMG_0550.JPG" alt="&quot;RTA in Japan の もか さんにインタビュー&quot;" /><br/>
 （例：FF7 &ldquo;タイムアタック&rdquo; で用いるセーブデータ。『ファイナルファンタジーⅦ アルティマニア オメガ』タイムアタック進行チャートより。私がカメラで撮影。）</p>
 
 <p>これはRTAとは違います。<br/>
@@ -414,12 +436,12 @@ A: 2001年頃ですね。<br/>
 A: GDQの元になっている Speed Demos Archives が始まりです。<br/>
 昔の話は詳しくないのですが、SDA は Quake の攻略サイトだったらしいです。SDA に動画送ったことがあるのですが、Metroid なんとかというドメインに送りました。2008年頃送りました。だから、メトロイド発祥かもしれません。</p>
 
-<p><img src="/index.html/images/RTA03.jpg" alt="&quot;RTA in Japan の もか さんにインタビュー&quot;" /></p>
+<p><img src="/archives/index.html/images/RTA03.jpg" alt="&quot;RTA in Japan の もか さんにインタビュー&quot;" /></p>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s time to spread the word, <a href="https://twitter.com/hashtag/AGDQ2017?src=hash">#AGDQ2017</a> is coming soon! Make use of our amazing banners, courtesy <a href="https://twitter.com/Jazaaboo">@Jazaaboo</a>! <a href="https://t.co/qJhKRY6O20">https://t.co/qJhKRY6O20</a></p>&mdash; Games Done Quick (@GamesDoneQuick) <a href="https://twitter.com/GamesDoneQuick/status/807460947115839488">December 10, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>
@@ -466,7 +488,7 @@ A: みんなすごいのですが、</p>
 <ul>
 <li>マリオ64の Xiah さんは世界1位です。スター16枚ルールで。マリオ64の中ではこれが一番多いカテゴリです。400-500くらい競技者がいます。マリオ64には全体で1000以上のランナーがいます。</li>
 <li>ドンキー2の ふぃす さん。<a href="https://gamesdonequick.com/hotfix">HOTFIX</a> に行ったことがあるレベルです。
-<img src="/index.html/images/RTA04.png" alt="&quot;RTA in Japan の もか さんにインタビュー&quot;" /> <br/>
+<img src="/archives/index.html/images/RTA04.png" alt="&quot;RTA in Japan の もか さんにインタビュー&quot;" /> <br/>
 （画面左のドンキーの姿が ふぃす さん。プレイ中にバナナを食べる姿が話題となった。）</li>
 </ul>
 
@@ -516,9 +538,9 @@ LiveSplit というストップウォッチがいま主流ですね。電波時�
   
   <entry>
     <title type="html"><![CDATA[スマホからTwitchへ配信！]]></title>
-    <link href="/index.html/blog/2016/12/17/"/>
+    <link href="/archives/index.html/blog/2016/12/17/"/>
     <updated>2016-12-17T11:57:49+09:00</updated>
-    <id>/index.html/blog/2016/12/</id>
+    <id>/archives/index.html/blog/2016/12/</id>
     <content type="html"><![CDATA[<p>こんにちはアユハです。<br/>
 スマホからTwitchへ、ボタン操作でカメラ生配信を可能とする手引です。</p>
 
@@ -529,14 +551,14 @@ LiveSplit というストップウォッチがいま主流ですね。電波時�
 <!-- more -->
 
 
-<p><img src="/index.html/images/IRL.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /></p>
+<p><img src="/archives/index.html/images/IRL.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /></p>
 
 <p>Twitchでの【雑談】（英語名 &ldquo;IRL&#8221;）カテゴリの導入に伴い、スマホからの配信の需要は出てくると思います。そのための手引です。2017年初頭に、Twitch アプリから直接配信する方法が導入される予定ですが、それまでは代用下さい。</p>
 
 <p>それぞれアプリで、iOS では Live Air Solo を、Android では Bitstream を用います。</p>
 
-<p><img src="/index.html/images/Solo_icon.png" alt="&quot;スマホからTwitchへ配信！&quot;" />
-<img src="/index.html/images/bitstream.png" alt="&quot;スマホからTwitchへ配信！&quot;" /></p>
+<p><img src="/archives/index.html/images/Solo_icon.png" alt="&quot;スマホからTwitchへ配信！&quot;" />
+<img src="/archives/index.html/images/bitstream.png" alt="&quot;スマホからTwitchへ配信！&quot;" /></p>
 
 <h3>こちらから</h3>
 
@@ -561,7 +583,7 @@ LiveSplit というストップウォッチがいま主流ですね。電波時�
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">GUIDE: Stream IRL from your Smart Phone - <a href="https://t.co/TkGvy9Ghpi">https://t.co/TkGvy9Ghpi</a> <a href="https://t.co/uD2OjjFWMS">pic.twitter.com/uD2OjjFWMS</a></p>&mdash; theGunrun (@theGunrun) <a href="https://twitter.com/theGunrun/status/809506667914260480">December 15, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>こんな感じで動きやすく配信出来ます。</p>
@@ -583,9 +605,9 @@ LiveSplit というストップウォッチがいま主流ですね。電波時�
   
   <entry>
     <title type="html"><![CDATA[AndroidからTwitchへ配信]]></title>
-    <link href="/index.html/blog/2016/12/17/title2/"/>
+    <link href="/archives/index.html/blog/2016/12/17/title2/"/>
     <updated>2016-12-17T11:57:03+09:00</updated>
-    <id>/index.html/blog/2016/12/17/title2</id>
+    <id>/archives/index.html/blog/2016/12/17/title2</id>
     <content type="html"><![CDATA[<p>タイトルのとおりです。</p>
 
 <p>こちらの投稿：<a href="http://ayuha167.github.io/blog/2016/12/17/">http://ayuha167.github.io/blog/2016/12/17/</a></p>
@@ -596,7 +618,7 @@ LiveSplit というストップウォッチがいま主流ですね。電波時�
 <!-- more -->
 
 
-<p><img src="/index.html/images/IRL.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /></p>
+<p><img src="/archives/index.html/images/IRL.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /></p>
 
 <h1>Android デバイス</h1>
 
@@ -606,7 +628,7 @@ LiveSplit というストップウォッチがいま主流ですね。電波時�
 </ol>
 
 
-<p><img src="/index.html/images/bitstream.png" alt="&quot;スマホからTwitchへ配信！&quot;" /></p>
+<p><img src="/archives/index.html/images/bitstream.png" alt="&quot;スマホからTwitchへ配信！&quot;" /></p>
 
 <ol>
 <li><p>アプリ、起動。</p></li>
@@ -616,7 +638,7 @@ LiveSplit というストップウォッチがいま主流ですね。電波時�
 <li><p>お近くのサーバーを選んで下さい。（皆様はたぶん Asia : Tokyo, Japan です）</p></li>
 <li><p>Record Audio（オーディオ録音）の許可を求められたら “Allow”（許可）を押して下さい。</p></li>
 <li><p>ライブストリーミングする解像度（Resolution）・ビットレート（Bitrate）を選択して下さい。通常、720p・2500kbps がオススメです。
-<img src="/index.html/images/Android_45351.jpg" alt="&quot;AndroidからTwitchへ配信&quot;" /></p></li>
+<img src="/archives/index.html/images/Android_45351.jpg" alt="&quot;AndroidからTwitchへ配信&quot;" /></p></li>
 <li><p>これで基本は準備完了です！</p></li>
 </ol>
 
@@ -638,9 +660,9 @@ Twitch アプリを態々開くのが億劫であるなら、BitStream から配
   
   <entry>
     <title type="html"><![CDATA[iOSからTwitchへ配信]]></title>
-    <link href="/index.html/blog/2016/12/17/title1/"/>
+    <link href="/archives/index.html/blog/2016/12/17/title1/"/>
     <updated>2016-12-17T11:55:47+09:00</updated>
-    <id>/index.html/blog/2016/12/17/title1</id>
+    <id>/archives/index.html/blog/2016/12/17/title1</id>
     <content type="html"><![CDATA[<p>タイトルのとおりです。</p>
 
 <p>こちらの投稿：<a href="http://ayuha167.github.io/blog/2016/12/17/">http://ayuha167.github.io/blog/2016/12/17/</a></p>
@@ -651,7 +673,7 @@ Twitch アプリを態々開くのが億劫であるなら、BitStream から配
 <!-- more -->
 
 
-<p><img src="/index.html/images/IRL.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /></p>
+<p><img src="/archives/index.html/images/IRL.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /></p>
 
 <h1>iOS デバイス</h1>
 
@@ -661,7 +683,7 @@ Twitch アプリを態々開くのが億劫であるなら、BitStream から配
 </ol>
 
 
-<p><img src="/index.html/images/Solo_icon.png" alt="&quot;スマホからTwitchへ配信！&quot;" /></p>
+<p><img src="/archives/index.html/images/Solo_icon.png" alt="&quot;スマホからTwitchへ配信！&quot;" /></p>
 
 <ol>
 <li><p>アプリ、起動。</p></li>
@@ -682,7 +704,7 @@ Add New Source をクリックしてください。次に iOS Camera を選択�
 </ol>
 
 
-<p><img src="/index.html/images/IMG_0536.PNG" alt="&quot;iOSからTwitchへ配信&quot;" /></p>
+<p><img src="/archives/index.html/images/IMG_0536.PNG" alt="&quot;iOSからTwitchへ配信&quot;" /></p>
 
 <ol>
 <li>【オーバーレイ】
@@ -690,7 +712,7 @@ Add New Source をクリックしてください。次に iOS Camera を選択�
 </ol>
 
 
-<p><img src="/index.html/images/IMG_0537.PNG" alt="&quot;iOSからTwitchへ配信&quot;" /></p>
+<p><img src="/archives/index.html/images/IMG_0537.PNG" alt="&quot;iOSからTwitchへ配信&quot;" /></p>
 
 <p>Add New Overlay を押せば、自分で作成した画像をオーバーレイに出来ます。</p>
 
@@ -700,7 +722,7 @@ Add New Source をクリックしてください。次に iOS Camera を選択�
 </ol>
 
 
-<p><img src="/index.html/images/IMG_0535.PNG" alt="&quot;iOSからTwitchへ配信&quot;" /></p>
+<p><img src="/archives/index.html/images/IMG_0535.PNG" alt="&quot;iOSからTwitchへ配信&quot;" /></p>
 
 <hr />
 
@@ -709,7 +731,7 @@ Add New Source をクリックしてください。次に iOS Camera を選択�
 <p>■ 解像度の変更
 画面上端から下へスワイプして、Live バーを表示して下さい。左の方にある青いギアマークを押しましょう。</p>
 
-<p><img src="/index.html/images/IMG_0525.PNG" alt="&quot;iOSからTwitchへ配信&quot;" /></p>
+<p><img src="/archives/index.html/images/IMG_0525.PNG" alt="&quot;iOSからTwitchへ配信&quot;" /></p>
 
 <p>OUTPUT の下の Encoder Settings をクリックし、Manual を選択します。良いインターネット接続がある場合は、
 720p, 3500kbps, 30fps, 2s Keyframe Intervals, Adaptive Bitrate ON, Bitrate Limiting OFF
@@ -741,9 +763,9 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
   
   <entry>
     <title type="html"><![CDATA[EVO2016で結果を残した日本スマブラWiiU勢。日本のシーンの秘訣。]]></title>
-    <link href="/index.html/blog/2016/08/17/"/>
+    <link href="/archives/index.html/blog/2016/08/17/"/>
     <updated>2016-08-17T14:24:19+09:00</updated>
-    <id>/index.html/blog/2016/08/</id>
+    <id>/archives/index.html/blog/2016/08/</id>
     <content type="html"><![CDATA[<p>総合格闘ゲームの祭典：EVO2016が先月開催されました。エントリー数もEVO9種目の中で2番目というスマブラWiiUはEVO内でも一大イベントであり、生放送の視聴数字でも存在感を見せました。アメリカでは名門のプロチームがスマブラ部門を設立し、シーンが勢いに乗る中、いかにして日本のプレイヤー達がこれに刃向かって太刀打ちし、結果を残したのかにクローズアップしたいです。</p>
 
 <!-- more -->
@@ -769,7 +791,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 </ul>
 
 
-<p><img src="/index.html/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202016-08-17%2011.00.36.png" alt="&quot;EVO2016で結果を残した日本スマブラWiiU勢。日本のシーンの秘訣。&quot;" />
+<p><img src="/archives/index.html/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202016-08-17%2011.00.36.png" alt="&quot;EVO2016で結果を残した日本スマブラWiiU勢。日本のシーンの秘訣。&quot;" />
 (Robert Paul Photography <a href="http://gallery.rmpaul.com/Esports/Evo-2016/Day-2/">http://gallery.rmpaul.com/Esports/Evo-2016/Day-2/</a>)</p>
 
 <p>国際色豊かな結果です。Top8が4国籍というのは、今回のEVOでは最多のバリエーションです。TSM, CLG といったチームは、日本の格闘ゲームシーンでは馴染みが無いと思いますが、アメリカやヨーロッパでは知名度が非常に高く子供にいたるまで広く知られている名門です（<a href="http://ayuha167.github.io/blog/2016/01/13/title/">この記事</a>でも触れました）。&#8221;今時のアメリカ小学生&#8221; は、Yankeesを知らない子がいてもCLGを知らない子はいない、くらいの風潮です。dTやELVもCoDなどのFPSで有名なチームで、このゲームへは諸方面から参戦があることがわかると思います。</p>
@@ -794,7 +816,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 （スマメイト） <a href="http://sumamate.com/">http://sumamate.com/</a></p>
 
 <p>利用人数を調べようと、プレイヤー検索で「」（空白）を入れました。すると、↓<br/>
-<img src="/index.html/images/Sumamate_numbers.png" alt="&quot;ウメブラの配信方法 : XsplitでTwitchへ生配信&quot;" /> <br/>
+<img src="/archives/index.html/images/Sumamate_numbers.png" alt="&quot;ウメブラの配信方法 : XsplitでTwitchへ生配信&quot;" /> <br/>
 13600 &hellip;?? 一ユーザーには真実を確認する術が無いのですが、ユーザーが13000名ほどいるようです。ユーザ主導のサービスが1万以上の競技者を獲得しているのは、タダ事ではありません。上位100名（約3ヶ月毎に更新がある）は「プレイヤーランキング」で表示されるため、上位勢はほっといても名が知れることになります。<br/>
 この上位勢の名前を、動画サイトで検索することで、プレイヤーは動きをまじまじと見ることが出来ます。世界が広がっていく訳です。</p>
 
@@ -826,7 +848,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">アメリカスマブラ大会『SSC16』<br>WiiU個人戦結果<br>優勝：Nairo<br>2位：Dabuz<br>3位：Mr.R<br>4位：VoiD<br>5位：ScAtt<br>5位：Ally<br>7位：Fatality<br>7位：あばだんご<br>参加1272名<a href="https://t.co/PrslXfCZPC">https://t.co/PrslXfCZPC</a><a href="https://twitter.com/hashtag/%E6%A0%BC%E3%82%B2%E3%83%BC%E5%A4%A7%E4%BC%9A%E7%B5%90%E6%9E%9C?src=hash">#格ゲー大会結果</a></p>&mdash; 格ゲーチェッカー (@kakuge_checker) <a href="https://twitter.com/kakuge_checker/status/765077326321160192">August 15, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <h3>導入としてのオンライン、究めとしてのオンライン</h3>
@@ -844,7 +866,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Takera&#39;s House Tournament 20160811<br>配信：<a href="https://t.co/1wQgcSr0Wo">https://t.co/1wQgcSr0Wo</a><br>トナメ：<a href="https://t.co/cD8qi2PYxw">https://t.co/cD8qi2PYxw</a> <a href="https://t.co/9wEmTnWIjZ">pic.twitter.com/9wEmTnWIjZ</a></p>&mdash; takera (@takeraketa) <a href="https://twitter.com/takeraketa/status/763653326395236352">August 11, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p><a href="https://twitter.com/takera_taku"><a href="https://twitter.com/takera_taku">https://twitter.com/takera_taku</a></a></p>
@@ -863,7 +885,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ウメブラ24仲いいみんなが結果残しまくって嬉しかった！熱い試合をありがと！ <a href="https://t.co/0fBBD5oP0a">pic.twitter.com/0fBBD5oP0a</a></p>&mdash; だいのすけ/Monkey (@Daidai211ssb) <a href="https://twitter.com/Daidai211ssb/status/757483383454699520">July 25, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>特に（自分が関わっているので詳細が書けるのですが）「ウメブラ」では、世界で活躍するプレイヤーを輩出することを意識した大会が行われています。元々はRainさんが主催していた時代、 &ldquo;海外式！2本先取！ダブルエリミ！&rdquo; の遺伝子が生まれました。これを継いで関東のスマブラシーンでは、海外式ルール, 生配信, challonge を早くから導入しています。<br/>
@@ -884,7 +906,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">対戦ルールはタイムストック制7分、アイテムなし、キャラ自由のタイマンとなっています！詳しいルールが知りたい方はリプやDMをとばして頂ければルール詳細を送りますのでお気軽にどうぞ(^O^)<br> <a href="https://twitter.com/hashtag/yagamisai?src=hash">#yagamisai</a></p>&mdash; 17th矢上祭スマブラWiiU大会公式 (@yf_17thsumabura) <a href="https://twitter.com/yf_17thsumabura/status/764966134860750848">August 14, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p></p>
@@ -894,7 +916,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">本日のトーナメント表です！<a href="https://t.co/yIyA0uKa8B">https://t.co/yIyA0uKa8B</a></p>&mdash; 理科大スマサー (@ssb4tus) <a href="https://twitter.com/ssb4tus/status/746882777782444032">June 26, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>TUS に関しては、文化祭でなくとも大会していますね&hellip;。通例の活動（部活）もあり、他大学のプレイヤーも参加しています。</p>
@@ -910,7 +932,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">来週は、遂にウメブラS.A.T.です！<br>年に一度のアニバーサリートーナメント。Nairo, Dabuz, Mr.R も参戦します。<a href="https://t.co/bpB3UT3yUD">https://t.co/bpB3UT3yUD</a> <a href="https://t.co/Lc14sUCMaE">pic.twitter.com/Lc14sUCMaE</a></p>&mdash; SHI-G (@SHI_Gaming) <a href="https://twitter.com/SHI_Gaming/status/764825672661340160">August 14, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p></p>
@@ -928,9 +950,9 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
   
   <entry>
     <title type="html"><![CDATA[ウメブラの配信方法 : XsplitでTwitchへ生配信]]></title>
-    <link href="/index.html/blog/2016/06/30/"/>
+    <link href="/archives/index.html/blog/2016/06/30/"/>
     <updated>2016-06-30T22:00:28+09:00</updated>
-    <id>/index.html/blog/2016/06/</id>
+    <id>/archives/index.html/blog/2016/06/</id>
     <content type="html"><![CDATA[<p>2016年5月現在、ウメブラのTwitch配信方法です。今の自分の現知識を裂き出したモノです。資する所があればと存じます。<br/>
 特に、Xsplitを用いたTwitchでの配信に注力して記しています。長いですが、情報を詰め込みました。今まで配信でお困りの点が有る方は、お手数ですが読まれてのち、更に不明点をツイッター <a href="https://twitter.com/ayuha167">@ayuha167</a> に下さればと思います。</p>
 
@@ -957,7 +979,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 
 <h2>0.2 配線</h2>
 
-<p><img src="/index.html/images/Blog20160630.001.jpg" alt="&quot;ウメブラの配信方法 : XsplitでTwitchへ生配信&quot;" /></p>
+<p><img src="/archives/index.html/images/Blog20160630.001.jpg" alt="&quot;ウメブラの配信方法 : XsplitでTwitchへ生配信&quot;" /></p>
 
 <p>こんな風になっています。<br/>
 オーディオミキサーは時間限定で用い、ビデオミキサーに繋いでいます。ビデオミキサーのHDMI出力をキャプチャしてUSB3.0形式でデスクトップPCに入れている訳です。ビデオミキサー周りはウメブラスタッフの勘左衛門さんが行っています。ありがとうございます！<br/>
@@ -973,13 +995,13 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <h3>1.0 ステージ画質</h3>
 
 <p>まずは、「ステージ画質」<br/>
-<img src="/index.html/images/Xsplit1.png" alt="&quot;ウメブラの配信方法 : XsplitでTwitchへ生配信&quot;" /><br/>
+<img src="/archives/index.html/images/Xsplit1.png" alt="&quot;ウメブラの配信方法 : XsplitでTwitchへ生配信&quot;" /><br/>
 （図1）</p>
 
 <p>&hellip;（図１）Xsplitウィンドウの右上にあるヤツですね。ここは何も考えずに1280x720px（720p）・60fps に設定します。本当に黙って従って下さい。1.3 で理由は説明します。パソコンのCPU次第では、Xsplitが「60fpsは無理です」と語って来ます。そんな時は30fpsにしましょう。</p>
 
 <p>一番気にして欲しいのは、チャンネルの「設定」。これで、画質が決まります。<br/>
-<img src="/index.html/images/Xsplit5.png" alt="&quot;ウメブラの配信方法 : XsplitでTwitchへ生配信&quot;" />
+<img src="/archives/index.html/images/Xsplit5.png" alt="&quot;ウメブラの配信方法 : XsplitでTwitchへ生配信&quot;" />
 （図2）<br/>
 ＜チャンネル名の右歯車をクリックすると、「設定」に入れます＞</p>
 
@@ -987,7 +1009,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 
 <p>チャンネル設定に入りましたでしょうか？（図2）から（図3）へ。最初の列【ビデオのエンコード】は、画質を決めます。エンコードの【Codec】（方式）は以下から選べます。</p>
 
-<p><img src="/index.html/images/Xsplit2.png" alt="&quot;ウメブラの配信方法 : XsplitでTwitchへ生配信&quot;" />
+<p><img src="/archives/index.html/images/Xsplit2.png" alt="&quot;ウメブラの配信方法 : XsplitでTwitchへ生配信&quot;" />
 （図3）</p>
 
 <ul>
@@ -1000,12 +1022,12 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <p>ウメブラでは、x264を選んでいます。</p>
 
 <p>更に次へ。【Bitrate】は少し方向の違う話なので後にいたします。続いて【モード】を見ます。「TwitchではCBRが推奨されています」とXsplitの警告にも出るので、CBRを選択します。そして一番重要なのがこの次。「CBR」の右下にある歯車を押して、詳細を開きます。<br/>
-<img src="/index.html/images/Xsplit3.png" alt="&quot;ウメブラの配信方法 : XsplitでTwitchへ生配信&quot;" />
+<img src="/archives/index.html/images/Xsplit3.png" alt="&quot;ウメブラの配信方法 : XsplitでTwitchへ生配信&quot;" />
 （図4）</p>
 
 <p>【Video Encoding Setup】が開かれる（図4）ので、【Encoder Preset】をいじります。デフォルトは&#8221;veryfast&#8221;になっていますが、下にさげるほど画質は上がります。&#8221;ultrafast&#8221; が最悪画質, &ldquo;slow&rdquo; が最高画質となります。以下（図5）を参照。</p>
 
-<p><img src="/index.html/images/Xsplit4.png" alt="&quot;ウメブラの配信方法 : XsplitでTwitchへ生配信&quot;" />
+<p><img src="/archives/index.html/images/Xsplit4.png" alt="&quot;ウメブラの配信方法 : XsplitでTwitchへ生配信&quot;" />
 （図5）</p>
 
 <h3>1.2 高品質なら何でもいいのかというと</h3>
@@ -1047,7 +1069,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <h3>1.5 オーディオ</h3>
 
 <p>オーディオ（音声）設定は、デフォルトのままで大丈夫です。追加機能として、Xsplit の中で一度音声を確認することが可能です。<br/>
-<img src="/index.html/images/Xsplit6.png" alt="&quot;ウメブラの配信方法 : XsplitでTwitchへ生配信&quot;" />
+<img src="/archives/index.html/images/Xsplit6.png" alt="&quot;ウメブラの配信方法 : XsplitでTwitchへ生配信&quot;" />
 （図6）</p>
 
 <p>↑上記（図6）の【Audio Preview】を設定すれば、設定したところに、配信で出るサウンドが流れます。イヤホンに流してチェックするのがオススメです。</p>
@@ -1102,9 +1124,9 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
   
   <entry>
     <title type="html"><![CDATA[実績あるゲーマーがプロゲーマーになるためにすべきこと]]></title>
-    <link href="/index.html/blog/2016/05/17/"/>
+    <link href="/archives/index.html/blog/2016/05/17/"/>
     <updated>2016-05-17T14:45:28+09:00</updated>
-    <id>/index.html/blog/2016/05/</id>
+    <id>/archives/index.html/blog/2016/05/</id>
     <content type="html"><![CDATA[<p>歴戦のゲーマーがその累々たる実績をひっさげて、寝かせておけば芽が出てプロゲーマーになる訳ではありません。天下無双の英雄であればそうかもしれませんが、ゲーマー誰もが英雄ではありません。そこで、英雄でない人はどうアクションを取れば良いのでしょうか。<br/>
 最近は「eSports業界」に仕事として飛び込むことに興味がある人（ライター, 大会運営, 機器メーカー）もいます。そういう方にもあてはまる内容なので、参考にして頂ければと存じます。</p>
 
@@ -1118,13 +1140,13 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you&#39;re a player looking for a sponsor one of the most important things you can do is have a player resume. Accomplishments, social media.</p>&mdash; Gonzalo Barrios (@TSMZeRo) <a href="https://twitter.com/TSMZeRo/status/724345931194347522">April 24, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/TSMZeRo">@TSMZeRo</a> Sponsor matters are similar to finding a job. You wanna take it seriously if you want to be taken seriously.</p>&mdash; Gonzalo Barrios (@TSMZeRo) <a href="https://twitter.com/TSMZeRo/status/724346828704067584">April 24, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>要約「スポンサーに本気で見て欲しいなら、本気で振る舞いなさい。」</p>
@@ -1174,7 +1196,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you want to be successful in eSports you -MUST- create content. A lot of it. Playing &amp; placing is just not enough to &#39;make it&#39;.</p>&mdash; Gonzalo ZeRo Barrios (@TSMZeRo) <a href="https://twitter.com/TSMZeRo/status/768162884484337664">August 23, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p></p>
@@ -1192,9 +1214,9 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
   
   <entry>
     <title type="html"><![CDATA[Twitch API とサービス]]></title>
-    <link href="/index.html/blog/2016/03/27/"/>
+    <link href="/archives/index.html/blog/2016/03/27/"/>
     <updated>2016-03-27T12:40:21+09:00</updated>
-    <id>/index.html/blog/2016/03/</id>
+    <id>/archives/index.html/blog/2016/03/</id>
     <content type="html"><![CDATA[<p>Twitch API は公開されています。デベロッパの方向け&hellip;程には書くスキルがないのですが、紹介いたします。
 <a href="https://github.com/justintv/Twitch-API">https://github.com/justintv/Twitch-API</a></p>
 
@@ -1216,31 +1238,31 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">スマキュレーションにスマブラーのTwitch配信の一括視聴機能を追加しました。<br>「1クリックでチャンネル切替」「マルチウインドウ機能（多窓）」など、スマブラの配信が手軽に見られます。<a href="https://t.co/JwPqMIh4eY">https://t.co/JwPqMIh4eY</a> <a href="https://t.co/NwlIJldQAt">pic.twitter.com/NwlIJldQAt</a></p>&mdash; のちょう (@noticoco) <a href="https://twitter.com/noticoco/status/712640718532059138">March 23, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">機能１「チャンネル切替」<br><br>事前に登録してあるスマブラーの配信状態をチェックでき、１クリックで配信が切り替わります。<br>配信状態は一定間隔で自動更新されるので、リロードの必要はありません。<br>一部海外の有名プレイヤーも追加しています。 <a href="https://t.co/mssmlkQu8X">pic.twitter.com/mssmlkQu8X</a></p>&mdash; のちょう (@noticoco) <a href="https://twitter.com/noticoco/status/712642441635975168">March 23, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">機能２「マルチウインドウ」<br><br>右上の「マルチウインドウに切替」を押すことで、リストに載っているプレイヤーを同時視聴できます。<br>最大３窓まで設定を行えます。リストからドラッグ＆ドロップするだけです。<br>※ＰＣ版のみの機能です <a href="https://t.co/dthxGwctSk">pic.twitter.com/dthxGwctSk</a></p>&mdash; のちょう (@noticoco) <a href="https://twitter.com/noticoco/status/712643110958800896">March 23, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">機能３　「スマートフォン視聴」<br><br>通常はTwitchはアプリをインストールしないと視聴できないのですが、ブラウザからそのまま視聴が行えるようにしました。<br>ただ、一部のiOSでしか確認が取れていないため、観れない場合もあるかも？ <a href="https://t.co/QtUNnT7pQE">pic.twitter.com/QtUNnT7pQE</a></p>&mdash; のちょう (@noticoco) <a href="https://twitter.com/noticoco/status/712644257308213249">March 23, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">スマブラを主に配信される方は追加致します！<br>ニコ生派の方はTwitchも同時に配信すればいいんじゃないかな！<br>とゆうことで、みんなTwitchに登録してね！！！！！（熱いステマ）</p>&mdash; のちょう (@noticoco) <a href="https://twitter.com/noticoco/status/712645564899274752">March 23, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>Twitch は固定URLで永遠に配信が出来るため、HTMLでのウェブサイト埋め込みをはじめ、こんなこと↑まで可能にしています。</p>
@@ -1249,9 +1271,9 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
   
   <entry>
     <title type="html"><![CDATA[Genesis3 旅日記 ブログエントリー]]></title>
-    <link href="/index.html/blog/2016/03/26/"/>
+    <link href="/archives/index.html/blog/2016/03/26/"/>
     <updated>2016-03-26T11:25:43+09:00</updated>
-    <id>/index.html/blog/2016/03/</id>
+    <id>/archives/index.html/blog/2016/03/</id>
     <content type="html"><![CDATA[<p>2016年2月末に公開した &ldquo;Genesis3 旅日記&rdquo; のブログエントリーです。この旅日記はウェブサイト上でしか公開していませんが、履歴のためにブログにもURL載せました。それだけです。<br/>
 <a href="http://ayuha167.web.fc2.com/lian_xinhaguridi/Genesis3_00.html">http://ayuha167.web.fc2.com/lian_xinhaguridi/Genesis3_00.html</a></p>
 
@@ -1274,7 +1296,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 
 <h2>Genesis3旅日記とは</h2>
 
-<p><img src="/index.html/images/RP2_4114-X3.jpg" alt="&quot;Genesis3 旅日記 ブログエントリー&quot;" /> <a href="http://gallery.rmpaul.com/Esports/Genesis-3/Day-3/i-XW2vHcS/A">Robert Paul より</a></p>
+<p><img src="/archives/index.html/images/RP2_4114-X3.jpg" alt="&quot;Genesis3 旅日記 ブログエントリー&quot;" /> <a href="http://gallery.rmpaul.com/Esports/Genesis-3/Day-3/i-XW2vHcS/A">Robert Paul より</a></p>
 
 <p>Genesis3はスマブラのみを扱うゲーム大会としては最大。これに参加した筆者と日本勢の足跡。これが Genesis3 旅日記です。</p>
 ]]></content>
@@ -1282,9 +1304,9 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
   
   <entry>
     <title type="html"><![CDATA[スマブラ世界王者決定戦の魅力]]></title>
-    <link href="/index.html/blog/2016/01/13/title/"/>
+    <link href="/archives/index.html/blog/2016/01/13/title/"/>
     <updated>2016-01-13T00:56:04+09:00</updated>
-    <id>/index.html/blog/2016/01/13/title</id>
+    <id>/archives/index.html/blog/2016/01/13/title</id>
     <content type="html"><![CDATA[<p>2016年1月。新春です。新春といえば、スマブラ勢にとっては世界大会です。今回は、今週末（1月15-17日）に開催される &ldquo;Genesis3&rdquo; に関しての紹介です。他ゲー勢向けに記しました。</p>
 
 <!-- more -->
@@ -1297,7 +1319,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 
 <p>そんなゲーム：スマブラですが、1年に1度、世界中のプレイヤーがアメリカへ集まり、全員がエントリー可能で、3日間で王者を決める祭典があります。昨年までは Apex がその立ち位置でしたが、今年はそれに取って代わり、Genesis という大会がその名誉を戴冠しました。</p>
 
-<p><img src="/index.html/images/Genesis3.png" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /></p>
+<p><img src="/archives/index.html/images/Genesis3.png" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /></p>
 
 <h3>開催概要</h3>
 
@@ -1321,7 +1343,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <p>スマブラの大会は熱量が大きいことで有名です。かの格ゲーマー EG Justin Wong をして &ldquo;The best fighting game scene in my opinion（個人的には最高の対戦ゲームシーン）&rdquo; と言わしめました。<br/>
 (<a href="http://clashtournaments.com/eg-justin-wong-on-smash-its-definitely-the-best-fighting-game-scene-imo/">元記事</a>)</p>
 
-<p><img src="/index.html/images/Apex2015_RMPAUL.png" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /><br/>
+<p><img src="/archives/index.html/images/Apex2015_RMPAUL.png" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /><br/>
 ( Apex2015, Robert Paul 氏の写真ページスクショ : <a href="http://gallery.rmpaul.com/Esports/Apex-2015/">http://gallery.rmpaul.com/Esports/Apex-2015/</a> )</p>
 
 <p>今回スポンサーはまだ正式発表されていません。が、既にNintendo of America が協力することがアナウンスされています。<br/>
@@ -1330,7 +1352,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re proud to announce that Genesis 3 has officially partnered with <a href="https://twitter.com/NintendoAmerica">@NintendoAmerica</a>! &#10;<a href="https://twitter.com/hashtag/G3?src=hash">#G3</a> <a href="https://t.co/XylSsnA7wt">pic.twitter.com/XylSsnA7wt</a></p>&mdash; Genesis 3 (@Genesis_Smash) <a href="https://twitter.com/Genesis_Smash/status/685596956052160512">January 8, 2016</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <h2>プロの存在</h2>
@@ -1345,18 +1367,18 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 
 
 <p>スマブラWiiUにも、綺羅星のごとくスターがいます。<br/>
-<img src="/index.html/images/RP2_9373-X3.jpg" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /><br/>
+<img src="/archives/index.html/images/RP2_9373-X3.jpg" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /><br/>
 (チャンピオンベルトを手にしているのはTSM | ZeRo。CEO 2015 : <a href="http://gallery.rmpaul.com/Esports/CEO-2015/Day-3/i-ZXJhmx5/A">http://gallery.rmpaul.com/Esports/CEO-2015/Day-3/i-ZXJhmx5/A</a>)</p>
 
 <p>ここでまとめて言えるのは、プロゲーミングチームの名門たる名門が、揃い踏みで選手を揃えているのはスマブラぐらいではないか？ということです。</p>
 
-<p><img src="/index.html/images/LoL_NA.png" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /><br/>
+<p><img src="/archives/index.html/images/LoL_NA.png" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /><br/>
 ( <a href="http://lol.gamepedia.com/2015_World_Championship">http://lol.gamepedia.com/2015_World_Championship</a> )</p>
 
 <p>TSM, Cloud9, CLG というチームはLoL (League of Legends) の2015年アメリカ代表です。LoLはアクティブプレイヤーが最大のゲームで、世界では野球・ゴルフよりもプレイ人口が多く (<a href="http://m0bilecenter.org/archives/2167">参考</a>)、そのアメリカ代表というのは如何なるものか推してはかるべきです。いずれのチームも、スマブラ部門のプレイヤーが所属しています。<br/>
 様々なタイトルを持つ Team Liquid, 日本でもウル4 &ldquo;ももち&rdquo; 選手でお馴染みの Evil Geniuses もスマブラプレイヤーに禄を出しています。EGはDOTA2にて賞金8億円を勝ち獲った実績でも話題になりました。DOTA2といえば、2013年王者でありヨーロッパの雄：Alliance もスマブラプレイヤーを持ちます。</p>
 
-<p><img src="/index.html/images/Apex%202015%20-%2020150202%20-%203658-X3.jpg" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /><br/>
+<p><img src="/archives/index.html/images/Apex%202015%20-%2020150202%20-%203658-X3.jpg" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /><br/>
 ( Alliance 所属 Armada 対 Evil Geniuses 所属 PPMD。宿命チームの対決 <a href="http://gallery.rmpaul.com/Esports/Apex-2015/Day-3/i-Zs2scDX/A">http://gallery.rmpaul.com/Esports/Apex-2015/Day-3/i-Zs2scDX/A</a> )  　</p>
 
 <p>このスマブラというゲームを対戦しながらいかに人々が熱狂するか。観戦しながらいかに沸騰するか。文字の向こうからでも、叙事詩を読むように妄想してください。</p>
@@ -1389,14 +1411,14 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <p>となっています。こちらが、東京組の私から見た上位勢ということになります。しかし、まだ伏兵がいますし、それ以外のプレイヤーにも是非上位へ食い込んで欲しいので、ただただ応援しております。</p>
 
 <p>（集合写真などありませぬが、夏にEVO2015へ出場したメンバーが、ベスト8の試合を応援している様子はこちらにあります。またしてもRobert Paul氏の写真です : <a href="http://gallery.rmpaul.com/Esports/Evo-2015/Day-2/i-FLKxzf3/A">http://gallery.rmpaul.com/Esports/Evo-2015/Day-2/i-FLKxzf3/A</a>  ）
-<img src="/index.html/images/RP2_1492-X3-1.jpg" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /></p>
+<img src="/archives/index.html/images/RP2_1492-X3-1.jpg" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /></p>
 
 <p>他に、64部門でも Japan 出場の方々がエントリー画面から見えます。現地でお会いできるでしょうか&hellip;？</p>
 
 <h3>日本でも。</h3>
 
 <p>忘れてはならない。日本でも大会を、有志のコミュニティが開催しているんです。9月には2日間開催で大規模な &ldquo;ウメブラF.A.T.&rdquo; が執り行われました。<br/>
-<img src="/index.html/images/13869fbf.png" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /></p>
+<img src="/archives/index.html/images/13869fbf.png" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /></p>
 
 <iframe width="480" height="270" src="https://www.youtube.com/embed/pKwZtFxsFa0?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
@@ -1404,7 +1426,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%A6%E3%83%A1%E3%83%96%E3%83%A9FAT?src=hash">#ウメブラFAT</a> 集合写真！&#10;上位陣16名が前に。おめでとう！ <a href="http://t.co/Rrlf1E70o0">pic.twitter.com/Rrlf1E70o0</a></p>&mdash; モンストのいずまいん@Game8 (@lsmlne) <a href="https://twitter.com/lsmlne/status/646268957373018116">September 22, 2015</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>
@@ -1429,15 +1451,15 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
   
   <entry>
     <title type="html"><![CDATA[アメリカの攻撃的な価値観]]></title>
-    <link href="/index.html/blog/2016/01/04/title/"/>
+    <link href="/archives/index.html/blog/2016/01/04/title/"/>
     <updated>2016-01-04T21:55:24+09:00</updated>
-    <id>/index.html/blog/2016/01/04/title</id>
+    <id>/archives/index.html/blog/2016/01/04/title</id>
     <content type="html"><![CDATA[<p>今回は、価値観に関する内容です。スマブラの立ち回りの価値観を例に出しながら、なぜ日本とアメリカでこうも見方が違うのか、少し広めに述べたいと思います。</p>
 
 <!-- more -->
 
 
-<p><img src="/index.html/images/10418248_791310420958339_3272219494251054930_n.jpg" alt="&quot;アメリカの攻撃的な価値観&quot;" />
+<p><img src="/archives/index.html/images/10418248_791310420958339_3272219494251054930_n.jpg" alt="&quot;アメリカの攻撃的な価値観&quot;" />
 （Apex2015, 2日目 観衆）</p>
 
 <h2>「アメリカのスマブラはスタイルが違う」</h2>
@@ -1501,7 +1523,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 
 <p>今までも「日本は安定志向、アメリカは攻撃的」という価値観を感じてはいた方が多いと思いますが、それでなんとなく済ませていてはつまらないでしょう。そもそも語彙が違うから、戦法が異なるのです。他の私生活の部分でも、なぜアメリカ人が日本人よりも積極的に攻めていくのか、語彙の面から細かく調べたら色々出てきそうです。</p>
 
-<p><img src="/index.html/images/12079998_914754411947272_2051815085582812208_o.jpg" alt="&quot;アメリカの攻撃的な価値観&quot;" />
+<p><img src="/archives/index.html/images/12079998_914754411947272_2051815085582812208_o.jpg" alt="&quot;アメリカの攻撃的な価値観&quot;" />
 （EVO2015, 最終日 ステージ）</p>
 
 <p>日本でも、ゲーマーがもっと積極的にイベントへ赴く習慣を身につけて、より &ldquo;Hype&rdquo; を作っていって欲しいですね！</p>
@@ -1515,16 +1537,16 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
   
   <entry>
     <title type="html"><![CDATA[スマブラWiiU 2015 最強決定戦 : 第2章 配信する人間たち]]></title>
-    <link href="/index.html/blog/2015/08/19/title/"/>
+    <link href="/archives/index.html/blog/2015/08/19/title/"/>
     <updated>2015-08-19T02:52:11+09:00</updated>
-    <id>/index.html/blog/2015/08/19/title</id>
+    <id>/archives/index.html/blog/2015/08/19/title</id>
     <content type="html"><![CDATA[<p>スマブラって、どんな人がなにを目指してプレイしているの？それをノンスマブラーにも伝えるシリーズ個人ブログです。<br/>
 この &ldquo;第2章&rdquo; は、大会を配信する側の記述です。</p>
 
 <!-- more -->
 
 
-<p><img src="/index.html/images/banner3.png" title="" alt="スマブラWiiU 2015 最強決定戦 : 第2章 配信する人間たち" /></p>
+<p><img src="/archives/index.html/images/banner3.png" title="" alt="スマブラWiiU 2015 最強決定戦 : 第2章 配信する人間たち" /></p>
 
 <p>スマブラの大会が、日本で盛り上がっていることは、<a href="http://ayuha167.github.io/blog/2015/08/15/title/">これまでの記事</a>で見てきました。<br/>
 日本最強決定戦は、もちろん配信があります。様子・結果は動画としてアーカイブされますので、参加される方はどしどし歴史を刻んで下さい。&hellip;ここでは、そんな大会の配信を行っている、SHI-Gという集団を見ていきます。</p>
@@ -1542,7 +1564,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">明日は <a href="https://twitter.com/hashtag/%E3%82%A6%E3%83%A1%E3%83%96%E3%83%A9?src=hash">#ウメブラ</a> 18です！関東では久々のシングルストーナメントですね。夏の修行の成果が、大会で披露されることでしょう。&#10;<a href="http://t.co/CEAUwosLwD">http://t.co/CEAUwosLwD</a> <a href="http://t.co/pvTc9JzNwd">pic.twitter.com/pvTc9JzNwd</a></p>&mdash; SHI-G (@SHI_Gaming) <a href="https://twitter.com/SHI_Gaming/status/629565323247665153">August 7, 2015</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p>
@@ -1551,7 +1573,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <p>また、イメージキャラの しぐれーぬ がおり、ひょこひょこ出現しては画面に花を添えています。（今回のトップ画も同じく。）<br/>
 （しぐれーぬ 発表ページ） <a href="http://shigaming.com/articles/20150619.html">http://shigaming.com/articles/20150619.html</a></p>
 
-<p><img src="/index.html/images/IMG_9829-X3.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第2章 配信する人間たち" /><br/>
+<p><img src="/archives/index.html/images/IMG_9829-X3.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第2章 配信する人間たち" /><br/>
 （Apex2014での一枚。左：SHI-G代表 しみたけ氏）</p>
 
 <p>SHI-Gを作った経緯・志について、代表のしみたけ氏はこう語ります：<br/>
@@ -1560,7 +1582,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <h3>配信クルー??</h3>
 
 <p>配信クルーとは。世界の配信クルーでは、Team Sp00ky（チームスプーキー）が有名でしょう。EVOの配信を行っている組織です。また、スマブラ界ではVGBootCamp（通称 VGBC）が有名です。<br/>
-<img src="/index.html/images/vgbc_logo.png" title="" alt="スマブラWiiU 2015 最強決定戦 : 第2章 配信する人間たち" /> <br/>
+<img src="/archives/index.html/images/vgbc_logo.png" title="" alt="スマブラWiiU 2015 最強決定戦 : 第2章 配信する人間たち" /> <br/>
 彼らは、大会運営では無く、生放送+動画に特化したグループです。大会運営と配信を分化し、其々が各仕事に専念することで各々のパフォーマンスを上昇させます。<br/>
 また、大会と放送は一意に結びつけるのではなく、幾つもの配信ブランドが割拠して大会の配信権を争います。ここには市場競争が生まれます。こうして皆がより良いサービスの提供を目指し、アメリカのe-sports界は進化を続けてきたのです。</p>
 
@@ -1639,16 +1661,16 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
   
   <entry>
     <title type="html"><![CDATA[スマブラWiiU 2015 最強決定戦 : 第1章 ウメブラF.A.T.を創る人間たち]]></title>
-    <link href="/index.html/blog/2015/08/16/title/"/>
+    <link href="/archives/index.html/blog/2015/08/16/title/"/>
     <updated>2015-08-16T07:00:04+09:00</updated>
-    <id>/index.html/blog/2015/08/16/title</id>
+    <id>/archives/index.html/blog/2015/08/16/title</id>
     <content type="html"><![CDATA[<p>スマブラって、どんな人がなにを目指してプレイしているの？それをノンスマブラーにも伝えるシリーズ個人ブログです。<br/>
 この &ldquo;第1章&rdquo; は、大会を創る側の記述です。</p>
 
 <!--more-->
 
 
-<p><img src="/index.html/images/banner2.png" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /></p>
+<p><img src="/archives/index.html/images/banner2.png" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /></p>
 
 <p>(第0章)<a href="http://ayuha167.github.io/blog/2015/08/15/title/">http://ayuha167.github.io/blog/2015/08/15/title/</a></p>
 
@@ -1669,7 +1691,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【ウメブラ for 3DS/WiiU 〜the first anniversary tournament 開催決定】&#10;日程:2015年9月21〜22日&#10;会場:大田区産業プラザPio コンベンションホール&#10;募集人数:両日300人(計600人)予定&#10;種目:シングルス、ダブルス、他予定</p>&mdash; ウメブラ/関東スマブラオフ大会 (@UMBRHP) <a href="https://twitter.com/UMBRHP/status/630884799113072640">August 10, 2015</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p></p>
@@ -1680,7 +1702,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 
 <h2>1. 運営スタッフは語る</h2>
 
-<p><img src="/index.html/images/El_san.png" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /><br/>
+<p><img src="/archives/index.html/images/El_san.png" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /><br/>
 (EVO日本語放送。TOPANGAチャンネル <a href="http://www.twitch.tv/topangatv/">http://www.twitch.tv/topangatv/</a> から。左 : スタッフのエル氏。)</p>
 
 <p>スタッフのエル氏は、ウメブラF.A.T. にあたり、こう述べています :</p>
@@ -1694,15 +1716,15 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 
 <p>日常生活では有り得ない時間(6時台)に起床し、会場へ到着。48台の協賛モニタを箱から出し、ひとつひとつ丁寧に組み立てて行きます。既に朝の時点で、20人ほどのスタッフが勢揃いしています。運搬は主催 : うめき氏の車です。参加者が持ち込んだ同じく48のWiiUをセット。プロジェクタ・配信台も当日朝セットします。</p>
 
-<p><img src="/index.html/images/TXip6TCG9bPF6HuZbdi-4RGTOWpSWutpQyQmjC4Vqf0,Y5ozuSwboma9WH0GSExhyh4WuI7di-lE_CasrTSmpEM.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /><br/>
-<img src="/index.html/images/cZ1Uhgu79x6xCk8H0xjKbCz7IYhR3W0qGj_aIG6hnxg,oatpAoGBY-ABvMM2M-D4uDj8hLQFpwV4gJJmW2xRmio.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /></p>
+<p><img src="/archives/index.html/images/TXip6TCG9bPF6HuZbdi-4RGTOWpSWutpQyQmjC4Vqf0,Y5ozuSwboma9WH0GSExhyh4WuI7di-lE_CasrTSmpEM.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /><br/>
+<img src="/archives/index.html/images/cZ1Uhgu79x6xCk8H0xjKbCz7IYhR3W0qGj_aIG6hnxg,oatpAoGBY-ABvMM2M-D4uDj8hLQFpwV4gJJmW2xRmio.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /></p>
 
 <p>いざ大会が始まればこれもまた大変です。190人エントリーのトーナメントを1日で消化する恐ろしい運営です。予選は全員参加。この190人はちゃんとブロックに割り振られ、各予選テーブルに各々移動してもらっています。16ブロックの総当り。ここは参加者全員が協力して、予選毎に結果記入していきます。</p>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">予選のリーグ戦を各テーブルで進めてて、スタッフが勝敗をまとめつつも参加者が協力的に動いてみんなで助け合って大会を進めてる印象。海外大会と同じ光景なので、海外大会に来ているみたい！ <a href="http://t.co/MmqfmRT0Ka">pic.twitter.com/MmqfmRT0Ka</a></p>&mdash; チョコ(ChocoBlanka) (@chocoblanka) <a href="https://twitter.com/chocoblanka/status/629864104283340801">August 8, 2015</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p></p>
@@ -1713,7 +1735,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 
 <p>予選が終わると、本戦トーナメントです。96名ダブルエリミネーション。本戦へ進出出来なかったプレイヤーも、 &ldquo;Bクラス&rdquo; というシングルエリミのトーナメントへ出場できます。負けが混んでも、まだまだ大会気分を味わえるのです。これら2トーナメントを、パソコン2台でchallongeを用いて進行します。</p>
 
-<p><img src="/index.html/images/cWFO2P0_0yzD51qUT5v9i-3b7yf8T3fOMFEOfBbTdv4,MtAMeTaX0HPOTKIbNTmR_ezHRtDg0kXANkOTmhck3LA.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /> <br/>
+<p><img src="/archives/index.html/images/cWFO2P0_0yzD51qUT5v9i-3b7yf8T3fOMFEOfBbTdv4,MtAMeTaX0HPOTKIbNTmR_ezHRtDg0kXANkOTmhck3LA.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /> <br/>
 （大会本戦前：エル氏が進行の説明をしています。）</p>
 
 <p>エル氏のコメントです：「ウメブラでは、毎回朝一で &ldquo;初来場の方&rdquo; に挙手してもらうのですが、それがいつも2割とかいらっしゃいます。そういう方や、プロゲーマーを含めた強豪プレイヤーが同じルールで勝負をすることになるため、しっかりとしたルールの共有が大事ですねえ。実際にルールに依るトラブルは全然起きないため、プレイヤー間での意思疎通は順調に行っていると思います。」</p>
@@ -1732,7 +1754,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">明日は <a href="https://twitter.com/hashtag/%E3%82%A6%E3%83%A1%E3%83%96%E3%83%A9?src=hash">#ウメブラ</a> 18です！関東では久々のシングルストーナメントですね。夏の修行の成果が、大会で披露されることでしょう。&#10;<a href="http://t.co/CEAUwosLwD">http://t.co/CEAUwosLwD</a> <a href="http://t.co/pvTc9JzNwd">pic.twitter.com/pvTc9JzNwd</a></p>&mdash; SHI-G (@SHI_Gaming) <a href="https://twitter.com/SHI_Gaming/status/629565323247665153">August 7, 2015</a></blockquote>
 
 
-<script async src="/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p></p>
@@ -1743,16 +1765,16 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
   
   <entry>
     <title type="html"><![CDATA[スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所]]></title>
-    <link href="/index.html/blog/2015/08/15/title/"/>
+    <link href="/archives/index.html/blog/2015/08/15/title/"/>
     <updated>2015-08-15T05:09:01+09:00</updated>
-    <id>/index.html/blog/2015/08/15/title</id>
+    <id>/archives/index.html/blog/2015/08/15/title</id>
     <content type="html"><![CDATA[<p>スマブラって、どんな人がなにを目指してプレイしているの？それをノンスマブラーにも伝えるシリーズ個人ブログです。<br/>
 この &ldquo;第0章&rdquo; は、大会の前置きを描きました。</p>
 
 <!--more-->
 
 
-<p><img src="/index.html/images/banner.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /></p>
+<p><img src="/archives/index.html/images/banner.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /></p>
 
 <p>こんにちは、アユハです。<br/>
 「スマブラWiiU日本最強を決める戦い」である &ldquo;ウメブラF.A.T.&rdquo; が、この2015年、9月シルバーウィークに東京で開催されます。<br/>
@@ -1774,7 +1796,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <p>プレイヤーは、ゴロゴロいます。<br/>
 結局、Twitterに在駐しているプレイヤーが多いのではないでしょうか？しかし &ldquo;スマテラ (<a href="http://sns.prtls.jp/smashterra/">http://sns.prtls.jp/smashterra/</a>)&rdquo; というSNSもあります。所によっては普段一緒に練習するメンバーでLINEグループを作っていたりします。月例で東京にて開かれる普段の大会 &ldquo;ウメブラ&rdquo; では、そういった練習グループを大会ウェブサイトでシェアしています (<a href="http://piosuma.blog.jp/archives/14906932.html">http://piosuma.blog.jp/archives/14906932.html</a>) 。</p>
 
-<p><img src="/index.html/images/umbr_logo.png" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /></p>
+<p><img src="/archives/index.html/images/umbr_logo.png" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /></p>
 
 <p>ウメブラにはシードポイントがあります。これは東京の &ldquo;ウメブラ&#8221;全参加者・関西の &#8220;スマバト&rdquo; 上位の情報を元に作成されています。それでもこのシードポイント表には700名が連なっており、大会に来ちゃうようなモチベのあるプレイヤーがこれだけ居ることの証左であります。  <br/>
 ちなみにこの &ldquo;ウメブラ&rdquo; は、190人の申し込み締め切りが30分以内で締め切られるような人気っぷりです。毎月、オフラインの開催だというのに。</p>
@@ -1787,7 +1809,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 
 <p>世界は更に大きくなります。</p>
 
-<p><img src="/index.html/images/Apex2015-20150202-3747-XL.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" />
+<p><img src="/archives/index.html/images/Apex2015-20150202-3747-XL.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" />
 この写真は、スマブラ専用の大会としては世界で最も名誉のある Apex2015にて、スマブラDX優勝の瞬間を捉えたモノです。Fighting Game としては、プレイ人口がウル4 (Ultra Street Fighter 4) に次ぐ スマブラDX/WiiU 。このゲームの覇者が天から賜与されるものは、あらゆる少年からの憧れ・王者としての誇り・そして絶大なる栄誉。</p>
 
 <p>ちなみにこのApex2015は、アメリカの神事 &ldquo;Super Bowl&rdquo; (アメフト優勝決定戦) と日程が被っていました。しかし「ユーザ視聴時間合計」では、Apex が SuperBowl を抜いていました。スマブラDX/WiiU は、格闘ゲームの祭典 EVO2015 にも、正式種目入りしています。スマブラDX の生放送同時視聴人数 (たしか) 「22万人」という数字は、Fighting Game として右に来るものは EVO2015 ウル4 (27万人) しか有りません。加えて、今では TSM, EvilGeniuses, Cloud9, Liquid, Alliance といった名門チームにもスマブラプレイヤーがいます。&hellip;これほどまでに、世界スマブラ界は大きいのです。</p>
@@ -1812,7 +1834,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 
 <p>&hellip;この2012年、日本スマブラ界は栄華を極めました。</p>
 
-<p><img src="/index.html/images/IMG_9240-2662x1775.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /></p>
+<p><img src="/archives/index.html/images/IMG_9240-2662x1775.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /></p>
 
 <p>1月には Apex2012 にてスマブラX勢は快進撃を果たしました。上の写真は本戦 : 勝者側2回戦 Mew2King vs OCEAN です。結果は一目瞭然。そして最終決戦は日本勢同士がぶつかりました。その片方が、今ではプロである、 DtN にえとの 選手です。</p>
 
@@ -1821,10 +1843,10 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <p>スマブラを一旦離れていたプレイヤー達も、この新作で帰郷をキメてきました。業界がまた一気に熱を帯びました。ウメブラ・スマバト といった大会が引き続きユーザの手によって開催され、スキルを磨き続けて来ました。<br/>
 そして舞台は、誰もが知るあの大会 : EVO2015 へ。</p>
 
-<p><img src="/index.html/images/RP2_1492-X3.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /><br/>
+<p><img src="/archives/index.html/images/RP2_1492-X3.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /><br/>
 （EVO2015 : なぜか観客席最前列で応援する日本勢）</p>
 
-<p><img src="/index.html/images/RP2_1532-X3.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /><br/>
+<p><img src="/archives/index.html/images/RP2_1532-X3.jpg" title="" alt="スマブラWiiU 2015 最強決定戦 : 第0章 日本スマブラーの居場所" /><br/>
 (EVO2015 : 日本の Abadango選手が、Apex2015準優勝者アメリカの Dabuz を倒した瞬間)</p>
 
 <p>日本勢は十分な結果を残しましたが、ZeRo という無敗の帝王を撃破できていない所に、日本の全プレイヤーがわだかまりを抱いているでしょう。&hellip;おそらく全世界も。<br/>
@@ -1840,9 +1862,9 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
   
   <entry>
     <title type="html"><![CDATA[私はどこから来たのか、私は何者か、私はどこへ就職するのか]]></title>
-    <link href="/index.html/blog/2015/04/14/title/"/>
+    <link href="/archives/index.html/blog/2015/04/14/title/"/>
     <updated>2015-04-14T03:27:20+09:00</updated>
-    <id>/index.html/blog/2015/04/14/title</id>
+    <id>/archives/index.html/blog/2015/04/14/title</id>
     <content type="html"><![CDATA[<p>就活に関わる内容です。<br/>
 この4月から、大学院を辞めて社会人になりました。人生が予想外な方向に転がりました。長いので、その顛末をここに書きなぐったものを残しておきます。<br/>
 （タイトルは、ゴーギャンの絵からです。ゴーギャンはこれを描いた後に自殺していますが、別に自分はそういう意図は無いです！）</p>
@@ -1874,7 +1896,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 twitchとは、ゲームの生放送専用サービスで、世界のネットトラフィックを4番目に喰っているほどの勢力があります（Netflix,Google,Appleの次、FB,twitterの上）。2014年、amazonに買収されました。どういう企業なのかは下の記事に説明されています。<br/>
 <a href="http://ascii.jp/elem/000/000/928/928147/">http://ascii.jp/elem/000/000/928/928147/</a></p>
 
-<p><img src="/index.html/images/Twitch_BlackLogoURL.png" title="" alt="私はどこから来たのか、私は何者か、私はどこへ就職するのか" /></p>
+<p><img src="/archives/index.html/images/Twitch_BlackLogoURL.png" title="" alt="私はどこから来たのか、私は何者か、私はどこへ就職するのか" /></p>
 
 <p>主に、ゲーマーコミュニティを下から支えるコンセプトの企業です。</p>
 
@@ -1884,7 +1906,7 @@ twitchとは、ゲームの生放送専用サービスで、世界のネット�
 私はtwitchに行くことを決めて、逆に修士は辞めることを決めました。私は twitch 信者で、自分の配信もこのサイトを使っていましたし、自分のいるスマブラ業界からも、最近アメリカでは実況者が twitch にヘッドハントされている話を聴いて嫉妬していました。なにより、自分はどこに応募しても拾われなかったのに対し、ここは私へ声を掛けに来てくれた所に運命を感じました。願ってもいない魅力的なお話でした。<br/>
 「メディア系」という、随分面白い研究ジャンルに恵まれてましたし、研究の背景があってこそゲーマー活動で役立てられる面が多かったのですが、自分の中でe-sports業界の修羅に入る方が魅力的で、迷わずに就職を決めました。</p>
 
-<p><img src="/index.html/images/LJL.jpg" title="" alt="私はどこから来たのか、私は何者か、私はどこへ就職するのか" />
+<p><img src="/archives/index.html/images/LJL.jpg" title="" alt="私はどこから来たのか、私は何者か、私はどこへ就職するのか" />
 (<a href="http://www.negitaku.org/news/19283/">http://www.negitaku.org/news/19283/</a> から)</p>
 
 <p>ゲームはどんどん景色が変わって来ました。例えばプロゲーマー。これはスウェーデンなどのヨーロッパ・韓国・アメリカでは日常的に目にする産業です。日本でもようやく、昨今様々なニュースになってきました（ウメハラさん・DetonatioNさんの住み込み給与制・専門学校 etc）。しかし日本ではゲームプレイヤー業界はまた別の、独特な形をしています。そこをtwitchでどう活かすか、そこが最初に与えられた課題です。</p>
@@ -1901,16 +1923,16 @@ twitchとは、ゲームの生放送専用サービスで、世界のネット�
 
 <p>そして様々なゲーム界で twitch に興味ある方、ぜひお声がけください！</p>
 
-<p><img src="/index.html/images/D1_ayuha.jpg" title="" alt="私はどこから来たのか、私は何者か、私はどこへ就職するのか" /><br/>
+<p><img src="/archives/index.html/images/D1_ayuha.jpg" title="" alt="私はどこから来たのか、私は何者か、私はどこへ就職するのか" /><br/>
 twitter : ayuha167</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[APEX2015へのお誘い]]></title>
-    <link href="/index.html/blog/2014/10/16/title/"/>
+    <link href="/archives/index.html/blog/2014/10/16/title/"/>
     <updated>2014-10-16T17:44:40+09:00</updated>
-    <id>/index.html/blog/2014/10/16/title</id>
+    <id>/archives/index.html/blog/2014/10/16/title</id>
     <content type="html"><![CDATA[<h2>SHIG|アユハと行く、世界最大のスマブライベント</h2>
 
 <p>もっと早くこの記事を書こうと思っていましたが、パソコンMac機を買い替えて、クローン化したらRubyの設定がおかしくなっていて、なかなか書けませんでした。しかし、つい先日生き返ったので書きます。</p>
@@ -1924,7 +1946,7 @@ twitter : ayuha167</p>
 
 <p>APEXとは、スマブラの頂点に位置する大会と言えるでしょう。昨今ではEVOがスマブラを採用していますが、APEXは &ldquo;スマブラがメイン&rdquo;, &ldquo;全種目アリ&#8221;。一方のEVOは &#8220;マルチ種目格ゲー大会&rdquo;, &ldquo;スマブラも一つのみ&rdquo; という違いが有ります。どちらで勝っても &ldquo;最強&rdquo; ですが、とりあえず今は2大巨頭の一方、APEXを御覧ください。</p>
 
-<iframe width="560" height="315" src="/index.html//www.youtube.com/embed/joz976XV7Iw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="/archives/index.html//www.youtube.com/embed/joz976XV7Iw" frameborder="0" allowfullscreen></iframe>
 
 
 <p>これが、APEX2014の、ベスト8くらいの試合での盛り上がりです。映像はこれくらいしか見つかりませんでしたが、大会全体が如何に盛り上がり、決勝までいけば如何に大変なことになるか分かるでしょう！（今回はアメリカ国家斉唱が途中で始まった。）</p>
@@ -1960,7 +1982,7 @@ twitter : ayuha167</p>
 
 <p>今回来た方には、もれなくこんな感じのTシャツをプレゼントします！【暫定案ラフ画】：</p>
 
-<p><img src="/index.html/images/tshirt00.jpg" title="" alt="APEX2015へのお誘い" /></p>
+<p><img src="/archives/index.html/images/tshirt00.jpg" title="" alt="APEX2015へのお誘い" /></p>
 
 <p>（完成品はちゃんとこります）</p>
 
@@ -1982,9 +2004,9 @@ Octopressで画像を貼る方法 : <a href="http://toshikaz55.github.io/blog/bl
   
   <entry>
     <title type="html"><![CDATA[Urban Girl]]></title>
-    <link href="/index.html/blog/2014/02/20/title/"/>
+    <link href="/archives/index.html/blog/2014/02/20/title/"/>
     <updated>2014-02-20T01:11:09+09:00</updated>
-    <id>/index.html/blog/2014/02/20/title</id>
+    <id>/archives/index.html/blog/2014/02/20/title</id>
     <content type="html"><![CDATA[<h2>学科PVの曲</h2>
 
 <p>the Characters の &ldquo;Urban girl&#8221;の歌詞をずっと存じ上げなかったのですが、ついに見つけたのでここに書き残しておきます。<br/>
@@ -2056,81 +2078,6 @@ take or make our love?<br/>
 どこまで飛んで行けそう？<br/>
 I&rsquo;m a Urban girl<br/>
 I&rsquo;m a Urban girl</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[ドキドキプリキュア46話感想　〜兼愛主義]]></title>
-    <link href="/index.html/blog/2014/01/05/title/"/>
-    <updated>2014-01-05T09:05:23+09:00</updated>
-    <id>/index.html/blog/2014/01/05/title</id>
-    <content type="html"><![CDATA[<p>ドキドキプリキュアは、今まで見てきたプリキュア10作品で、一番好きな作品に位置づけている。
-理由は様々だが、特に終盤を迎えた46話で、大演出があったため、そのことについて論じたい。</p>
-
-<!--more-->
-
-
-<h2>ドキプリ設定</h2>
-
-<p>　ドキドキプリキュアは、その名の通り（少し回りくどいが）、愛のプリキュアである。</p>
-
-<p>　これまで1年間、様々な形の愛を描写してきた。友情・家族をはじめ、離れた家族・養子、いがみ合う幼なじみ、ライバルなど。劇場版では、過去の愛について扱った。<br/>
-さて、その上で、敵役となる奴等は、今回は「自己中」がモチーフになっている。一般人が自己中心的な心を発芽させたところを元のエネルギーとし、魔獣を召喚する。それをプリキュアが、愛の力で倒す、という構造になっている。<br/>
-とても分かり易い構図であり、いままで何故に「愛」と「自己中」の対立を描かなかったのかが不思議なくらいである。</p>
-
-<p>　登場人物も面白い。この「愛」で戦う強さにふさわしい器を持った面々になっている。</p>
-
-<ul>
-<li>マナ：運動神経抜群、愛にあふれるお人好し系、完璧少女。</li>
-<li>りっか：学力抜群、超しっかり者。マナの幼なじみ。母は医者。</li>
-<li>ありす：大規模財閥の娘。執事がいつも付いている。格闘技やら様々な技術に秀でる。</li>
-<li>まこぴー：アイドル。もとはトランプ王国から人間界に落ち延びたプリキュア。</li>
-<li>あぐりちゃん：ロリ。でも口調が大人。変身すると更に大人。あとから参入した。</li>
-</ul>
-
-
-<p>という図である。</p>
-
-<h3>ドキプリあらすじ</h3>
-
-<p>　物語は、時系列順では、上記の「トランプ王国」の崩壊から始まる。人間界とは異なる時空にある平和な世界であり、国王・アン王女を中枢に置き、守護者としてプリキュアを構え、万全な毎日が続いていた。しかしある日、ジコチューという名の組織が奇襲をかけ、王国は滅ぶ。ジコチューの首領はキングジコチューといい（分かり易い）、体長が&hellip;200mくらいはあるんじゃないかな？<br/>
-この戦いにより、王国は崩れ、アン王女は行方不明になり、最後のプリキュア；キュアソード（まこぴー）だけを人間界に送り、希望を託すことにした。ジコチュー側は、首領キングジコチューを石化されるという痛手を被った。</p>
-
-<p>　ジコチューという悪役たちは、その後人間界にも侵攻をはじめる。人間達からジャネジーを搾取するためである。このジャネジーを貯めると、キングジコチューの封印を解くことが出来る。この戦いの中、人間界で4人のプリキュアが目覚め、ベテランのまこぴーも加えて、5人のドキドキプリキュアが、トランプ王国再興のために立ち上がる。</p>
-
-<p>　戦いが進むと同時に、プリキュア達は友情を深め、レディとしての作法を身につけ、新たな愛の形も知り、たくましく成長していく。ここらの繊細な描写は、ぜひプリキュア本編を見て堪能して欲しい。しかし、ストーリーから切り離せない要素はやはり、あぐりvsレジーナの構図である。</p>
-
-<p>　敵組織ジコチューの首領キングジコチュー、の娘：レジーナはとてもかわいい。しかしおてんばで自己中な面が強い。一度、主人公マナとの友情を深めてしまい、クリスマスには「好きよ」と宣言する百合告白回さえあったが、レジーナは自分の意志で父のために戦うことを決意する。一方、ことある毎にレジーナと対立するのがあぐりちゃん；キュアエースである。あぐり・レジーナの二人は姿もよく似ており、こいつらは何者なのか、議論が8月頃から5ヶ月ほど為されてきた。</p>
-
-<h2>46話で何が起きたか</h2>
-
-<p>　本日、ドキプリ46話では、遂にあぐり・レジーナの謎が明かされた。ふたりは元々一つの存在であったのだ。しかも、その元というのが、トランプ王国のアン王女だったのである。</p>
-
-<p>　&hellip;いきさつはこう。トランプ王国は栄華を極めていたが、ある国王の時、王女が生まれると同時に妃は亡くなった。妃と引き替えに生まれた姫こそが、アン王女であり、すくすくと理想のレディに育った。しかしアン王女も、謎の病におかされ、治療は不可能となった。これを嘆いた国王は、禁忌に手を出し、ようやく娘のアン王女を助ける。しかしその禁忌は、国に暗雲を立ちこめさせ、悪い組織「ジコチュー」を王国に解き放ってしまった。即ち、国王は人の上に立つ者でありながら、私情で娘を助け、国家に災いをもたらしてしまったのである。</p>
-
-<p>　そのこころの弱さが昇華され、国王はキングジコチューへと化けてしまった。キングジコチューは、なんと、娘であるアン王女の手によって自ら「封印」される。ただし、「封印」であり、トドメが差せなかった。王国が滅びた際、ジコチューの幹部にアン王女は捕らえられ詰問される。<br/>
-「あなたは王族であるなら、民を思ってキングジコチュー様を殺すべきだったが、私情に負けてトドメが差せなかった。なんとも自己中心的ではないか？」<br/>
-と。</p>
-
-<p>　そこでアン王女は思い詰まり、「父を想う自己中な自分」と「民を思う王族の自分」とで魂を二分し、解き放った。自らの魂は消滅し、新たに二つの魂を世に放った。片方がジコチューのレジーナとなり、もう一方があぐりちゃんとなってプリキュアとして君臨した。</p>
-
-<p>　これが、私が感動した大体の筋道である。はっきり言って、本編見ないと真意は伝わりません。</p>
-
-<h2>これを見て何を思ったか</h2>
-
-<p>　
-　ここで「親愛」と「博愛」は対立するものなのだ、ということを実感させられた。プリキュアという作品で、毎週教訓をハサミながら、主人公らの成長を描きつつ、この対立を描いた今年のスタッフは、本当に素晴らしいと思う。</p>
-
-<p>　この思想から、私が思い出すのは墨子である。どうせ漢文ですよ。<br/>
-「墨子」とは、紀元前400年くらいの中国思想家である。儒学を批判した人で、当時は儒家・墨家の学問が天下の2大ブームであったという。墨子は、儒学は「君主・家臣」「親兄弟」のみをうやまう「偏愛」である学問であり、これは内輪を重んじ、他人との争いに口実を与える学問であると非難した。墨子自体の論は、「兼愛」を尊び、誰でも構わず同様に愛することをうたっている。チャップリンの『独裁者』で「人を殺した者は罰せられるが、戦争で殺せば英雄になる」という主旨の言葉が登場するが、同じ言葉が墨子に現れるということが現代のうたい文句。</p>
-
-<p>　歴史上、儒家が世間を席巻した訳であり、江戸時代などはまさに武士の時代であったし、中国では清代まで儒学をベースとした試験；科挙が実施されていたし、現代日本でも儒学をベースにした考え方・習慣は大量に残っている。
-しかし、それは「偏愛」の勝利を意味するわけではないし、「兼愛」を否定するものでは断じてない。</p>
-
-<p>　アン王女は、「私情ではあるが肉親を重んじる愛」「誰をも広く思う愛」の葛藤に結論を見出せず、この結論をレジーナvsあぐりに委ねた。国王は、「私情」を取った結果、キングジコチューとなった。どちらかが倒れるまで結論は出ないのかも知れないが、プリキュアスタッフはこれをどう結論づけるのかが楽しみでしょうがない。
-今までも、プリキュア５・スイートなどでアウフヘーベンを起こした結末を用意してくれたプリキュア。毎年この時期は、プリキュアが訴える強烈なテーマに情念が打たれ、日常がそわそわしてしまう。1月末、戦いの結末を見るまではいかなる議論もここでは無意味だが、本当に楽しみでしょうがない。</p>
-
-<p>　これからもプリキュアを応援しています！</p>
 ]]></content>
   </entry>
   
