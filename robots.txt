@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://ayuha167.github.io/sitemap.xml 
+Sitemap: /index.html/sitemap.xml 
