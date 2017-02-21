@@ -4,7 +4,7 @@
   <title><![CDATA[恋心は超グリーディ]]></title>
   <link href="/archives/index.html/atom.xml" rel="self"/>
   <link href="/archives/index.html/"/>
-  <updated>2017-02-22T01:31:04+09:00</updated>
+  <updated>2017-02-22T01:33:05+09:00</updated>
   <id>/archives/index.html/</id>
   <author>
     <name><![CDATA[アユハ/Ayuha]]></name>
@@ -769,9 +769,10 @@ Add New Source をクリックしてください。次に iOS Camera を選択�
 
 <p>を入力して、それ以外は放置でお願いします。</p>
 
-<p>URLにあるアドレスは、Twitch のIngest Server です。こちらから世界のモノを一覧できます。<a href="https://bashtech.net/twitch/ingest.php  ">https://bashtech.net/twitch/ingest.php  </a>
-また、配信キーは、<br/>
-<a href="https://www.twitch.tv/">https://www.twitch.tv/</a>(自分のアカウント名)/dashboard/streamkey<br/>
+<p>URLにあるアドレスは、Twitch のIngest Server です。こちらから世界のモノを一覧できます。<a href="https://bashtech.net/twitch/ingest.php">https://bashtech.net/twitch/ingest.php</a></p>
+
+<p>また、配信キーは、<br/>
+ <a href="https://www.twitch.tv/">https://www.twitch.tv/</a>(自分のアカウント名)/dashboard/streamkey<br/>
 から取得できます。</p>
 
 <p>お手数おかけしますが、この形式でお願いします。</p>
