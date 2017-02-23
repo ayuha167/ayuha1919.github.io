@@ -4,7 +4,7 @@
   <title><![CDATA[恋心は超グリーディ]]></title>
   <link href="/archives/index.html/atom.xml" rel="self"/>
   <link href="/archives/index.html/"/>
-  <updated>2017-02-24T02:02:03+09:00</updated>
+  <updated>2017-02-24T02:19:28+09:00</updated>
   <id>/archives/index.html/</id>
   <author>
     <name><![CDATA[アユハ/Ayuha]]></name>
@@ -18,7 +18,7 @@
     <link href="/archives/index.html/blog/2017/02/23/"/>
     <updated>2017-02-23T18:14:50+09:00</updated>
     <id>/archives/index.html/blog/2017/02/</id>
-    <content type="html"><![CDATA[<p>「Twitchで配信したいけれど、簡単でいいからPCで最低限のセッティングをしたい！」&hellip;という方のために書きました。Twitch 本社の @theGunrun の指導を和訳しました。網羅性と妥当性があると思いますが、疑問がありましたらツイッターで @ayuha167 へ。</p>
+    <content type="html"><![CDATA[<p>「Twitchで配信したいけれど、簡単でいいからPCで最低限のセッティングをしたい！」&hellip;という方のために書きました。Twitch 本社の @theGunrun の指導を和訳しました。網羅性と妥当性があると思いますが、疑問がありましたらツイッターで <a href="https://twitter.com/ayuha167">@ayuha167</a> へ。</p>
 
 <!-- more -->
 
@@ -113,7 +113,7 @@
 <li> 「FPS共通値」は30へ。CPUに余裕があれば60にしましょう。（ここが映像の標本値；いかにヌルヌル動くかです）</li>
 </ol>
 </li>
-<li><p>「配信」ではこのように：<a href="http://ayuha167.github.io/images/OBS_05.png">http://ayuha167.github.io/images/OBS_05.png</a></p>
+<li>「配信」ではこのように：<a href="http://ayuha167.github.io/images/OBS_05.png">http://ayuha167.github.io/images/OBS_05.png</a>
 
 <ol>
 <li> 「サービス」は Twitch</li>
@@ -124,13 +124,18 @@
 <li>ご自身のチャンネルのストリームキーは固有のものです。Twitchのダッシュボードから開けます : <a href="https://www.twitch.tv/broadcast/dashboard">https://www.twitch.tv/broadcast/dashboard</a></li>
 <li>タブにある「配信キー」をクリック。</li>
 <li>「キーを表示」をクリック</li>
-<li>OBSへコピペします
-<img src="/archives/index.html/images/OBS_06.png" alt="&quot;代替メッセージ&quot;" /></li>
+<li>OBSへコピペします</li>
 </ul>
 </li>
 </ol>
 </li>
-<li><p>ウィンドウ右下の「OK」を押して完成。</p></li>
+</ul>
+
+
+<p><img src="/archives/index.html/images/OBS_06.png" alt="&quot;代替メッセージ&quot;" /></p>
+
+<ul>
+<li>ウィンドウ右下の「OK」を押して完成。</li>
 </ul>
 
 
