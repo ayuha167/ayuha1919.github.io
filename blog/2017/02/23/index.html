@@ -179,26 +179,78 @@
 </li>
 </ol>
 </li>
-<li>「映像」ではこのように：
+<li>「映像」ではこのように：<a href="http://ayuha167.github.io/images/OBS_04.png">http://ayuha167.github.io/images/OBS_04.png</a>
 
 <ol>
 <li> 「基本解像度」「出力解像度」は共に 1280×720 へ。（ここが画質です）</li>
-<li> 「FPS共通値」は60へ **（ここが映像の標本値；いかにヌルヌル動くかです）</li>
+<li> 「FPS共通値」は30へ。CPUに余裕があれば60にしましょう。（ここが映像の標本値；いかにヌルヌル動くかです）</li>
 </ol>
 </li>
-<li>「配信」ではこのように：
+<li><p>「配信」ではこのように：<a href="http://ayuha167.github.io/images/OBS_05.png">http://ayuha167.github.io/images/OBS_05.png</a></p>
 
 <ol>
 <li> 「サービス」は Twitch</li>
 <li> 「サーバー」はお近くのモノを。多分 Tokyo や Taipei です。</li>
 <li> 「ストリームキー」を入力！
-<img src="/images/OBS_06.png" alt="&quot;代替メッセージ&quot;" />
 
 <ul>
 <li>ご自身のチャンネルのストリームキーは固有のものです。Twitchのダッシュボードから開けます : <a href="https://www.twitch.tv/broadcast/dashboard">https://www.twitch.tv/broadcast/dashboard</a></li>
 <li>タブにある「配信キー」をクリック。</li>
 <li>「キーを表示」をクリック</li>
-<li>OBSへコピペします</li>
+<li>OBSへコピペします
+<img src="/images/OBS_06.png" alt="&quot;代替メッセージ&quot;" /></li>
+</ul>
+</li>
+</ol>
+</li>
+<li><p>ウィンドウ右下の「OK」を押して完成。</p></li>
+</ul>
+
+
+<h2>6. ソースを追加</h2>
+
+<ul>
+<li>「+」を押して映像にソースを追加しましょう。（ソースについては 4. にて）: <a href="http://ayuha167.github.io/images/OBS_07.png">http://ayuha167.github.io/images/OBS_07.png</a>
+
+<ol>
+<li> ウェブカメを使いたい場合は「映像キャプチャデバイス」を選択。
+
+<ul>
+<li>名前を付けて（デフォルトで良い）、OKを選択</li>
+<li>「デバイス」のプルダウンバーから、使用するウェブカメを選択。</li>
+<li>選択したら直ぐに映像がうつるはずです。大丈夫でしたら「OK」を押して確定。</li>
+</ul>
+</li>
+<li> 他のビデオカメラやデジタル一眼レフを使いたい場合は、キャプチャデバイスが必要です。
+
+<ul>
+<li>たとえばMagewellのコレ:<a href="https://www.amazon.co.jp/Magewell-USB-Capture-HDMI-HDMI%EF%BC%88%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E6%AD%A3%E8%A6%8F%E8%B2%A9%E5%A3%B2%E5%93%81%EF%BC%89/dp/B0100YYFYW/ref=aag_m_pw_dp?ie=UTF8&m=A3T689SHUZH3BR">Amazonリンク</a> !</li>
+<li><a href="https://www18.atwiki.jp/live2ch/pages/29.html">VIPで初心者がゲーム実況するには</a>下段の「商品の選択に迷ったら」にもキャプチャデバイス製品が一杯紹介されていますが、お使いのMac/Windowsで動くかは製品のウェブサイトからしっかり確認して買うこと。</li>
+<li>パソコンに接続。カメラからはHDMIでキャプチャデバイスへ。キャプチャデバイスからはUSBでパソコンに入ります。ウェブカメと同様に設定出来ます。上のMagewellですと「デバイス」プルダウンバーには「XI100DUSB」という名前で出てきます。</li>
+</ul>
+</li>
+<li> コンソールゲーム/スマホ を入力するには、上と同様にキャプチャデバイスを用います。
+
+<ul>
+<li>WiiUやPS4（たぶんいずれはSwitch）をパソコンに取り込むには、HDMIをキャプチャするデバイスが必要です。スマホからもHDMI出力してキャプチャします。</li>
+<li>たとえば、<a href="https://www18.atwiki.jp/live2ch/pages/29.html">VIPで初心者がゲーム実況するには</a>に詳細があります。</li>
+</ul>
+</li>
+<li> スクリーンキャプチャするには、ソースにて「画面キャプチャ」を選択。
+
+<ul>
+<li>名前を付けて（デフォルトで良い）、OKを選択。</li>
+<li>マルチディスプレイで行っている人は「ディスプレイ」から番号を選べます。</li>
+<li>OBSのプレビューにデスクトップキャプチャ画面が映っているはずです。PCゲームはこれで取り込めます。</li>
+</ul>
+</li>
+<li> 静止画を入れるならばソースにて「画像」を選択。
+
+<ul>
+<li>名前を付けて（デフォルトで良い）、OKを選択。</li>
+<li>「参照」から画像を選択。PNGファイルの透過は使えます。</li>
+<li>透過ファイルで、最前面に配置して飾るモノをオーバーレイと呼びます。これを活用すれば、以下のように独自のブランディングが可能です。
+<img src="/images/OBS_08.png" alt="&quot;代替メッセージ&quot;" /></li>
 </ul>
 </li>
 </ol>
@@ -206,23 +258,70 @@
 </ul>
 
 
-<p>Click on “Download OBS Studio” from this page &ndash; <a href="https://obsproject.com/">https://obsproject.com/</a>
-Select your Operating System and the file will begin to download
-Open the downloaded file
-On mac, launch the .dmg file, then launch the .pkg file inside, and follow the install steps
-On PC, open the .exe file and follow the install steps
-Once installed open OBS
-Understanding OBS
-The Preview
-The black space that covers most of the OBS screen is your preview, everything in this space will be what your audience sees on Twitch.
-Sources
-Sources are the items you can add to your preview
-Some examples of sources are (but not limited to): webcams, video files, images, parts of your computer screen.
-Audio
-All audio inputs are shown under Mixer in the bottom middle of OBS
-You can add or remove audio inputs from Settings > Audio
-On windows the default inputs are your desktop output and your default microphone
-On mac it’s just your onboard microphone, unless you have another installed as your default</p>
+<h2>7. ソースの編集</h2>
+
+<ul>
+<li>ソースに加えた素材は、端っこをドラッグしてサイズを変更できます。</li>
+<li>altキーを押したままドラッグすると、クロッピング（切り取り）が可能です。画面比率が異なったり・オーバーレイを用いていたりする場合に、映像を特定のサイズにはめ込まないといけないときは便利です。</li>
+</ul>
+
+
+<h2>8. 複数シーンの活用</h2>
+
+<ul>
+<li>ソースの左横に「シーン」とあるのがお分かりですか？「シーン」はソースの設定を複数保存できるブックマークのようなものです。例えば、配信開始時は「もうすぐ開幕」というフタ絵を表示して、時間が来たらカメラ映像に切り替えたい時、このシーンを活用します。</li>
+<li>シーンの追加
+
+<ol>
+<li> シーンを追加する方法は、ソースに入力を追加する方法と同様です。「+」を押して、名前をつけて追加しましょう。（「ゲーム画面」「待機画面」など分かる名前が良いです。）</li>
+</ol>
+</li>
+<li>シーンの変更
+
+<ol>
+<li> 違うシーンをクリックすれば替わります。プレビューに反映されます。</li>
+</ol>
+</li>
+<li>シーンの編集
+
+<ol>
+<li> 右にある「スタジオモード」ボタンを押すと、2画面に切り替わります。たとえ生放送中であっても、左画面を編集すれば視聴者側に反映されることなくシーンを編集できます。「トランジッション」を押して反映です。</li>
+</ol>
+</li>
+</ul>
+
+
+<h2>9. Q&amp;A</h2>
+
+<ul>
+<li>生放送開始/終了は？
+
+<ol>
+<li> 「配信開始」を押すとスタートします。開始するとこのボタンが「配信終了」に変化します。終了するにはココを押して下さい。</li>
+</ol>
+</li>
+<li>フレームドロップが起きたり、チャットでカクカクしてるって言われたらどうしますか？
+
+<ol>
+<li> ビットレートを下げましょう。3500kbpsから下へ。フレームドロップが無くなるまで下げましょう。下げるほど画質も下がりますが。</li>
+<li> ビットレートを下げても上手くいかない場合は、サーバーを変更すると解決することが有ります。ISP（プロバイダ）の帯域だけで簡単に解決しない問題である場合もあります。</li>
+<li> CPU使用率も疑って下さい。CPU使用率が60%を超えていると、エラーが無くともカクつく場合があります。その場合は「設定」を開いて「映像」からFPSを30に替えたり、処理を軽くするようにしてください。</li>
+</ol>
+</li>
+<li>配信アーカイブ（タイムシフト）を残すには？
+
+<ol>
+<li> こちらのURLから：<a href="https://www.twitch.tv/settings/channel">https://www.twitch.tv/settings/channel</a> &ldquo;配信を自動的にアーカイブ&rdquo; にチェックを入れて下さい。</li>
+<li> ついでに &ldquo;配信遅延を改善&rdquo; もチェックを入れておきましょう。
+<img src="/images/OBS_09.png" alt="&quot;代替メッセージ&quot;" /></li>
+</ol>
+</li>
+</ul>
+
+
+<h1>以上</h1>
+
+<p>以上、OBS からの配信方法でした。</p>
 </div>
 
 
