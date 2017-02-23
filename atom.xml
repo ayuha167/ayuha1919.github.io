@@ -4,7 +4,7 @@
   <title><![CDATA[恋心は超グリーディ]]></title>
   <link href="/archives/index.html/atom.xml" rel="self"/>
   <link href="/archives/index.html/"/>
-  <updated>2017-02-22T01:38:43+09:00</updated>
+  <updated>2017-02-24T00:11:50+09:00</updated>
   <id>/archives/index.html/</id>
   <author>
     <name><![CDATA[アユハ/Ayuha]]></name>
@@ -12,6 +12,146 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[【訳】Twitch 配信, PCの基本]]></title>
+    <link href="/archives/index.html/blog/2017/02/23/"/>
+    <updated>2017-02-23T18:14:50+09:00</updated>
+    <id>/archives/index.html/blog/2017/02/</id>
+    <content type="html"><![CDATA[<p>「Twitchで配信したいけれど、簡単でいいからPCで最低限のセッティングをしたい！」&hellip;という方のために書きました。Twitch 本社の @theGunrun の指導を和訳しました。網羅性と妥当性があると思いますが、疑問がありましたらツイッターで @ayuha167 へ。</p>
+
+<!-- more -->
+
+
+<p>こんにちは、Twitch のアユハです。PCでの配信技術のお話です。最近Twitchが上り調子であるがゆえに、ここで基本を出そうと思いました。<br/>
+長いです。文字を読むのが嫌いな方も、ツイッターTLを読むようにしっかり読んでください。<br/>
+また、こちらは全てスグに無料でTwitch配信をすることを考えているため、エンコーダー（生放送ソフト）に OBS を用いることを前提に書いています。</p>
+
+<p><img src="/archives/index.html/images/obs_icon_small.png" alt="&quot;代替メッセージ&quot;" /></p>
+
+<ul>
+<li>私はXsplit派です。Xsplitは <a href="http://ayuha167.github.io/blog/2016/06/30/">こちら</a> が参考になると思います。</li>
+<li>スマホからの配信は <a href="http://ayuha167.github.io/blog/2016/12/17/">こちら！</a></li>
+</ul>
+
+
+<h1>PC配信の手引</h1>
+
+<h2>1. Download OBS</h2>
+
+<ul>
+<li>こちらから &ldquo;Download OBS Studio&rdquo; をクリック : <a href="https://obsproject.com/">OBS</a></li>
+<li>OS（MacかWindowsか）を選択して、ファイルをダウンロード開始！</li>
+</ul>
+
+
+<h2>2. ダウンロードファイル</h2>
+
+<ul>
+<li>Mac ならば、.dmg ファイルを開き、中の .pkg ファイルを起動。あとは指示通りにダウンロード。</li>
+<li>Windows ならば、.exe ファイルを開き、あとは指示通りにダウンロード。</li>
+</ul>
+
+
+<h2>3. ダウンロード出来たら OBS を開きましょう</h2>
+
+<p><img src="/archives/index.html/images/OBS_02.png" alt="&quot;代替メッセージ&quot;" /></p>
+
+<p>Mac は現在バージョン 0.16.2 でした。</p>
+
+<h2>4. OBS を観る</h2>
+
+<ul>
+<li>プレビュー
+
+<ol>
+<li> OBSの大部分を占めている今「黒い部分」が「プレビュー」です。ここに映るモノが全て、視聴者に映るモノになります。</li>
+</ol>
+</li>
+<li>ソース
+
+<ol>
+<li> 「ソース」は「プレビュー」に表示するモノを入れる所です。</li>
+<li> たとえばソースには以下のモノが来ます：ウェブカメ映像・動画ファイル・画像・スクリーンキャプチャ &hellip;</li>
+</ol>
+</li>
+<li>オーディオ
+
+<ol>
+<li> オーディオ = 音声は、OBS内では「ミキサー」の下に来ています。</li>
+<li> 右の「設定」ボタンを押して → 「音声」タブを選択すると、オーディオソースを足したり消したり出来ます。
+
+<ul>
+<li>Mac ではデフォルト音声は Mac 内臓のマイクだけです。デフォルトマイクを他のモノに替えていない限りは。</li>
+<li>Windows ではデフォルト音声はデスクトップ音とデフォルトマイクのみです。</li>
+</ul>
+</li>
+</ol>
+</li>
+</ul>
+
+
+<h2>5. Twitchチャンネルで配信する設定</h2>
+
+<ul>
+<li>プレビュー映像をTwitchに送る前に、「設定」ボタンを押して「出力」「映像」「配信」の3タブにて設定をせねばなりません。</li>
+<li>「出力」ではこのように：<a href="http://ayuha167.github.io/images/OBS_03.png">http://ayuha167.github.io/images/OBS_03.png</a>
+
+<ol>
+<li> 「ビットレート」は3500kbpsに。
+
+<ul>
+<li><a href="http://www.speedtest.net/">スピードテスト</a> を行い、上り（Upload Speed）に無理があったら500kbps刻みで下げていきましょう。例えばテストで4Mbps行っていなかったら、OBSのビットレートは 3000kbps や 2500 kbps にしてみてください。</li>
+</ul>
+</li>
+</ol>
+</li>
+<li>「映像」ではこのように：
+
+<ol>
+<li> 「基本解像度」「出力解像度」は共に 1280×720 へ。（ここが画質です）</li>
+<li> 「FPS共通値」は60へ **（ここが映像の標本値；いかにヌルヌル動くかです）</li>
+</ol>
+</li>
+<li>「配信」ではこのように：
+
+<ol>
+<li> 「サービス」は Twitch</li>
+<li> 「サーバー」はお近くのモノを。多分 Tokyo や Taipei です。</li>
+<li> 「ストリームキー」を入力！
+<img src="/archives/index.html/images/OBS_06.png" alt="&quot;代替メッセージ&quot;" />
+
+<ul>
+<li>ご自身のチャンネルのストリームキーは固有のものです。Twitchのダッシュボードから開けます : <a href="https://www.twitch.tv/broadcast/dashboard">https://www.twitch.tv/broadcast/dashboard</a></li>
+<li>タブにある「配信キー」をクリック。</li>
+<li>「キーを表示」をクリック</li>
+<li>OBSへコピペします</li>
+</ul>
+</li>
+</ol>
+</li>
+</ul>
+
+
+<p>Click on “Download OBS Studio” from this page &ndash; <a href="https://obsproject.com/">https://obsproject.com/</a>
+Select your Operating System and the file will begin to download
+Open the downloaded file
+On mac, launch the .dmg file, then launch the .pkg file inside, and follow the install steps
+On PC, open the .exe file and follow the install steps
+Once installed open OBS
+Understanding OBS
+The Preview
+The black space that covers most of the OBS screen is your preview, everything in this space will be what your audience sees on Twitch.
+Sources
+Sources are the items you can add to your preview
+Some examples of sources are (but not limited to): webcams, video files, images, parts of your computer screen.
+Audio
+All audio inputs are shown under Mixer in the bottom middle of OBS
+You can add or remove audio inputs from Settings > Audio
+On windows the default inputs are your desktop output and your default microphone
+On mac it’s just your onboard microphone, unless you have another installed as your default</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Genesis4 旅日記 ブログエントリー]]></title>
@@ -1978,80 +2118,6 @@ twitchとは、ゲームの生放送専用サービスで、世界のネット�
 
 <p><img src="/archives/index.html/images/D1_ayuha.jpg" title="" alt="私はどこから来たのか、私は何者か、私はどこへ就職するのか" /><br/>
 twitter : ayuha167</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[APEX2015へのお誘い]]></title>
-    <link href="/archives/index.html/blog/2014/10/16/title/"/>
-    <updated>2014-10-16T17:44:40+09:00</updated>
-    <id>/archives/index.html/blog/2014/10/16/title</id>
-    <content type="html"><![CDATA[<h2>SHIG|アユハと行く、世界最大のスマブライベント</h2>
-
-<p>もっと早くこの記事を書こうと思っていましたが、パソコンMac機を買い替えて、クローン化したらRubyの設定がおかしくなっていて、なかなか書けませんでした。しかし、つい先日生き返ったので書きます。</p>
-
-<!--more-->
-
-
-<p>というわけで、皆さん旅行する気があるのならば、是非APEXで楽しんでみることをオススメします。この記事を読んで、是非とも参戦しましょう！</p>
-
-<h2>APEXとは？！</h2>
-
-<p>APEXとは、スマブラの頂点に位置する大会と言えるでしょう。昨今ではEVOがスマブラを採用していますが、APEXは &ldquo;スマブラがメイン&rdquo;, &ldquo;全種目アリ&#8221;。一方のEVOは &#8220;マルチ種目格ゲー大会&rdquo;, &ldquo;スマブラも一つのみ&rdquo; という違いが有ります。どちらで勝っても &ldquo;最強&rdquo; ですが、とりあえず今は2大巨頭の一方、APEXを御覧ください。</p>
-
-<iframe width="560" height="315" src="/archives/index.html//www.youtube.com/embed/joz976XV7Iw" frameborder="0" allowfullscreen></iframe>
-
-
-<p>これが、APEX2014の、ベスト8くらいの試合での盛り上がりです。映像はこれくらいしか見つかりませんでしたが、大会全体が如何に盛り上がり、決勝までいけば如何に大変なことになるか分かるでしょう！（今回はアメリカ国家斉唱が途中で始まった。）</p>
-
-<p>ただ、アメリカ旅行なので、行くためには航空券往復10万円くらいかかります。そこが難点ですね。</p>
-
-<h2>行く意義</h2>
-
-<p>「10万円を貯めてまで行くものなの？」という考え方もありますが、行く価値はあります。</p>
-
-<p>SHI-Gが出来たのもやはり海外勢の協力あってのことです（スパム報告・技術教授・宣伝など）。海外に遠征した人には、遠征した人だけが味わえる利益があります。一回行った人が、その後何度も遠征してしまっているのを見ると、その感触を察することが出来るでしょう。</p>
-
-<p>特に学生であれば、「就活のために短期留学！」とかするより、遥かに有益ではあると私は言い切ります。人生、色々旅行をしましたが（30カ国くらい？）、やはり海外に大会に出場しに行くのは体感差がでかいです。</p>
-
-<p>APEXに行くからには、国内からは結果を求める声がすごく大きいですが、それは忘れていいと思います。というか、行ったら会場の熱気に気圧されて忘れます。行って楽しむことを考えて、是非参加しませんか？？次の旅行先を迷っている人は、是非ご一考ください。</p>
-
-<h3>※なお、</h3>
-
-<p>過去には、日本のプレイヤーで、海外の募金を経て遠征した人もいます。渡航費をそれでまかなってもらった形ですね。上位プレイヤーならばそれが狙えます。実行するなら私が持ちかけてみます。</p>
-
-<h2>行くなら</h2>
-
-<p>行く場合は、大会日程が</p>
-
-<pre><code>2015年1月30日 ~ 2月1日  
-</code></pre>
-
-<p>なので、遅くとも28日くらいの飛行機で成田を出て、2日の飛行機でアメリカをたちます。会場はホテルなので、そこの割引宿を使います。夜も建物スケールでスマブラオフです。</p>
-
-<p>既に12人位で、Skypeルームを作り、どうやって行くかを話し合っています。例年通り。興味ある方は、ツイッターの @ayuha167 にリプでも下さい。</p>
-
-<h2>おまけ</h2>
-
-<p>今回来た方には、もれなくこんな感じのTシャツをプレゼントします！【暫定案ラフ画】：</p>
-
-<p><img src="/archives/index.html/images/tshirt00.jpg" title="" alt="APEX2015へのお誘い" /></p>
-
-<p>（完成品はちゃんとこります）</p>
-
-<p>また、大会前は、ニューヨーク市内を少し観光しようと思っています！メトロポリタン美術館に、私と行きましょう。</p>
-
-<p>大会の公式サイトはこちらです（稼働してるのか…？）<br/>
-<a href="http://www.apex-series.com/  ">http://www.apex-series.com/  </a>
-（Facebook でAPEXを検索したほうが早いかも。）</p>
-
-<p>APEXについて、もっと内部的な側面を知りたい方は、<br/>
-<a href="http://ayuha167.web.fc2.com/lian_xinhaguridi/sumabura_ying_yu.html">http://ayuha167.web.fc2.com/lian_xinhaguridi/sumabura_ying_yu.html</a></p>
-
-<p>ここのAPEX日記をお読みください。2回分ございます。</p>
-
-<p>&lt;参考><br/>
-Octopressで画像を貼る方法 : <a href="http://toshikaz55.github.io/blog/blog/2013/04/04/octopress-image-dir/">http://toshikaz55.github.io/blog/blog/2013/04/04/octopress-image-dir/</a></p>
 ]]></content>
   </entry>
   
