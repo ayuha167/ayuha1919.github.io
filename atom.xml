@@ -4,7 +4,7 @@
   <title><![CDATA[恋心は超グリーディ]]></title>
   <link href="/archives/index.html/atom.xml" rel="self"/>
   <link href="/archives/index.html/"/>
-  <updated>2017-12-12T17:43:30+09:00</updated>
+  <updated>2017-12-12T17:47:00+09:00</updated>
   <id>/archives/index.html/</id>
   <author>
     <name><![CDATA[アユハ/Ayuha]]></name>
@@ -12,6 +12,87 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ゼノブレイド2 ストーリー考察]]></title>
+    <link href="/archives/index.html/blog/2017/12/11/"/>
+    <updated>2017-12-11T00:32:15+09:00</updated>
+    <id>/archives/index.html/blog/2017/12/</id>
+    <content type="html"><![CDATA[<p>こんにちは、ゼノブレイド大好き伯爵です。今回は、寝る間を惜しんでプレイした超大作JRPG『ゼノブレイド2』のストーリーについて考察していこうと思います。（小学生並のイントロ）</p>
+
+<!-- more -->
+
+
+<p>ちなみに、ゼノブレイド2は超良作でした。日本史上、ゼノブレイド以来の名作だと思います。これほどボリュームの有るストーリーを持ったRPGは本当に久々でした。<br/>
+こちらのブログ記事は、プレイ済みの方 or プレイすることを諦めた方向けに書いているため、ネタバレが嫌な方はご覧にならないでください。特に、ゼノブレイド1, 2の共通点を考察してみたのでぜひ吟味されてください。（文字しかありません。すみません。）</p>
+
+<h2>前提：世界観</h2>
+
+<p>『ゼノブレイド2』の公式ウェブサイトをご覧になると、ファンタジー系の超大作RPGであることが感じ取れると思います。
+<a href="https://www.nintendo.co.jp/switch/adena/index.html  ">https://www.nintendo.co.jp/switch/adena/index.html  </a>
+概要としては：ゼノブレイド2の舞台となる「アルスト」という世界では、巨大な世界樹を中心に雲海が広がり、雲海には巨大生物「アルス（巨神獣）」が漂流しています。人類やその他諸々の生物は、このアルスの背中 or 体内で生活をしています。人々の間では、「世界樹の上には楽園が広がっている」という噂・伝説だけが口伝えに広まっているだけでした。</p>
+
+<p>しかしこういったファンタジー系な印象とは異なり、ゲームを終盤まで進めますと、こちらは「空想」というより「SF」に近い世界観であることが分かります。「人類の文明が進んだ結果、こういう未来になるのではないか」というSFモノです。</p>
+
+<p>どうSFなのか説明をします。ゲーム内で現在にあたるアルストの世界は、地球人類の高度な文明による戦争の残骸でした。戦争は拡大し続け地球上の大都市は崩壊し、宇宙コロニーや軌道エレベーターにまで戦争は広がりました。この戦争の過程で「ゲート」という特殊な技術を手に入れた一人の科学者；クラウスが実験をした結果、文明は完全に崩壊しました。</p>
+
+<p>残されたクラウスは地球に生命を戻すため、「雲海」を創り、「ブレイド」（後述）を創り、世界の循環システムの理を創りました。この後、地球がアルストと呼ばれるようになります。<br/>
+彼の居る宇宙軌道エレベーターは、長い年月をかけて植物が巻き付き、「世界樹」と呼ばれるようになりました。軌道エレベーターが世界樹になったという発想が、私の中では一番のビックリポイントでした。つまり世界樹の上に広がる楽園というのは「宇宙コロニー」のことだったのですよね。全てが納得の設計です。</p>
+
+<p>この科学者クラウスの容姿（若い時）がゼノブレイド1の主人公：シュルクに似ています。ちなみにゼノブレイド1でも世界を創造した科学者の名前がクラウスであり、ストーリー中ではザンザと呼ばれていました。ザンザはシュルクと同じ顔をしています。</p>
+
+<h2>ゼノブレイド1, 2の共通点</h2>
+
+<p>本題ですが、メツとの最終戦で、神クラウスにカメラが向いている時に、<br/>
+「僕達は僕達の手で神を斬り 〜」というセリフが誰かの声で流れるのですが、これが結構謎です。</p>
+
+<p>声から判断しましたが、これはゼノブレイド1のシュルクのセリフなのでは？と思っています。覚えていませんが、ゼノブレイド1はシュルクが「神無き世界だ」と言って終わりを迎えたことは覚えているので、主旨は合っていると思います。</p>
+
+<p>また、今作の神クラウスは「向こう側の半身が無くなる」という主旨の発言をしていたため、こちらも気になるポイントです。これらから、ゼノブレイド1,2の共通点に気が付きました。</p>
+
+<p>「向こう側の半身」とはゼノブレイド1のザンザなのではないでしょうか？</p>
+
+<p>そう考えると、こういう説が有り得ます：</p>
+
+<ul>
+<li>ゼノブレイド1, 2の創造主：科学者クラウスは共通している</li>
+<li>世界を創る実験の結果、半身がザンザになり、半身が「とうさま」（ゼノブレイド2の神：クラウス）になった。</li>
+<li>ザンザがシュルクに敗れるため、もうじき「とうさま」の半身が消える。そのため「とうさま」も寿命が近い。</li>
+</ul>
+
+
+<p>しかし、これですと「ゼノブレイド1・2で出てきたクラウスの女性パートナーは其々メイナス・ガラテアという名前で、矛盾する」という反駁が有り得ます。そこで、上の説に改訂を加えると、</p>
+
+<ul>
+<li>科学者クラウスはパラレルワールドに1名ずつ、合計2名いた。</li>
+<li>2名とも世界を想像する実験を行った結果、ゲートを使って何らかの形で2名が繋がってしまった</li>
+</ul>
+
+
+<p>といったことも有り得ます。</p>
+
+<p>これを裏付ける存在として、「モナド」があります。モナドは双方の作品に登場する、粒子を破壊できる刀ですが、それ以上の共通点があります。ゼノブレイド1の「モナド」は「アルヴィース」という青年の分身でしたが、アルヴィースは元々科学者クラウスが実験をするために用いたコンピュータのプロセッサでした。ゼノブレイド2の「モナド」はブレイド；メツに備わった刀ですが、メツ自身も元は世界を創造する際に使用した3プロセッサの1つでした。プロセッサという共通点があるということは、ゼノブレイド1,2のクラウスも繋がっているのではないでしょうか。</p>
+
+<p>ゼノブレイド1,2はストーリー的に繋がりが無いように見えますが、実は世界観のレベルで繋がるものがありそうです。</p>
+
+<h2>おまけ</h2>
+
+<p>ここからは蛇足です。数年経ったら私がゼノブレイド2のことを忘れてしまうでしょうから、カグツチの日記のように今回の私から見た考察を残します。</p>
+
+<p>人物構造に関する見解です。ゼノブレイド1では、「人間vs機械」という構造になっていました。おそらくモノリスソフトのチームが、機械との対比を通じて人間を理解するという哲学が好きなのだと思います。今作もそれは同様です。</p>
+
+<p>今作ゼノブレイド2は「人間vsブレイド」です。「ブレイド」は今作の世界観における「機械」にあたります。前作の「機械」はマジモノの機械だったため、感情移入がしにくかったというか「機械と人間の共存なんて無理だろ」って私に感情的には思わせるところがありました。ブレイドではその点が解消されています。</p>
+
+<p>ブレイドは、神/クラウス の創造物の一つです。ブレイドのコアは雲海から生まれ、人間と同調するとブレイドとして具現し、死してまたコアの石へと還ります。時が経つとこのブレイドがアルスへと進化して行き、世界を支える存在になっていく循環が出来ています。</p>
+
+<p>アルストの世界は、一見王国と帝国の対立が目立ちますが、人間とブレイドの対立がストーリーの根幹にあります。500年前はメツvsみんな で全世界顕在的に戦争をしましたが、戦争の末に 人間絶対主義（法王マルベーニ）vsブレイド絶対主義（イーラ）が水面下で争うことになってしまいました。</p>
+
+<p>それに対して主人公たちはブレイドと人間の中間位置にあるメンバーであり、こういったメンバーが世界を救ったのは象徴的で分かりやすいと思いました。つまり人間vs技術という構図で、双方の要素を持った人物たちが双方を救うという結論です。この構図としては映画『もののけ姫』と似ていると思います。もののけ姫は人間vs自然という構図で、人間と自然を両方持ったふたりが、世界をリセットして救いました。<br/>
+（実はパーティの中で執権官メレフはタダの人間なのですが、これはノポン族のトラが人工ブレイドを連れているという立ち位置の対称としてバランスを取るために置いたのだと思います。）</p>
+
+<p>総じて言うと、狂気の科学者によって技術を革新させたがゆえに技術と人間が暴力で争わなくてはならないという未来を描いた作品がゼノブレイド1,2でしたが、それに答えを示したことは私の技術への価値観と近くて共感出来る名作でした。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[FF9 ストーリー 考察]]></title>
@@ -2033,153 +2114,6 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 <p><img src="/archives/index.html/images/RP2_4114-X3.jpg" alt="&quot;Genesis3 旅日記 ブログエントリー&quot;" /> <a href="http://gallery.rmpaul.com/Esports/Genesis-3/Day-3/i-XW2vHcS/A">Robert Paul より</a></p>
 
 <p>Genesis3はスマブラのみを扱うゲーム大会としては最大。これに参加した筆者と日本勢の足跡。これが Genesis3 旅日記です。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[スマブラ世界王者決定戦の魅力]]></title>
-    <link href="/archives/index.html/blog/2016/01/13/title/"/>
-    <updated>2016-01-13T00:56:04+09:00</updated>
-    <id>/archives/index.html/blog/2016/01/13/title</id>
-    <content type="html"><![CDATA[<p>2016年1月。新春です。新春といえば、スマブラ勢にとっては世界大会です。今回は、今週末（1月15-17日）に開催される &ldquo;Genesis3&rdquo; に関しての紹介です。他ゲー勢向けに記しました。</p>
-
-<!-- more -->
-
-
-<h2>スマブラの世界大会 : Genesis3 とは</h2>
-
-<p>『大乱闘スマッシュブラザーズ』シリーズは、かなり多くの方がプレイした経験のあるゲームです。&hellip;のはずです。このタイトルは今なお健在で、WiiU内でもNintendoソフト売上本数ではスプラトゥーンを抑えての5位という報告さえあります。現代にてもオフライン対戦がメジャーなゲームであると考えると、恐ろしい現象ですね。<br/>
-（参考ブログ）<a href="http://blog.asimino.com/entry/2015/12/19/wiiu-soft-ranking">http://blog.asimino.com/entry/2015/12/19/wiiu-soft-ranking</a></p>
-
-<p>そんなゲーム：スマブラですが、1年に1度、世界中のプレイヤーがアメリカへ集まり、全員がエントリー可能で、3日間で王者を決める祭典があります。昨年までは Apex がその立ち位置でしたが、今年はそれに取って代わり、Genesis という大会がその名誉を戴冠しました。</p>
-
-<p><img src="/archives/index.html/images/Genesis3.png" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /></p>
-
-<h3>開催概要</h3>
-
-<ul>
-<li>（Genesis3 ホームページ）<a href="http://www.genesisgaming.gg/">http://www.genesisgaming.gg/</a></li>
-<li>日程：1月15-17日（アメリカ西海岸時刻）</li>
-<li>スケジュール表：<a href="http://www.genesisgaming.gg/schedule/">http://www.genesisgaming.gg/schedule/</a></li>
-<li>場所：サンノゼ（アメリカ西海岸、カリフォルニア州）</li>
-<li>エントリー：3400+名 ユニーク登録数</li>
-<li>種目：スマブラ64, DX, WiiU</li>
-<li>配信：<a href="http://www.twitch.tv/showdownsmash">http://www.twitch.tv/showdownsmash</a></li>
-</ul>
-
-
-<p>※配信は正式にアナウンスされていませんが、今のところ Showdown のみがTwitterで発信しています。（<a href="https://twitter.com/ShowdownGG/status/684929901024030721">Showdownのアナウンス</a>）</p>
-
-<p>ちなみに過去に2度、Genesis は開催されましたが、Genesis2 は2011年の開催だったため、今回はもはや、まったく新鮮な開催です。（スマ知識：前回は、DXでArmadaが・XでMew2Kingが優勝しています。）</p>
-
-<h2>大きさ</h2>
-
-<p>スマブラの大会は熱量が大きいことで有名です。かの格ゲーマー EG Justin Wong をして &ldquo;The best fighting game scene in my opinion（個人的には最高の対戦ゲームシーン）&rdquo; と言わしめました。<br/>
-(<a href="http://clashtournaments.com/eg-justin-wong-on-smash-its-definitely-the-best-fighting-game-scene-imo/">元記事</a>)</p>
-
-<p><img src="/archives/index.html/images/Apex2015_RMPAUL.png" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /><br/>
-( Apex2015, Robert Paul 氏の写真ページスクショ : <a href="http://gallery.rmpaul.com/Esports/Apex-2015/">http://gallery.rmpaul.com/Esports/Apex-2015/</a> )</p>
-
-<p>今回スポンサーはまだ正式発表されていません。が、既にNintendo of America が協力することがアナウンスされています。<br/>
-( <a href="http://www.inside-games.jp/article/2016/01/10/94814.html"> Nintendo of America が Genesis3 とパートナー 日本語記事 </a>)</p>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re proud to announce that Genesis 3 has officially partnered with <a href="https://twitter.com/NintendoAmerica">@NintendoAmerica</a>! &#10;<a href="https://twitter.com/hashtag/G3?src=hash">#G3</a> <a href="https://t.co/XylSsnA7wt">pic.twitter.com/XylSsnA7wt</a></p>&mdash; Genesis 3 (@Genesis_Smash) <a href="https://twitter.com/Genesis_Smash/status/685596956052160512">January 8, 2016</a></blockquote>
-
-
-<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<h2>プロの存在</h2>
-
-<p>アメリカには当然、プロゲーマーが居ます。</p>
-
-<p>スマブラDXであれば、五神 + Leffen の6名は必須知識です。前回の大型大会 The Big House 5（10月開催）ではLeffenは入国審査で落ちたため、今の実力は未知数。Genesis3が楽しみです。</p>
-
-<ul>
-<li>スマブラDX 五神（CLAN氏ブログ）: <a href="http://ameblo.jp/meleeforever/entry-11977626518.html">http://ameblo.jp/meleeforever/entry-11977626518.html</a></li>
-</ul>
-
-
-<p>スマブラWiiUにも、綺羅星のごとくスターがいます。<br/>
-<img src="/archives/index.html/images/RP2_9373-X3.jpg" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /><br/>
-(チャンピオンベルトを手にしているのはTSM | ZeRo。CEO 2015 : <a href="http://gallery.rmpaul.com/Esports/CEO-2015/Day-3/i-ZXJhmx5/A">http://gallery.rmpaul.com/Esports/CEO-2015/Day-3/i-ZXJhmx5/A</a>)</p>
-
-<p>ここでまとめて言えるのは、プロゲーミングチームの名門たる名門が、揃い踏みで選手を揃えているのはスマブラぐらいではないか？ということです。</p>
-
-<p><img src="/archives/index.html/images/LoL_NA.png" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /><br/>
-( <a href="http://lol.gamepedia.com/2015_World_Championship">http://lol.gamepedia.com/2015_World_Championship</a> )</p>
-
-<p>TSM, Cloud9, CLG というチームはLoL (League of Legends) の2015年アメリカ代表です。LoLはアクティブプレイヤーが最大のゲームで、世界では野球・ゴルフよりもプレイ人口が多く (<a href="http://m0bilecenter.org/archives/2167">参考</a>)、そのアメリカ代表というのは如何なるものか推してはかるべきです。いずれのチームも、スマブラ部門のプレイヤーが所属しています。<br/>
-様々なタイトルを持つ Team Liquid, 日本でもウル4 &ldquo;ももち&rdquo; 選手でお馴染みの Evil Geniuses もスマブラプレイヤーに禄を出しています。EGはDOTA2にて賞金8億円を勝ち獲った実績でも話題になりました。DOTA2といえば、2013年王者でありヨーロッパの雄：Alliance もスマブラプレイヤーを持ちます。</p>
-
-<p><img src="/archives/index.html/images/Apex%202015%20-%2020150202%20-%203658-X3.jpg" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /><br/>
-( Alliance 所属 Armada 対 Evil Geniuses 所属 PPMD。宿命チームの対決 <a href="http://gallery.rmpaul.com/Esports/Apex-2015/Day-3/i-Zs2scDX/A">http://gallery.rmpaul.com/Esports/Apex-2015/Day-3/i-Zs2scDX/A</a> )  　</p>
-
-<p>このスマブラというゲームを対戦しながらいかに人々が熱狂するか。観戦しながらいかに沸騰するか。文字の向こうからでも、叙事詩を読むように妄想してください。</p>
-
-<h2>日本勢</h2>
-
-<p>ここまで読まれた方ならば「で、日本人は？」とお待ちかねでしょう。ちゃんと、出場します。23名も。</p>
-
-<p>WiiU部門は、こちらにまとめられています : <a href="http://esports-runner.com/ssb4/go-to-genesis3/">http://esports-runner.com/ssb4/go-to-genesis3/</a></p>
-
-<p>↑こちらeSRさんの記事ですが、このページ内で更に『スマブラプレイヤー大百科』としてリンクが貼ってあるプレイヤーは、スマブラを知らんとする方ならば一読に値します。</p>
-
-<p>ここで、プレイヤーランキングというものがありますので、それを参照します。関東圏で開かれている大会（ウメブラ）が出している<a href="http://piosuma.blog.jp/archives/24157620.html">シードポイント向けランキング</a>です（12月12日更新版、詳細はリンク先参照）。この上位30名の内、ジェネシスに出場します日本勢を挙げますと、</p>
-
-<ul>
-<li>らない</li>
-<li>古森霧</li>
-<li>＃THE Abadango</li>
-<li>9B</li>
-<li>あーす</li>
-<li>Rain</li>
-<li>DNG | にえとの</li>
-<li>うめき</li>
-<li>FILIP</li>
-<li>なすび</li>
-<li>SSOD | J!</li>
-</ul>
-
-
-<p>となっています。こちらが、東京組の私から見た上位勢ということになります。しかし、まだ伏兵がいますし、それ以外のプレイヤーにも是非上位へ食い込んで欲しいので、ただただ応援しております。</p>
-
-<p>（集合写真などありませぬが、夏にEVO2015へ出場したメンバーが、ベスト8の試合を応援している様子はこちらにあります。またしてもRobert Paul氏の写真です : <a href="http://gallery.rmpaul.com/Esports/Evo-2015/Day-2/i-FLKxzf3/A">http://gallery.rmpaul.com/Esports/Evo-2015/Day-2/i-FLKxzf3/A</a>  ）
-<img src="/archives/index.html/images/RP2_1492-X3-1.jpg" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /></p>
-
-<p>他に、64部門でも Japan 出場の方々がエントリー画面から見えます。現地でお会いできるでしょうか&hellip;？</p>
-
-<h3>日本でも。</h3>
-
-<p>忘れてはならない。日本でも大会を、有志のコミュニティが開催しているんです。9月には2日間開催で大規模な &ldquo;ウメブラF.A.T.&rdquo; が執り行われました。<br/>
-<img src="/archives/index.html/images/13869fbf.png" alt="&quot;スマブラ世界王者決定戦の魅力&quot;" /></p>
-
-<iframe width="480" height="270" src="https://www.youtube.com/embed/pKwZtFxsFa0?feature=oembed" frameborder="0" allowfullscreen></iframe>
-
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%A6%E3%83%A1%E3%83%96%E3%83%A9FAT?src=hash">#ウメブラFAT</a> 集合写真！&#10;上位陣16名が前に。おめでとう！ <a href="http://t.co/Rrlf1E70o0">pic.twitter.com/Rrlf1E70o0</a></p>&mdash; モンストのいずまいん@Game8 (@lsmlne) <a href="https://twitter.com/lsmlne/status/646268957373018116">September 22, 2015</a></blockquote>
-
-
-<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<p>
-(対戦動画はこちらから : <a href="https://www.youtube.com/watch?v=hrjYkFvIHys&amp;list=PLA0x72gyzAF37Dw29fhsZvZRJVyRUHIRi">https://www.youtube.com/watch?v=hrjYkFvIHys&amp;list=PLA0x72gyzAF37Dw29fhsZvZRJVyRUHIRi</a> )</p>
-
-<p>集合写真がありますが、前列に白人がいるのがお分かりでしょうか？ Nairo, Vinnie, Ally のお3方をアメリカ大陸から招待しました。（ Nairoは名門 Team Liquid の所属で、もしかするとLiquidの来日は初だった可能性があります。 ）</p>
-
-<p>この時に活躍したプレイヤーが、やまほど今週末アメリカへ飛びます。立場上あまり贔屓が出来ないのですが、日本には優勝して欲しいです。</p>
-
-<h2>以上</h2>
-
-<p>単純ですが、以上がスマブラ世界大会 Genesis3 に関する、私からの紹介です。</p>
-
-<p>『Genesis3旅日記』は執筆予定ですので、完成し次第、こちらで公開いたします：<br/>
-<a href="http://ayuha167.web.fc2.com/lian_xinhaguridi/sumabura_ying_yu.html">http://ayuha167.web.fc2.com/lian_xinhaguridi/sumabura_ying_yu.html</a></p>
-
-<p>（過去の旅日記もこちらで公開中です。）</p>
-
-<p>それでは、日本勢をよろしくお願いいたします。</p>
 ]]></content>
   </entry>
   
