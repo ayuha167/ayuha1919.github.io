@@ -4,7 +4,7 @@
   <title><![CDATA[恋心は超グリーディ]]></title>
   <link href="/archives/index.html/atom.xml" rel="self"/>
   <link href="/archives/index.html/"/>
-  <updated>2018-01-26T05:52:48+09:00</updated>
+  <updated>2018-01-26T06:15:50+09:00</updated>
   <id>/archives/index.html/</id>
   <author>
     <name><![CDATA[アユハ/Ayuha]]></name>
@@ -12,6 +12,205 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[海外スプラトゥーン2 オフ大会設定方法]]></title>
+    <link href="/archives/index.html/blog/2018/01/29/"/>
+    <updated>2018-01-29T12:10:20+09:00</updated>
+    <id>/archives/index.html/blog/2018/01/</id>
+    <content type="html"><![CDATA[<p>アメリカ；オークランドにて開催された Genesis5 という大会でスプラトゥーン2大会にエントリーしてきました。大会のセッティングを拝見したので技術を共有します。</p>
+
+<!-- more -->
+
+
+<h2>Genesis とは</h2>
+
+<p>Genesis はスマブラシリーズの大規模大会です。毎年2000名以上が世界から集まるオープントーナメント型のオフラインイベントで、いつもアメリカ：カリフォルニア州にて開催されます。スマブラ64, DX, WiiU を中心に、サイドイベントも開催されます。今回はサイドイベントでスプラトゥーン2部門がありましたので出場してきました。</p>
+
+<p><a href="http://ayuha167.web.fc2.com/lian_xinhaguridi/Genesis4_00.html">過去の「Genesis旅日記」例</a></p>
+
+<p>筆者はスマブラ勢なので、毎年この時期（1月）に開催されるスマブラ大会に遠征していまして、その記録が上記URLにございます。今は隠居したスタッフの身なので、海外プレイヤー・アメリカでのスマブラ大会運営との交流、そして自分の努めるTwitch本社への訪問が旅の中心です。今回気まぐれにエントリーしたスプラトゥーン2部門で色々発見したため、いつものスマブラ旅日記とは記録しておこうと思いました。</p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re proud to announce that GENESIS 5 is officially partnered with <a href="https://twitter.com/NintendoAmerica?ref_src=twsrc%5Etfw">@NintendoAmerica</a>!<a href="https://twitter.com/hashtag/G5?src=hash&amp;ref_src=twsrc%5Etfw">#G5</a><a href="https://t.co/1X4Bjzkbl9">https://t.co/1X4Bjzkbl9</a> <a href="https://t.co/IDNrg5quq7">pic.twitter.com/IDNrg5quq7</a></p>&mdash; GENESIS 5 @ #G5 (@Genesis_Smash) <a href="https://twitter.com/Genesis_Smash/status/954141356410089472?ref_src=twsrc%5Etfw">January 19, 2018</a></blockquote>
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>このGenesisは、ゲーマーが運営している大会なのですが、Nintendo of America 公式パートナーの大会であり、実質アメリカの公式大会に当たります。（道理でスプラ2の対戦相手が強かったと思いました。）</p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day two of <a href="https://twitter.com/hashtag/G5?src=hash&amp;ref_src=twsrc%5Etfw">#G5</a> is under way! Tune in for all of the <a href="https://twitter.com/hashtag/Splatoon2?src=hash&amp;ref_src=twsrc%5Etfw">#Splatoon2</a> and Super Smash Bros. tournament action:<br><br>🎥<br>Splatoon 2: <a href="https://t.co/v9fv9jPS7I">https://t.co/v9fv9jPS7I</a><a href="https://twitter.com/hashtag/SmashBrosMelee?src=hash&amp;ref_src=twsrc%5Etfw">#SmashBrosMelee</a>: <a href="https://t.co/RBe35HMLy2">https://t.co/RBe35HMLy2</a><a href="https://twitter.com/hashtag/SmashBrosWiiU?src=hash&amp;ref_src=twsrc%5Etfw">#SmashBrosWiiU</a>: <a href="https://t.co/AKYhy0bRr1">https://t.co/AKYhy0bRr1</a><br><br>Learn more: <a href="https://t.co/Am5tbluxah">https://t.co/Am5tbluxah</a> <a href="https://t.co/SpN0dBmF17">pic.twitter.com/SpN0dBmF17</a></p>&mdash; Nintendo Versus (@NintendoVS) <a href="https://twitter.com/NintendoVS/status/954783442423590912?ref_src=twsrc%5Etfw">January 20, 2018</a></blockquote>
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>[Nintendo USA のツイッターにイカ姿を撮影された筆者]</p>
+
+<p>ちなみに私は日本で行われている大会のルールについてなにも存じ上げません。説明に関してはかなり丁寧に冗長にしたため、分かった方は適宜読み飛ばしてください。</p>
+
+<p><img src="/archives/index.html/images/IMG_2409.JPG" alt="&quot;代替メッセージ&quot;" /><br/>
+[大会景色]</p>
+
+<h2>ルール</h2>
+
+<p>わざわざ読まれる方は先ずこれが気になると思います。こちらです↓</p>
+
+<p><a href="https://drive.google.com/file/d/1NgahlCSm4zsZqXrQT5nBr64G9L8Cg4dc/view">https://drive.google.com/file/d/1NgahlCSm4zsZqXrQT5nBr64G9L8Cg4dc/view</a></p>
+
+<p>箇条書きすると、</p>
+
+<ul>
+<li>予選をブロック分けする</li>
+<li>予選はスイスドロー形式</li>
+<li>各試合は全て3本先取（Best of 5）</li>
+<li>上位が本戦出場確定, 中位が第2予選へ</li>
+<li>こうして選抜された12チームが本戦トーナメントへ</li>
+<li>予選・第2予選・本戦全てに於いて、ルール/ステージが事前に決まっている</li>
+</ul>
+
+
+<p>です。特に一番下「事前に決まっている」ルールに関しては、例えば予選では：</p>
+
+<p><img src="/archives/index.html/images/Gsplat01.png" alt="&quot;代替メッセージ&quot;" /></p>
+
+<p>初戦は一番左列「Swiss Round 1」です。1戦目に “RM Humpback Pump Track” (= ガチホコ コンブトラック) を行います。<br/>
+2戦目は “CB Inkblot Art Academy” (= ガチアサリ 美術大学) です。同様にして、3戦目は “SZ Kelp Dome” (= ガチエリア モズク農園) です。<br/>
+この時点で3戦しましたので、ゲームカウントが3-0になればここで試合終了です。しかし決着が着いていなければ4戦目、同様にして5戦目も行います。4戦目は “TC Starfish Mainstage” (= ガチヤグラ 音楽堂)、5戦目は “RM Port Mackerel” (= ガチホコ ホッケふ頭) です。</p>
+
+<p>予選2戦目は2列目（Swiss Round 2）、3戦目は3列目（Swiss Round 3）…etc のように順次試合を進行して行きます。当たる相手はスイスドロー形式です。第2予選・本戦もこのように事前に ルール/ステージ が決まっており、方式まんべんなく試合を行うようになっています。試合間にブキ・服を替えることは可能でした。</p>
+
+<p>スイスドロー形式の管理は、Smash.gg にて行われていました。（Smash.gg こんなことも出来るのか…）</p>
+
+<p>（ステージ一覧英語名は <a href="https://splatoonwiki.org/wiki/Splatoon_2">こちらの海外Wiki</a> からどうぞ）</p>
+
+<h3>行程</h3>
+
+<p>Genesis5 では2日間をかけてスプラトゥーン2を行いました。前提として、こういったオープン形式のゲーム大会はホテルを貸し切って行うため、参加者は皆このホテルに宿泊しており、2日間以上の開催が普通です。この大会はオフライン大会であり、オープン形式ですので、来さえすれば誰でもエントリー出来ます（事前エントリー制）。</p>
+
+<p>1日目。2時間位で上記スイスドロー5戦が終わります。予選AブロックとBブロックに分けて、約30チームを消化しました。ここまでで休憩含め5時間ほど。第2予選がトーナメント形式ですが、3時間くらいで終結します。</p>
+
+<p>2日目は本戦です。12チームのトーナメントでした。その前におまけで Amateur Bracket が行われました。これは予選落ちしたチームのみが出られるトーナメントで、スマブラ界では「Bクラス」と呼ばれたりしているアレです。</p>
+
+<h3>進行</h3>
+
+<p>朝10時に会場スプラトゥーン受付に集合し、チームリーダーが呼び出されます。「どこチーム対どこチーム」が宣言され、各セクションに各自で行きます。試合が終わると、勝ったチームが結果を受付に言いに行きます。</p>
+
+<h3>誰が決めたの？</h3>
+
+<p><a href="https://twitter.com/EndGame_TV">EndGameTV</a> という団体が運営しています。オンライン大会もやっていますので、日頃からこのルールでアメリカ標準になっているようです。この「EndGameTV標準ルール」は秘伝という訳ではないのですが、出場者にしか共有されていないため日本で余りお目にかかることはありませんでした。</p>
+
+<p>EndGameTV が開催した試合やそうでない試合も、Splat Stats にて戦績がまとめられ、オン・オフ大会でのシード順を決めています。同じ人が運営していました。
+<a href="https://twitter.com/SplatStats">https://twitter.com/SplatStats</a></p>
+
+<p>大会をするに当たっては「シード」という概念は凄く重要で、これに関しては<a href="http://ayuha167.github.io/blog/2018/01/26/">別記事で述べます</a>。</p>
+
+<h2>設営</h2>
+
+<p>つづいて設営です。大会会場には：</p>
+
+<ul>
+<li><a href="https://www.asus.com/jp/Monitors/VX248H/">Asus モニタ</a> 40台</li>
+<li><a href="https://www.amazon.co.jp/Astro-Gaming-%E3%82%A2%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0-%E6%9C%89%E7%B7%9A%E3%82%B5%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88/dp/B017KI2BME">Astro ヘッドセット</a> 各台</li>
+<li>プロジェクタとスクリーン 1つ</li>
+<li>配信セット一式</li>
+</ul>
+
+
+<p>これらが揃っていました。モニタとヘッドセットは大会スポンサーなので恵まれた措置ですが、Switch ドックは参加者の有志が持ってきており、全台事前に設営されてありました。つまり、私達一般参加者は、Switch本体 + myプロコン だけを持って会場に来れば戦闘できます。</p>
+
+<p>モニタ・ドック・ヘッドセットを8台ずつセットで1セクション。これが5セクションありました。</p>
+
+<h3>Switch 同士の接続</h3>
+
+<p>Switch 同士の接続は；</p>
+
+<ul>
+<li>ドックはUSBで有線LANにつながって置いてある</li>
+<li>ドック8台がLANポートにクロスLANケーブルで接続</li>
+<li>Switch を挿したら、各自「設定」で有線LANに設定</li>
+<li>ここでエラーが発生するが、無視して良い。</li>
+<li>（つまり、各Switchはインターネットに繋がっていない。インターネットを介さず、ハブだけで機体を繋ぐ。）</li>
+<li>スプラトゥーン2で各自「イカッチャ」を起動</li>
+<li>各自「R + L + 左スティック押し込み」でローカル対戦モードに</li>
+<li>部屋を作成して、あとは8人で対戦</li>
+</ul>
+
+
+<p>こうしていました。</p>
+
+<h3>モニタ</h3>
+
+<p>Asus モニタはゲーミングモニタ VX248H です（多分）。24inch で FullHD。Hz (FPS) は書いていないですが、スプラトゥーン2は60fpsのゲームなので問題は無いです。遅延1msecというところが脅威ですね。1.6万円でこの性能というのは時代の進化を感じます。<br/>
+（コンソールゲームのように60fpsのゲームであれば、1Frame = 16.7msec なので、遅延5msecでも1msecでもそんなに変わらないとは思いますし、現に私は差が分かりません。）</p>
+
+<h3>音声</h3>
+
+<p>Astro のヘッドセットがつわものでした。</p>
+
+<p><img src="/archives/index.html/images/IMG_2392.JPG" alt="&quot;代替メッセージ&quot;" /><br/>
+<img src="/archives/index.html/images/IMG_2393.JPG" alt="&quot;代替メッセージ&quot;" /></p>
+
+<p>ゲーム大会用に作られた小さなミキサー（MixAmp Pro）が各テーブルに有りました。「ゲーム音」と「マイク音」を入力できるのですが、ミキサー同士がつながっており「マイク音」は共有できます。これで、</p>
+
+<ul>
+<li>ゲーム音は自分の機体のモノだけ聴こえる</li>
+<li>味方のマイク音が全て聴こえる</li>
+</ul>
+
+
+<p>を実現しています。</p>
+
+<p>「そんなのモニタのスピーカーと肉声で良いじゃん」と言われればそれで良いのですが、<br/>
+アメリカの大会会場は修羅の庭になっており、ヘッドセットで ゲーム音+マイク音 を聞けた方が良いです。特に隣のスマブラは「世界で最も声が大きい観客達」と名高く、叫びまくってコールしているためです。</p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We have had some legit upsets going on in smash 4! Make sure you tune in! <a href="https://twitter.com/hashtag/G5?src=hash&amp;ref_src=twsrc%5Etfw">#G5</a> <a href="https://t.co/46AUupCpGN">https://t.co/46AUupCpGN</a> <a href="https://t.co/x3rMxDLNNV">pic.twitter.com/x3rMxDLNNV</a></p>&mdash; GENESIX (@Genesis_Smash) <a href="https://twitter.com/Genesis_Smash/status/954868411963645952?ref_src=twsrc%5Etfw">January 21, 2018</a></blockquote>
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>[実際に隣りにいる集団]</p>
+
+<p>このオーディオの部分が、最も日本での再現が難しいです。再現するとしたらしっかりしたオーディオミキサーを買わないといけません。この辺の機器のアクセサビリティはesports産業の差と謂えます。</p>
+
+<h3>配信台</h3>
+
+<iframe src="https://player.twitch.tv/?autoplay=false&video=v220575455" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+
+
+<p><a href="https://www.twitch.tv/videos/220575455?tt_content=text_link&tt_medium=vod_embed&t=10h08m10s” style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;">EndGameTV1 GENESIS 5</a></p>
+
+<p>この内1セットを配信台としてステージを用意しています。配信台だけは観戦モードで入るSwitchが1台あり、観戦Switchをキャプチャして実況していました。</p>
+
+<p>配信機材については、アメリカでよくあるセッティングです。実現するには、大分昔に書きました <a href="http://ayuha167.github.io/blog/2016/06/30/">ウメブラの配信方法</a> を参考になさってください。</p>
+
+<iframe width="480" height="270" src="https://www.youtube.com/embed/l1xRW_8CSFQ?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+<iframe width="480" height="270" src="https://www.youtube.com/embed/xxO9xG9nino?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+<p>布教が多くて恐縮ですが、スマブラのオフライン大会「ウメブラ」の配信は市販品を駆使した再現可能性高いセッティングになっています。ご参考にしていただければ幸いです。</p>
+
+<h2>まとめ</h2>
+
+<p>運営をしていた EndGameTV お疲れ様でした。ルール・設営全て併せて高い完成度でした。</p>
+
+<p>実は、アメリカのスプラ勢は日本シーンをしっかり把握していて、日本の有名チームにも来て欲しかったけれども：</p>
+
+<ul>
+<li>「大会規模がそこまで大きくないしねえ」</li>
+<li>「招待する金が無いんですよねえ」</li>
+<li>「声がけする方法が無いんです」</li>
+</ul>
+
+
+<p>という理由から断念していました。凄く残念なことです。日本スマブラ界隈ではこの問題を長い年月かけて解決していったため、特に身にしみます。規模が大きくないと言っても、参加者100名ほどがアメリカの広大な大地から集結するため、結構な規模です。ただ、スプラトゥーン2をメイン種目に据えたオフライン大会を開催するのはまだ難しい様子です。</p>
+
+<p>前の記事でも書きましたが、有志のオフライン大会はいくらでも盛り上がって欲しいです。チームタイトルは競技的なオフライン大会を開きづらいとは思いますが、ここに記した要素が役に立てば幸いですし、書いていない点でも、技術的な点であれば @ayuha167 ツイッターへ質問いただければお答え出来ます。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ゲーム大会運営の運営]]></title>
@@ -132,6 +331,8 @@
 <p>ガチesportsは大会運営がどうなっているのかと言うと、リーグ形式です。日本でも League of Legends は世界のリーグの一環に含まれています。勿論選手はチーム単位で活動し、国内で1部リーグ・2部リーグがあり、入れ替え戦があり、2部リーグへの挑戦権獲得戦もあります。大学生トーナメントもあります。日本で優勝すると、世界への挑戦権が与えられます。</p>
 
 <p>逆にesportsになると、年間スケジュールに沿った管理が重要になり、リーグに参加している選手も様々な面で自由が無くなります。esports化していないタイトルであることにも、自由であったり自分の手で管理出来るといったメリットもある訳です。</p>
+
+<p>日本ではゲーム会社が多いため、全体で見ればゲーム大会が多い国になっていますが、ゲームタイトル毎に見ると公式大会が年1でしか行われないことが多いです。公式大会はクオリティが高いですし御前試合ですので盛り上がるのですが、年1でしか大会が無いというのは若者には情熱を持て余してしまいます。プレイヤーの手で、盛り上がるに十分な大会を運営できると単純に楽しいので、もっと日本国内でもオフラインで有志の大会が増えてほしいです。</p>
 ]]></content>
   </entry>
   
@@ -2327,63 +2528,6 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
 
 <p>日本のゲーマーは「eSports社会」が身近でないことから、社会的立ち回りの知識が不足していることが多いです。<br/>
 「パワポが分からない」「文章が書けない」と言い出す人は多いと思いますが、持論として、スキルは「必要に迫られたらやる」のではなく「必要に際してやれなくて後悔する」ものです。まだ学生であったり若い方は、これを参考に、スキルの習得に精を出して頂ければと思います。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Twitch API とサービス]]></title>
-    <link href="/archives/index.html/blog/2016/03/27/"/>
-    <updated>2016-03-27T12:40:21+09:00</updated>
-    <id>/archives/index.html/blog/2016/03/</id>
-    <content type="html"><![CDATA[<p>Twitch API は公開されています。デベロッパの方向け&hellip;程には書くスキルがないのですが、紹介いたします。
-<a href="https://github.com/justintv/Twitch-API">https://github.com/justintv/Twitch-API</a></p>
-
-<!-- more -->
-
-
-<h2>Twitch API</h2>
-
-<p>もしかして、Twitchのことを書くのは初めてでしょうか？<br/>
-というわけで、<a href="https://github.com/justintv/Twitch-API">上のリンク</a>でTwitchのAPIは出ています。これを用いて開発が可能です。</p>
-
-<p><a href="https://www.twitchalerts.com/">Twitch Alerts</a> や <a href="https://nightdev.com/followalert/">Night Dev</a> といった、生放送の体験を拡張する機能から、#TwitchPlaysPokemon で一度Twitterを沸かせた企画まで、色々出来ます。</p>
-
-<h2>最近リリースされたサービス</h2>
-
-<p>そんな中、最近<a href="https://twitter.com/noticoco">のちょうさん</a>がリリースした<a href="http://smacuration.com/stream">スマキュレーション</a>に、配信チェック機能が追加されました。<br/>
-内容は以下のツイートをご参考に：</p>
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">スマキュレーションにスマブラーのTwitch配信の一括視聴機能を追加しました。<br>「1クリックでチャンネル切替」「マルチウインドウ機能（多窓）」など、スマブラの配信が手軽に見られます。<a href="https://t.co/JwPqMIh4eY">https://t.co/JwPqMIh4eY</a> <a href="https://t.co/NwlIJldQAt">pic.twitter.com/NwlIJldQAt</a></p>&mdash; のちょう (@noticoco) <a href="https://twitter.com/noticoco/status/712640718532059138">March 23, 2016</a></blockquote>
-
-
-<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">機能１「チャンネル切替」<br><br>事前に登録してあるスマブラーの配信状態をチェックでき、１クリックで配信が切り替わります。<br>配信状態は一定間隔で自動更新されるので、リロードの必要はありません。<br>一部海外の有名プレイヤーも追加しています。 <a href="https://t.co/mssmlkQu8X">pic.twitter.com/mssmlkQu8X</a></p>&mdash; のちょう (@noticoco) <a href="https://twitter.com/noticoco/status/712642441635975168">March 23, 2016</a></blockquote>
-
-
-<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">機能２「マルチウインドウ」<br><br>右上の「マルチウインドウに切替」を押すことで、リストに載っているプレイヤーを同時視聴できます。<br>最大３窓まで設定を行えます。リストからドラッグ＆ドロップするだけです。<br>※ＰＣ版のみの機能です <a href="https://t.co/dthxGwctSk">pic.twitter.com/dthxGwctSk</a></p>&mdash; のちょう (@noticoco) <a href="https://twitter.com/noticoco/status/712643110958800896">March 23, 2016</a></blockquote>
-
-
-<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">機能３　「スマートフォン視聴」<br><br>通常はTwitchはアプリをインストールしないと視聴できないのですが、ブラウザからそのまま視聴が行えるようにしました。<br>ただ、一部のiOSでしか確認が取れていないため、観れない場合もあるかも？ <a href="https://t.co/QtUNnT7pQE">pic.twitter.com/QtUNnT7pQE</a></p>&mdash; のちょう (@noticoco) <a href="https://twitter.com/noticoco/status/712644257308213249">March 23, 2016</a></blockquote>
-
-
-<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">スマブラを主に配信される方は追加致します！<br>ニコ生派の方はTwitchも同時に配信すればいいんじゃないかな！<br>とゆうことで、みんなTwitchに登録してね！！！！！（熱いステマ）</p>&mdash; のちょう (@noticoco) <a href="https://twitter.com/noticoco/status/712645564899274752">March 23, 2016</a></blockquote>
-
-
-<script async src="/archives/index.html//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<p>Twitch は固定URLで永遠に配信が出来るため、HTMLでのウェブサイト埋め込みをはじめ、こんなこと↑まで可能にしています。</p>
 ]]></content>
   </entry>
   
