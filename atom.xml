@@ -4,7 +4,7 @@
   <title><![CDATA[恋心は超グリーディ]]></title>
   <link href="/archives/index.html/atom.xml" rel="self"/>
   <link href="/archives/index.html/"/>
-  <updated>2018-01-18T07:04:15-08:00</updated>
+  <updated>2018-01-26T05:51:34+09:00</updated>
   <id>/archives/index.html/</id>
   <author>
     <name><![CDATA[アユハ/Ayuha]]></name>
@@ -14,9 +14,131 @@
 
   
   <entry>
+    <title type="html"><![CDATA[ゲーム大会運営の運営]]></title>
+    <link href="/archives/index.html/blog/2018/01/27/"/>
+    <updated>2018-01-27T03:56:03+09:00</updated>
+    <id>/archives/index.html/blog/2018/01/</id>
+    <content type="html"><![CDATA[<p>ゲームで色んなプレイヤーが大会を開催し始めて、いっぱい出てきた時にどう運営するべきかについてです。つまりは競技シーンの形成、更に謂うなれば esports化について、知っていることを書きます。</p>
+
+<!-- more -->
+
+
+<p>本当は次のスプラトゥーン2オフライン大会の記事のおまけ程度に書く予定でしたが、長くなったので別記事にしました。</p>
+
+<h2>ゲームの大会</h2>
+
+<p>ゲームの大会で方針を推敲している時、以下の条件が揃っていると思います：</p>
+
+<ul>
+<li>オープントーナメント</li>
+<li>非公式大会</li>
+<li>競技性を求めたい</li>
+</ul>
+
+
+<p>オープントーナメントとは、参加者が誰でもエントリーできる（or 条件を満たしている人なら誰でもエントリーできる）形式のことで、招待制大会の対と謂えます。例えば招待制大会であれば、既に方針・やりたいことが決まっている事が多いでしょうから迷うことも無いでしょう。また、公式大会を運営されるのであればこの時点でこの記事を読んでいる場合では無いと思います。そして、エンジョイのための大会を開く方も勿論いますが、エンジョイ大会も方針・やりたいことが決まっていると思います。逆説的ですが、最強を決めるための大会ほど意外とルールやメタ的な運営方法が決まりづらい傾向にあります。</p>
+
+<p>というわけで「自分の手で競技的なオープン大会を開いている」という方のために、一歩進んだ内容を記します。</p>
+
+<h2>シード</h2>
+
+<p>オープントーナメントの競技性にはシードが命です。大会の結果が最終的に競技的に妥当かどうかは、ほぼ大会前のシーディングで決まると言っても過言ではありません。シードが正確に実力順に割り振られていると、結果も真に実力順になると謂えますし、見ている人も結果に納得し、その大会を崇めます。更に言うと、競技性の高い大会を開く為のシードを作るために、競技性の高い大会を何度も開催する必要があります。大会は回数を重ねることに大きな意義があります。</p>
+
+<p>※ シード = トーナメントでプレイヤーをどの位置に配置するか。一般的に「実力が高い者を如何に離して置くか」という意味で用いられる。英語では region seed といった表現もあり、これは「近くに住んでいるプレイヤーを離して置く」という意味で用いる（例えば、東京で大会を開催するのに九州から遠征して来た人達同士が予選で当たったら可哀想なので、別予選に置く）。</p>
+
+<h3>プレイヤーランキング</h3>
+
+<p>じゃあ実力シード順はどう作るのかと言うと、テニスのように「プレイヤーランキング」を常設して、大会ではエントリーしたプレイヤーをこのランキング順に割り振ればいいだけです。客観的な数値に基づけば、誰からも物言いがつきません。</p>
+
+<p>例えばスマブラ4には、日本プレイヤーランキング「JPR」が存在します↓</p>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Smash 4 Japan Power Rankings V4 (January 2017 - January 2018)<br>Graphics by <a href="https://twitter.com/sqrt__?ref_src=twsrc%5Etfw">@sqrt__</a> <br><br>スマブラ4プレイヤーランキングV4を公開しました  <a href="https://twitter.com/hashtag/JPRv4?src=hash&amp;ref_src=twsrc%5Etfw">#JPRv4</a> <a href="https://t.co/FUhms68mxJ">pic.twitter.com/FUhms68mxJ</a></p>&mdash; Haruki #SmashRecord (@harukisb) <a href="https://twitter.com/harukisb/status/955440620218105857?ref_src=twsrc%5Etfw">January 22, 2018</a></blockquote>
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>上のランキングは最新のモノです。前のバージョンの際に作成者が書いたブログですが、プレイヤーランキングの決め方・思想が載っています：<a href="http://harukisb.hatenablog.com/entry/2016/11/03/230644">http://harukisb.hatenablog.com/entry/2016/11/03/230644</a></p>
+
+<p>しかし、プレイヤーランキングの作成方法に物言いがつくことはあります。参考になりますので、以下の批判もセットで御覧ください↓<br/>
+しょーぐん批判：<a href="http://shogunsnake.hatenablog.com/entry/2018/01/23/210728">http://shogunsnake.hatenablog.com/entry/2018/01/23/210728</a></p>
+
+<p>批判はありますが、それはプレイヤーランキングで何を追求したいかという意志次第です。「揉めるタネになるからランキングを出すのは避けたい」という発想は有り得ますが、それでもランキングは出したほうが良いです。やはり大会の競技性に繋がりますし、参加者のモチベに繋がりますし、ランキングはプレイヤーの名刺代わりにもなります。</p>
+
+<p>団体ゲームになるとココが難しくなってきます。スプラトゥーン2では、様々な理由によりチームが解散することが多いと聴いています。すると、チームごとにランクを付けると、一度付けたランクが意味が無くなってしまうことになります。解決するには、</p>
+
+<ul>
+<li>個人ごとにランクを付ける。大会結果に応じて何かしらの形で個人にポイントが入り、チームの戦闘力は4人の戦闘力の合計になればいい。チームを解散・組み換えしても、個人戦闘力を足せばチーム戦闘力は測れる。厳密に評価できるが、計算が煩雑。</li>
+<li>メンバーが抜けてもチーム名は維持する（海外ではこちらが主流）。ポイント・ランキングはチーム毎に計算されるため、たとえメンバーが4人中3人抜けようとも、チーム名は変えず、チームのランクもそのまま維持される。次の大会で結果が大幅に下がることが見込まれるが、計算が楽。</li>
+</ul>
+
+
+<p>こういった手法が考えられます。アメリカのスプラトゥーン2では、Splat Stats が大会結果で「チーム毎に」ランク付けしていました。<br/>
+<a href="https://twitter.com/SplatStats">https://twitter.com/SplatStats</a></p>
+
+<h3>大会ランキング</h3>
+
+<p>そのプレイヤーランキングを決める基盤が、大会ラインキングです。例えばテニスでは4大大会は世界ランキングに反映されるポイントが多めになっており、他大会とは比重が異なります。この傾斜の付け方が大会ランキングです。</p>
+
+<p>スプラトゥーン2ではオンライン大会が多いため、特に大会数が飽和してくると思います。凄く良いことで、ほぼ全てのゲームで大会数は飽和しません（寧ろ足りなくて飢餓状態になります）。しかし多すぎると、出場する側が疲れるという問題があります。スマブラやスト5は大会の出過ぎで体調を崩す（最悪の実例では入院）選手を沢山見てきましたので、休むべきです。</p>
+
+<p>そこで、大会をランク付けして解決します。
+どうランク付けするかと言うと、</p>
+
+<ul>
+<li>エントリー人数</li>
+<li>上位ランカーが何名参加しているか</li>
+</ul>
+
+
+<p>で評価を付けます。<br/>
+実際にスマブラ世界ランク（Panda Global Ranking）で用いられる、大会と評価を割り振った表がこちらです↓。日本の大会も含まれています。（Tournament が大会名・Tierが評価です）：
+<a href="https://docs.google.com/spreadsheets/d/1yp15-NiSgw1PR_AsdFLfy4RQpm4EgpvDrfokxRrSYfU/edit">https://docs.google.com/spreadsheets/d/1yp15-NiSgw1PR_AsdFLfy4RQpm4EgpvDrfokxRrSYfU/edit</a></p>
+
+<p>S,A,B,C と割り振られているのが分かるでしょうか。（実際はC以下の大会も有る。）こうすると、超上位勢同士が同じ大会に揃って出る目安が見えてきます。では、強い人が出なかった結果ランク付けを低くされた大会は意味が無いのかというと、そういう訳ではありません。逆に超上位勢が低ランク大会に出なくなることで、</p>
+
+<ul>
+<li>超上位勢が休暇を取れる</li>
+<li>中堅プレイヤーが活躍して認知される</li>
+<li>中堅プレイヤーにもランキングポイントがある程度入る</li>
+<li>中堅プレイヤーが決勝ルールを経験できる</li>
+</ul>
+
+
+<p>といったメリットがあります。<br/>
+決勝ルールに関しては、多くの大会で決勝付近は違うルールになります。例えばずっと2本先取なのにTop8から3本先取になるといった具合です。3本先取は経験がモノを言うので、真剣勝負で経験できる場は貴重な機会です。</p>
+
+<p>また、「中堅にもポイントが入る」に関しては一見「弱いやつが過大評価されて良くないのでは？」と思えるのですが、そうではないです。大会ランク分け無しにやってしまうと、全ポイントが一握りの強豪に持って行かれて、中堅以下（もはや「上の中」以下）にポイントが一切入らなくなります。下がサチってしまいます。これでは意味がありません。</p>
+
+<p>ストVでは、Capcom Pro Tour という世界ツアー形式になっており、どの大会が認定されており、更にどの大会が Premier なのか（上位入賞に追加特典がある）を示しています。↓
+<a href="https://capcomprotour.com/schedule/">https://capcomprotour.com/schedule/</a></p>
+
+<h3>大会運営の運営</h3>
+
+<p>過去にスト4（現スト5）やロケットリーグといったゲームが、まさに世界で「大会数が飽和している状態」でした。そこで大会を秩序立て、日付を割り振り、大会のランキングを明示したことで、競技性が高くなったと言われています。こういった運営アドバイスをTwitchはしているので、気になりましたら実際にそれをしている人達（ZhiやNintendude）に私から質問をすることも出来ます。</p>
+
+<p>また、大会運営はどうやってきたのかを追ったスマブラ4界隈の歴史に関してのインタビューがありますので、時系列順でなにをしたのかは参考になるかと思います：</p>
+
+<ul>
+<li>前篇 : <a href="http://jp.automaton.am/articles/gamer-pick/20170711-50442/2/">http://jp.automaton.am/articles/gamer-pick/20170711-50442/2/</a></li>
+<li>後編 : <a href="http://jp.automaton.am/articles/gamer-pick/20170712-50556/">http://jp.automaton.am/articles/gamer-pick/20170712-50556/</a></li>
+</ul>
+
+
+<h2>esports</h2>
+
+<p>狭義な話をすると、この更に上まで詰めたものを “esports” と呼びます。日本では躍起になってなんでもesportsと命名されますが、「ゲームだって大会運営しっかりしていて強いプレイヤーを序列づけているからスポーツみたいじゃん」という道順でesportsという単語は生まれました。厳しい話をするとスマブラ4（DXも）でさえ、esports と呼べるかはギリギリグレーな領域です。</p>
+
+<p>ガチesportsは大会運営がどうなっているのかと言うと、リーグ形式です。日本でも League of Legends は世界のリーグの一環に含まれています。勿論選手はチーム単位で活動し、国内で1部リーグ・2部リーグがあり、入れ替え戦があり、2部リーグへの挑戦権獲得戦もあります。大学生トーナメントもあります。日本で優勝すると、世界への挑戦権が与えられます。</p>
+
+<p>逆にesportsになると、年間スケジュールに沿った管理が重要になり、リーグに参加している選手も様々な面で自由が無くなります。esports化していないタイトルであることにも、自由であったり自分の手で管理出来るといったメリットもある訳です。</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[なぜ入試で漢文が出るのか そして提案]]></title>
     <link href="/archives/index.html/blog/2018/01/18/"/>
-    <updated>2018-01-18T01:06:32-08:00</updated>
+    <updated>2018-01-18T18:06:32+09:00</updated>
     <id>/archives/index.html/blog/2018/01/</id>
     <content type="html"><![CDATA[<p>こんにちは、漢文大好きマンです。本日は、毎年この時期センター試験がやって来て「なぜ古文漢文が入試で必要なのか」という論調を見かけるため、私の知っている範囲で意見を述べたいです。</p>
 
@@ -195,8 +317,8 @@
   
   <entry>
     <title type="html"><![CDATA[ゼノブレイド2 ストーリー考察]]></title>
-    <link href="/archives/index.html/blog/2017/12/10/"/>
-    <updated>2017-12-10T07:32:15-08:00</updated>
+    <link href="/archives/index.html/blog/2017/12/11/"/>
+    <updated>2017-12-11T00:32:15+09:00</updated>
     <id>/archives/index.html/blog/2017/12/</id>
     <content type="html"><![CDATA[<p>こんにちは、ゼノブレイド大好き伯爵です。今回は、寝る間を惜しんでプレイした超大作JRPG『ゼノブレイド2』のストーリーについて考察していこうと思います。（小学生並のイントロ）</p>
 
@@ -300,8 +422,8 @@
   
   <entry>
     <title type="html"><![CDATA[FF9 ストーリー 考察]]></title>
-    <link href="/archives/index.html/blog/2017/12/05/"/>
-    <updated>2017-12-05T10:00:52-08:00</updated>
+    <link href="/archives/index.html/blog/2017/12/06/"/>
+    <updated>2017-12-06T03:00:52+09:00</updated>
     <id>/archives/index.html/blog/2017/12/</id>
     <content type="html"><![CDATA[<p>こんにちは。タイトルにある通り FF9（FINAL FANTASY Ⅸ）のストーリーを構造的に考察する投稿です。FF7, FF10 に対して、FF9は物語の設計を構造的に説明することが出来るにも関わらず難解ということで、自分でもふと思い立ってこの構想に至り、結論が出たため記す次第です。</p>
 
@@ -362,7 +484,7 @@
   <entry>
     <title type="html"><![CDATA[今夜勝ちたいスプラトゥーン2 -前作未プレイ勢へ贈る-]]></title>
     <link href="/archives/index.html/blog/2017/07/24/"/>
-    <updated>2017-07-24T02:29:48-07:00</updated>
+    <updated>2017-07-24T18:29:48+09:00</updated>
     <id>/archives/index.html/blog/2017/07/</id>
     <content type="html"><![CDATA[<p>こんにちは。ほぼ未プレイ勢の私が、スプラトゥーン2で今夜勝つ方法をまとめました。</p>
 
@@ -464,8 +586,8 @@
   
   <entry>
     <title type="html"><![CDATA[伯爵位受勲について]]></title>
-    <link href="/archives/index.html/blog/2017/04/18/"/>
-    <updated>2017-04-18T10:25:16-07:00</updated>
+    <link href="/archives/index.html/blog/2017/04/19/"/>
+    <updated>2017-04-19T02:25:16+09:00</updated>
     <id>/archives/index.html/blog/2017/04/</id>
     <content type="html"><![CDATA[<p>こんにちは。アユハ &ldquo;伯爵&rdquo; です。<br/>
 シーランド公国ロイヤルファミリーより2017年4月3日付で伯爵（Count）位を受勲されたため報告いたします。</p>
@@ -576,7 +698,7 @@
   <entry>
     <title type="html"><![CDATA[初心者ストリーマー向けガイド]]></title>
     <link href="/archives/index.html/blog/2017/03/03/"/>
-    <updated>2017-03-03T00:48:16-08:00</updated>
+    <updated>2017-03-03T17:48:16+09:00</updated>
     <id>/archives/index.html/blog/2017/03/</id>
     <content type="html"><![CDATA[<p><a href="">theGunrun</a>翻訳シリーズです。今回は First Timer Guide ということで、初心者向けの内容です。ゲーム実況・個人配信・ストリーマー等々名称は様々ございますが、どうやったら人気になれるかの流れを書きました（訳しました）。逆にこれらをご存じなかったら初心者ということになりますので、心してかかってください。</p>
 
@@ -697,8 +819,8 @@
   
   <entry>
     <title type="html"><![CDATA[Twitchストリーマーガイド一覧]]></title>
-    <link href="/archives/index.html/blog/2017/03/01/"/>
-    <updated>2017-03-01T23:32:39-08:00</updated>
+    <link href="/archives/index.html/blog/2017/03/02/"/>
+    <updated>2017-03-02T16:32:39+09:00</updated>
     <id>/archives/index.html/blog/2017/03/</id>
     <content type="html"><![CDATA[<p>Twitch での 生配信/ライブストリーム/生放送 の方法一覧です。新情報が出る度に随時追記して行きます。</p>
 
@@ -722,7 +844,7 @@
   <entry>
     <title type="html"><![CDATA[【訳】Twitch 配信, PCの基本]]></title>
     <link href="/archives/index.html/blog/2017/02/23/"/>
-    <updated>2017-02-23T01:14:50-08:00</updated>
+    <updated>2017-02-23T18:14:50+09:00</updated>
     <id>/archives/index.html/blog/2017/02/</id>
     <content type="html"><![CDATA[<p>「Twitchで配信したいけれど、簡単でいいからPCで最低限のセッティングをしたい！」&hellip;という方のために書きました。Twitch 本社の @theGunrun の指導を和訳しました。網羅性と妥当性があると思いますが、疑問がありましたらツイッターで <a href="https://twitter.com/ayuha167">@ayuha167</a> へ。</p>
 
@@ -970,7 +1092,7 @@ twitch.tv/omoroiyankee から</p>
   <entry>
     <title type="html"><![CDATA[Genesis4 旅日記 ブログエントリー]]></title>
     <link href="/archives/index.html/blog/2017/02/17/"/>
-    <updated>2017-02-17T04:35:08-08:00</updated>
+    <updated>2017-02-17T21:35:08+09:00</updated>
     <id>/archives/index.html/blog/2017/02/</id>
     <content type="html"><![CDATA[<p>2017年2月中旬に公開した “Genesis4 旅日記” のブログエントリーです。この旅日記はウェブサイト上でしか公開していませんが、履歴のためにブログにもURL載せました。それだけです。&hellip;毎年恒例です。
 <a href="http://ayuha167.web.fc2.com/lian_xinhaguridi/Genesis4_00.html">http://ayuha167.web.fc2.com/lian_xinhaguridi/Genesis4_00.html</a></p>
@@ -996,32 +1118,9 @@ twitch.tv/omoroiyankee から</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[よしもとファクション 加入について]]></title>
-    <link href="/archives/index.html/blog/2017/02/06/"/>
-    <updated>2017-02-06T01:27:58-08:00</updated>
-    <id>/archives/index.html/blog/2017/02/</id>
-    <content type="html"><![CDATA[<p>「よしもとファクション」という部署に所属になったので報告いたします。</p>
-
-<!-- more -->
-
-
-<h1>仕事のお話？</h1>
-
-<p>久々に仕事の内容です。<br/>
-「よしもとファクション」は 吉本興業株式会社 の中で、新しいコンテンツの探求・アイデア出しを行っていく部署です。私は、というかメンバーは業務委託です。「よしもと」は事業ごとに関連会社がたくさん有りますが、吉本興業は本体にあたります。<br/>
-デジタルコンテンツの知識を役立てられればと思います。</p>
-
-<h2>Twitch は？</h2>
-
-<p>Twitch は変わらず今まで通りです。<br/>
-共によろしくお願いいたします。</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[2017年1月 世界WiiUスマブラーTop16情報]]></title>
-    <link href="/archives/index.html/blog/2017/01/13/"/>
-    <updated>2017-01-13T21:49:49-08:00</updated>
+    <link href="/archives/index.html/blog/2017/01/14/"/>
+    <updated>2017-01-14T14:49:49+09:00</updated>
     <id>/archives/index.html/blog/2017/01/</id>
     <content type="html"><![CDATA[<p>「スマブラ」総合大会 &ldquo;Genesis4&rdquo; が今年もやってきます。毎年恒例の「年始トッププレイヤー紹介」です。2017年1月20-22日に開催されるこの大会の、Top16シードを、プロシーンの側面から紹介します。</p>
 
@@ -1258,7 +1357,7 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
   <entry>
     <title type="html"><![CDATA[セジュン来日前に質問]]></title>
     <link href="/archives/index.html/blog/2017/01/04/"/>
-    <updated>2017-01-04T01:25:46-08:00</updated>
+    <updated>2017-01-04T18:25:46+09:00</updated>
     <id>/archives/index.html/blog/2017/01/</id>
     <content type="html"><![CDATA[<p>SGC が開催されます。ポケモンの『シングル厨』そしてスマブラの『ウメブラ』による合同開催イベントです。<br/>
 このイベントの目玉参戦プレイヤーである「セジュン」こと Sejun Park に、お話を聞きました。</p>
@@ -1332,7 +1431,7 @@ Immortals 所属。LoLは北米Championship Series参加。CS:GO, Overwatch チ�
   <entry>
     <title type="html"><![CDATA[RTA in Japan の もか さんにインタビュー]]></title>
     <link href="/archives/index.html/blog/2017/01/03/"/>
-    <updated>2017-01-03T03:05:47-08:00</updated>
+    <updated>2017-01-03T20:05:47+09:00</updated>
     <id>/archives/index.html/blog/2017/01/</id>
     <content type="html"><![CDATA[<p>2016年12月28-30日。RTA in Japan というオフラインイベントが行われました。</p>
 
@@ -1521,8 +1620,8 @@ LiveSplit というストップウォッチがいま主流ですね。電波時�
   
   <entry>
     <title type="html"><![CDATA[スマホからTwitchへ配信！]]></title>
-    <link href="/archives/index.html/blog/2016/12/16/"/>
-    <updated>2016-12-16T18:57:49-08:00</updated>
+    <link href="/archives/index.html/blog/2016/12/17/"/>
+    <updated>2016-12-17T11:57:49+09:00</updated>
     <id>/archives/index.html/blog/2016/12/</id>
     <content type="html"><![CDATA[<p>こんにちはアユハです。<br/>
 スマホからTwitchへ、ボタン操作でカメラ生配信を可能とする手引です。</p>
@@ -1589,9 +1688,9 @@ LiveSplit というストップウォッチがいま主流ですね。電波時�
   
   <entry>
     <title type="html"><![CDATA[AndroidからTwitchへ配信]]></title>
-    <link href="/archives/index.html/blog/2016/12/16/title2/"/>
-    <updated>2016-12-16T18:57:03-08:00</updated>
-    <id>/archives/index.html/blog/2016/12/16/title2</id>
+    <link href="/archives/index.html/blog/2016/12/17/title2/"/>
+    <updated>2016-12-17T11:57:03+09:00</updated>
+    <id>/archives/index.html/blog/2016/12/17/title2</id>
     <content type="html"><![CDATA[<p>タイトルのとおりです。</p>
 
 <p>こちらの投稿：<a href="http://ayuha167.github.io/blog/2016/12/17/">http://ayuha167.github.io/blog/2016/12/17/</a></p>
@@ -1647,9 +1746,9 @@ Twitch アプリを態々開くのが億劫であるなら、BitStream から配
   
   <entry>
     <title type="html"><![CDATA[iOSからTwitchへ配信]]></title>
-    <link href="/archives/index.html/blog/2016/12/16/title1/"/>
-    <updated>2016-12-16T18:55:47-08:00</updated>
-    <id>/archives/index.html/blog/2016/12/16/title1</id>
+    <link href="/archives/index.html/blog/2016/12/17/title1/"/>
+    <updated>2016-12-17T11:55:47+09:00</updated>
+    <id>/archives/index.html/blog/2016/12/17/title1</id>
     <content type="html"><![CDATA[<p>タイトルのとおりです。</p>
 
 <p>こちらの投稿：<a href="http://ayuha167.github.io/blog/2016/12/17/">http://ayuha167.github.io/blog/2016/12/17/</a></p>
@@ -1777,8 +1876,8 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
   
   <entry>
     <title type="html"><![CDATA[EVO2016で結果を残した日本スマブラWiiU勢。日本のシーンの秘訣。]]></title>
-    <link href="/archives/index.html/blog/2016/08/16/"/>
-    <updated>2016-08-16T22:24:19-07:00</updated>
+    <link href="/archives/index.html/blog/2016/08/17/"/>
+    <updated>2016-08-17T14:24:19+09:00</updated>
     <id>/archives/index.html/blog/2016/08/</id>
     <content type="html"><![CDATA[<p>総合格闘ゲームの祭典：EVO2016が先月開催されました。エントリー数もEVO9種目の中で2番目というスマブラWiiUはEVO内でも一大イベントであり、生放送の視聴数字でも存在感を見せました。アメリカでは名門のプロチームがスマブラ部門を設立し、シーンが勢いに乗る中、いかにして日本のプレイヤー達がこれに刃向かって太刀打ちし、結果を残したのかにクローズアップしたいです。</p>
 
@@ -1965,7 +2064,7 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
   <entry>
     <title type="html"><![CDATA[ウメブラの配信方法 : XsplitでTwitchへ生配信]]></title>
     <link href="/archives/index.html/blog/2016/06/30/"/>
-    <updated>2016-06-30T06:00:28-07:00</updated>
+    <updated>2016-06-30T22:00:28+09:00</updated>
     <id>/archives/index.html/blog/2016/06/</id>
     <content type="html"><![CDATA[<p>2016年5月現在、ウメブラのTwitch配信方法です。今の自分の現知識を裂き出したモノです。資する所があればと存じます。<br/>
 特に、Xsplitを用いたTwitchでの配信に注力して記しています。長いですが、情報を詰め込みました。今まで配信でお困りの点が有る方は、お手数ですが読まれてのち、更に不明点をツイッター <a href="https://twitter.com/ayuha167">@ayuha167</a> に下さればと思います。</p>
@@ -2143,8 +2242,8 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
   
   <entry>
     <title type="html"><![CDATA[実績あるゲーマーがプロゲーマーになるためにすべきこと]]></title>
-    <link href="/archives/index.html/blog/2016/05/16/"/>
-    <updated>2016-05-16T22:45:28-07:00</updated>
+    <link href="/archives/index.html/blog/2016/05/17/"/>
+    <updated>2016-05-17T14:45:28+09:00</updated>
     <id>/archives/index.html/blog/2016/05/</id>
     <content type="html"><![CDATA[<p>歴戦のゲーマーがその累々たる実績をひっさげて、寝かせておけば芽が出てプロゲーマーになる訳ではありません。天下無双の英雄であればそうかもしれませんが、ゲーマー誰もが英雄ではありません。そこで、英雄でない人はどうアクションを取れば良いのでしょうか。<br/>
 最近は「eSports業界」に仕事として飛び込むことに興味がある人（ライター, 大会運営, 機器メーカー）もいます。そういう方にもあてはまる内容なので、参考にして頂ければと存じます。</p>
@@ -2233,8 +2332,8 @@ Settings（画面上端をスワイプして現れる青い歯車）から、Ext
   
   <entry>
     <title type="html"><![CDATA[Twitch API とサービス]]></title>
-    <link href="/archives/index.html/blog/2016/03/26/"/>
-    <updated>2016-03-26T20:40:21-07:00</updated>
+    <link href="/archives/index.html/blog/2016/03/27/"/>
+    <updated>2016-03-27T12:40:21+09:00</updated>
     <id>/archives/index.html/blog/2016/03/</id>
     <content type="html"><![CDATA[<p>Twitch API は公開されています。デベロッパの方向け&hellip;程には書くスキルがないのですが、紹介いたします。
 <a href="https://github.com/justintv/Twitch-API">https://github.com/justintv/Twitch-API</a></p>
