@@ -4,7 +4,7 @@
   <title><![CDATA[恋心は超グリーディ]]></title>
   <link href="/archives/index.html/atom.xml" rel="self"/>
   <link href="/archives/index.html/"/>
-  <updated>2018-01-26T06:15:50+09:00</updated>
+  <updated>2018-01-29T06:23:26+09:00</updated>
   <id>/archives/index.html/</id>
   <author>
     <name><![CDATA[アユハ/Ayuha]]></name>
@@ -128,7 +128,7 @@
 <ul>
 <li>ドックはUSBで有線LANにつながって置いてある</li>
 <li>ドック8台がLANポートにクロスLANケーブルで接続</li>
-<li>Switch を挿したら、各自「設定」で有線LANに設定</li>
+<li>自分の Switch を挿したら、各自「設定」で有線LANに設定</li>
 <li>ここでエラーが発生するが、無視して良い。</li>
 <li>（つまり、各Switchはインターネットに繋がっていない。インターネットを介さず、ハブだけで機体を繋ぐ。）</li>
 <li>スプラトゥーン2で各自「イカッチャ」を起動</li>
@@ -170,16 +170,14 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<p>[実際に隣りにいる集団]</p>
+<p>[実際に隣にいる集団]</p>
 
 <p>このオーディオの部分が、最も日本での再現が難しいです。再現するとしたらしっかりしたオーディオミキサーを買わないといけません。この辺の機器のアクセサビリティはesports産業の差と謂えます。</p>
 
 <h3>配信台</h3>
 
-<iframe src="https://player.twitch.tv/?autoplay=false&video=v220575455" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/xCeF4YRg1s8?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
-<p><a href="https://www.twitch.tv/videos/220575455?tt_content=text_link&tt_medium=vod_embed&t=10h08m10s” style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;">EndGameTV1 GENESIS 5</a></p>
 
 <p>この内1セットを配信台としてステージを用意しています。配信台だけは観戦モードで入るSwitchが1台あり、観戦Switchをキャプチャして実況していました。</p>
 
@@ -193,7 +191,7 @@
 
 <p>布教が多くて恐縮ですが、スマブラのオフライン大会「ウメブラ」の配信は市販品を駆使した再現可能性高いセッティングになっています。ご参考にしていただければ幸いです。</p>
 
-<h2>まとめ</h2>
+<h2>さいごに</h2>
 
 <p>運営をしていた EndGameTV お疲れ様でした。ルール・設営全て併せて高い完成度でした。</p>
 
@@ -208,7 +206,18 @@
 
 <p>という理由から断念していました。凄く残念なことです。日本スマブラ界隈ではこの問題を長い年月かけて解決していったため、特に身にしみます。規模が大きくないと言っても、参加者100名ほどがアメリカの広大な大地から集結するため、結構な規模です。ただ、スプラトゥーン2をメイン種目に据えたオフライン大会を開催するのはまだ難しい様子です。</p>
 
-<p>前の記事でも書きましたが、有志のオフライン大会はいくらでも盛り上がって欲しいです。チームタイトルは競技的なオフライン大会を開きづらいとは思いますが、ここに記した要素が役に立てば幸いですし、書いていない点でも、技術的な点であれば @ayuha167 ツイッターへ質問いただければお答え出来ます。</p>
+<p>海外遠征に関してはどうやっても「回収できないお金」がかかります。そこでスマブラ勢は Donation や Compendium といったシステムを使ってアメリカまで飛びます。</p>
+
+<ul>
+<li>Donation : <a href="https://streamlabs.com/">Streamlabs</a> と連携して、ライブ配信しながらファンに求める。「いくらまで溜まったら遠征します」というゴールを設定して、SubscribeやBitsを集める。</li>
+<li>Compendium : 大会が設定する。Smash.gg には機能がついている。「グッズを買うか直接寄付でこのプレイヤーの渡航費に充てよう」という呼びかけ。</li>
+</ul>
+
+
+<p><img src="/archives/index.html/images/59fa15bc2ee40fc860000001.png" alt="&quot;代替メッセージ&quot;" /><br/>
+[過去のCompendium, 2GG MkLeo Saga]</p>
+
+<p><a href="http://ayuha167.github.io/blog/2018/01/26/">前の記事</a> でも書きましたが、有志のオフライン大会はいくらでも盛り上がって欲しいです。チームタイトルは競技的なオフライン大会を開きづらいとは思いますが、ここに記した要素が役に立てば幸いですし、書いていない点でも、技術的な点であれば @ayuha167 ツイッターへ質問いただければお答え出来ます。</p>
 ]]></content>
   </entry>
   
@@ -309,7 +318,7 @@
 
 <p>また、「中堅にもポイントが入る」に関しては一見「弱いやつが過大評価されて良くないのでは？」と思えるのですが、そうではないです。大会ランク分け無しにやってしまうと、全ポイントが一握りの強豪に持って行かれて、中堅以下（もはや「上の中」以下）にポイントが一切入らなくなります。下がサチってしまいます。これでは意味がありません。</p>
 
-<p>ストVでは、Capcom Pro Tour という世界ツアー形式になっており、どの大会が認定されており、更にどの大会が Premier なのか（上位入賞に追加特典がある）を示しています。↓
+<p>ストVでは、Capcom Pro Tour という世界ツアー形式になっており、Capcom USA の手で各地の大会が認定されており、更にどの大会が Premier なのか（上位入賞に追加特典がある）を示しています。↓
 <a href="https://capcomprotour.com/schedule/">https://capcomprotour.com/schedule/</a></p>
 
 <h3>大会運営の運営</h3>
