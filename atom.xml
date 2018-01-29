@@ -4,7 +4,7 @@
   <title><![CDATA[恋心は超グリーディ]]></title>
   <link href="/archives/index.html/atom.xml" rel="self"/>
   <link href="/archives/index.html/"/>
-  <updated>2018-01-29T12:34:39+09:00</updated>
+  <updated>2018-01-29T22:50:49+09:00</updated>
   <id>/archives/index.html/</id>
   <author>
     <name><![CDATA[アユハ/Ayuha]]></name>
@@ -127,7 +127,7 @@
 
 <ul>
 <li>ドックはUSBで有線LANにつながって置いてある</li>
-<li>ドック8台がLANポートにクロスLANケーブルで接続</li>
+<li>ドック8台がLANポートにストレートLANケーブルで接続</li>
 <li>自分の Switch を挿したら、各自「設定」で有線LANに設定</li>
 <li>ここでエラーが発生するが、無視して良い。</li>
 <li>（つまり、各Switchはインターネットに繋がっていない。インターネットを介さず、ハブだけで機体を繋ぐ。）</li>
