@@ -4,7 +4,7 @@
   <title><![CDATA[恋心は超グリーディ]]></title>
   <link href="/archives/index.html/atom.xml" rel="self"/>
   <link href="/archives/index.html/"/>
-  <updated>2021-01-13T19:37:41+09:00</updated>
+  <updated>2021-01-25T20:19:16+09:00</updated>
   <id>/archives/index.html/</id>
   <author>
     <name><![CDATA[アユハ/Ayuha]]></name>
@@ -12,6 +12,174 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[スマホからTwitchへライブ配信 2021]]></title>
+    <link href="/archives/index.html/blog/2021/01/25/"/>
+    <updated>2021-01-25T15:38:27+09:00</updated>
+    <id>/archives/index.html/blog/2021/01/</id>
+    <content type="html"><![CDATA[<p>スマホからTwitchへ、ゲームをキャプチャしたライブ配信が可能になったため（β版）、その手法について2021年1月現在のものをまとめました。</p>
+
+<!-- more -->
+
+
+<p>まだオフィシャルの説明は出ていませんが、特に日本の方に需要が有ると思い、β版の時点の情報をこちらに記します。機能は既存の Twitch アプリの中にあるため、既にご視聴で利用されている方はそのままいけます。ちなみに従来から可能だった「雑談配信」も同じ手順ですので、途中までご覧頂ければ説明をしています。</p>
+
+<h2>準備</h2>
+
+<p>Twitch アプリをお持ちの モバイル/スマホ/タブレット へダウンロードして下さい。</p>
+
+<p><img src="/archives/index.html/images/mobile/AppStore.png" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［iOS での Twitch アプリ画面, 改めて評価数と評価値にビックリしています。］</p>
+
+<p>ダウンロードURL :</p>
+
+<ul>
+<li><a href="https://apps.apple.com/jp/app/twitch/id460177396">iOS Twitch アプリ</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=tv.twitch.android.app">Android Twitch アプリ</a></li>
+</ul>
+
+
+<p>勿論このアプリは視聴もできますので、既に入っている方も居ると思います。その場合は最新のバージョンへアップデートして下さい。（念の為、iOS も最新のものを推奨しています。）</p>
+
+<p>はじめての方は起動時にアカウントを作成頂きます。ライブ配信を想定されている方は、アカウント名が『チャンネル名』かつ『URL』になるのでご注意下さい。</p>
+
+<p>例えば筆者のユーザーIDは ayuha167 なので、ライブ配信するときは毎回：</p>
+
+<ul>
+<li><a href="twitch.tv/ayuha167">twitch.tv/ayuha167</a></li>
+</ul>
+
+
+<p>とツイートするだけで大丈夫です。アプリの中で検索する際も、筆者のチャンネル名は ayuha167 です。便利なのですが、今後もずっと用いるIDなので、よく考えてお決め下さい。</p>
+
+<p>Twitch 視聴画面の画像</p>
+
+<h2>開始</h2>
+
+<p>ではいざ配信を開始します。Android/iOS 共に可能ですが、今回は iOS の画面を用いて解説いたします。大きな差はないため、同様に進行してください。</p>
+
+<h3>①</h3>
+
+<p><img src="/archives/index.html/images/mobile/i00.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［Twitch iOS アプリを起動した時の画面］</p>
+
+<p>アプリのトップ画面がこのように↑なっていますので、矢印の先にあるカメラ（🎥）のボタンを押します。</p>
+
+<h3>②</h3>
+
+<p><img src="/archives/index.html/images/mobile/i01.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［Twitch iOS アプリ : 配信開始への入り口］</p>
+
+<p>この画面↑が現れたら正しいステップです。「ゲームを配信する」のボタンを押して下さい。<br/>
+※「雑談を配信する」は従来からついている機能です。こちらを押せばスマホについているカメラとマイクを用いて雑談配信が可能です。</p>
+
+<p>もし「権限が必要」と訊かれた場合は、「はい」を押したりスイッチをONにしたり、適宜権限付与をお願いします。</p>
+
+<h3>③</h3>
+
+<p><img src="/archives/index.html/images/mobile/i02.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［Twitch iOS アプリ : ゲームタイトルを選択］</p>
+
+<p>ライブ配信をする際は最終的にスクリーンキャプチャになるのですが、この時点でゲームタイトルをご選択頂きます。</p>
+
+<h3>④</h3>
+
+<p><img src="/archives/index.html/images/mobile/i03.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［Twitch iOS アプリ : 最後の段階］</p>
+
+<p>これで最後の画面です↑。「配信情報の編集」を押して配信のタイトルや細かい設定をしてください。<br/>
+音声設定・マイク設定をここから行えます。<br/>
+下の紫色の「◎」のボタンを押されると配信開始です。終了時もこのボタンを押して下さい。</p>
+
+<p><img src="/archives/index.html/images/mobile/317369.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［Twitch Android アプリ : 最後の段階］</p>
+
+<p>Android ですと最後の画面が少し異なり、このようになっています↑。同様に配信タイトルを記入し、言語を「日本語」へ変更され、「ゲームをはじめる」ボタンから開始してください。</p>
+
+<h2>注意点</h2>
+
+<p>はじめて起動された場合はこのような注意書きが登場します。こちらに改めて置いておきます。</p>
+
+<p><img src="/archives/index.html/images/mobile/317368.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［注意書き］</p>
+
+<p>こちらの注意書きを基にすると、以下のような対策を取ってください：</p>
+
+<ul>
+<li>普段スマホで通話するような準備をした方が良いです。イヤホンやマイク付きイヤホンをつけてください。逆に、外部に出してしまうスピーカーは解除しましょう。</li>
+<li>スマホの備え付けマイクを用いる場合、そこを手で遮らないで下さい。マイクに音声が入りません。</li>
+<li>通知が表示されないよう、iOS や Android の「設定」から「通知」を OFF にしましょう。</li>
+<li>画面ロックを完全に解除しておきましょう。スマホがスリープして画面が暗くなるとライブ配信が止まります。</li>
+</ul>
+
+
+<p>また、ライブ配信は基本的に「横向き」（Vertical）となります。</p>
+
+<h2>チャット（コメント）について</h2>
+
+<p>配信中に視聴者からいただくチャット（コメント）は、このように確認できます：</p>
+
+<ul>
+<li>Android の場合、配信オーバーレイでチャットを表示できます。</li>
+</ul>
+
+
+<p><img src="/archives/index.html/images/mobile/i03_2.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［Twitch iOS アプリ : 配信マネージャーの位置］</p>
+
+<ul>
+<li>iOS の場合、Twitch アプリの右上から「配信マネージャー」を出すとチャット欄を見ることが出来ます。</li>
+</ul>
+
+
+<p>現状β版なので更に改良が加わることが見込まれますが、続報をお待ち下さい。</p>
+
+<h2>アーカイブ</h2>
+
+<p>ライブ配信のアーカイブを残す設定だけは現段階、ブラウザから設定せねばなりません。スマホのブラウザ（Safari, Chrome など）を開き、以下のURLへ入って下さい。</p>
+
+<ul>
+<li><a href="twitch.tv/dashboard">ダッシュボード</a> : twitch.tv/dashbaord</li>
+</ul>
+
+
+<p>ログインを要求されますので、ログインして下さい。</p>
+
+<p><img src="/archives/index.html/images/mobile/i04.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［Twitch ダッシュボード］</p>
+
+<p>このような↑画面になりますので、左上の1. メニューを押し、さらにその中の2.「設定>チャンネル」タブを押して下さい。</p>
+
+<p><img src="/archives/index.html/images/mobile/i05.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［Twitch ダッシュボード「設定>チャンネル」］</p>
+
+<p>この中の「過去の配信を保存する」をONにしてください。これで配信したアーカイブが自動で保存されます。</p>
+
+<h2>以上</h2>
+
+<p>現在の情報は以上です。これで念願のスマホからも Twitch へゲームのライブ配信が可能なので、是非お試し下さい。</p>
+
+<p>ご質問やフィードバックがございましたら、Twitter <a href="twitter.com/ayuha167">@ayuha167</a> へお寄せ下さい。</p>
+
+<h2>Twitchとは</h2>
+
+<p>最後にこちらを申し上げます。Twitch は世界をリードするライブ配信サービスです。どんなものでも皆で遊べるエクスペリエンスを用意すべく日々進化しています。</p>
+
+<p><img src="/archives/index.html/images/mobile/TwitchNewLogo.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［ロゴが新しくなっているので注意。<a href="https://brand.twitch.tv/downloads/twitch-brand-assets.zip">こちらからダウンロード</a>］</p>
+
+<p>余り外部との比較をしないのですが、最近は日本国内でも<a href="https://twitter.com/GikenTV/status/1345300720107487232">大人気ストリーマーが活躍しているニュース</a>があり、5年前では想像できない領域に達してきました。</p>
+
+<p>他の方のブログになりますが、Twitch の説明には色んな方の視点があります。以下参考に置いておきますが、気になりましたら是非検索なさってみてください。</p>
+
+<ul>
+<li><a href="https://shobolin.com/2018/07/19/how-to-watch-twitch/">https://shobolin.com/2018/07/19/how-to-watch-twitch/</a></li>
+<li><a href="https://mag.app-liv.jp/archive/117206">https://mag.app-liv.jp/archive/117206</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ゲーマーのコミュニティとは]]></title>
@@ -3216,127 +3384,6 @@ Dota2 のトーナメントをオンラインで開催し、そのオフライ�
 <h2>以上、</h2>
 
 <p>徒に不安を煽るかもしれませんが、いずれ同じ壁にぶつかるゲームコミュニティが出るはずです。そうなったときに、過去にこういったことを考えていた人が居ると知って、参考にして頂ければ幸いです。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[勝者側決勝が語る大会文化。日本のスマブラシーンの変化とは…]]></title>
-    <link href="/archives/index.html/blog/2019/08/22/"/>
-    <updated>2019-08-22T15:39:03+09:00</updated>
-    <id>/archives/index.html/blog/2019/08/</id>
-    <content type="html"><![CDATA[<p>いま話題沸騰中のスーパースター「勝者側決勝」が<a href="https://suzuri.jp/ayuha167">グッズの販売をオープン</a>した。昨年は ＃スマブラ流行語大賞 にノミネートされ、「勝者側決勝元年」となった。12月でスマブラSPも2年目に突入する今、勝者側決勝はなにを思い描き、どこを目指しているのか―――</p>
-
-<!-- more -->
-
-
-<p>グッズ販売のURLはこちら↓<br/>
-<a href="https://suzuri.jp/ayuha167">https://suzuri.jp/ayuha167</a></p>
-
-<p><img src="/archives/index.html/images/WinnersFinals/Ramen.png" alt="&quot;代替メッセージ&quot;" /><br/>
-[このほか多様なグッズ発売中]</p>
-
-<h2>インタビュー</h2>
-
-<p>―― 自己紹介をお願いします</p>
-
-<p><strong>勝者側決勝（以下「勝」）</strong>：こんにちは、勝者側決勝です。勝者側決勝とは、ダブルエリミネーション形式のトーナメントで、勝者側（Winners Bracket, Upper Bracket）の最終戦として行われる試合のことです。勝者側決勝に来た時点で、3位以上が確定します。<br/>
-スマブラのオフ大会『ウメブラ』では、一種の儀式としての側面を持ちます。会場の電気が暗くなり、「勝者側決勝です」と会場にアナウンスが流れて。ウメブラが対戦会からスポーツ観戦に変わる、その切り替わりの黄昏時みたいな立ち位置なんですよね。</p>
-
-<p>――「勝者側決勝です」のマイクアナウンスは、いつから始まったのですか？</p>
-
-<p><strong>勝</strong>：記憶が正しければ、WiiU の時代の『ウメブラ23』です。</p>
-
-<iframe width="480" height="270" src="https://www.youtube.com/embed/4qfpgtFqfgg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<p>[ウメブラ23 : Winners Final, 2016年]</p>
-
-<p>当時、たしか Abadango さんが「大会はもっとプレイヤーの顔が見えるようになって欲しい」といった趣旨のことをツイートしていました。今と異なり、2016年の頃はプレイヤー個人によるライブ配信も動画は活発ではなかったですし、会場での写真もありませんでした。200人規模の大会自体はありましたがプレイヤーのドラマは追いかけづらかったと思います。</p>
-
-<p>―― 昔は「勝者側決勝です」のイントロがないとプレイヤーの顔が見えなかったんですか？</p>
-
-<p><strong>勝</strong>：そうです。顔が見えないというのは、文字通りにも抽象的にもそうでした。プレイヤーの肉声を聴いたことがないのは勿論、上位勢の顔を静止画でも見たことがないのが当然のスマブラ界でした。そのため、上位プレイヤーってどんな人間なのかな？という情報はほぼ出回っておらず、ファンの方々がスマブラ勢を好きになろうにもその資料がない世の中でした。</p>
-
-<p>それを変えるために、上位勢にはスポットライトを当てようと考えました。導入されたのが「Top4は会場の電気を消す」という取り組みです。参加者の皆さんは敗退後は会場でフリー対戦をしているものですが、Top4 が始まったら手を止めてみんなで試合を見ようという呼びかけのことです。「勝者側決勝です」のアナウンスは、そこから生まれた副産物でした。</p>
-
-<iframe width="480" height="270" src="https://www.youtube.com/embed/TV1EuD5-06k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<p>[↑ウメブラ SP3 勝者側決勝。実際「勝者側決勝」とは何であり、どういうイメージなのかはこちらの動画の冒頭から。]</p>
-
-<iframe width="480" height="270" src="https://www.youtube.com/embed/QhYI0NDWrpc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<p>
-[↑ウメブラJapanMajor2019 でのPVではこの「勝者側決勝です」が使用される]</p>
-
-<p>―― Top4 の試合を見ようというのは、運営から働きかけた取り組みだったのですね。それ以前の時代は観戦文化がなかったのですか？</p>
-
-<p><strong>勝</strong>：知っている限り関東のスマブラ大会では以前から観戦を推奨していましたが、Top4 になっても会場が静かでした。そのため『ウメブラ23』から「声を出そう」とか「拍手をしよう」といった具体的な指示を出しました。戦う選手にも試合前にマイクを渡して一言いただいていました。これがあまりに無理矢理だったので、当時は参加者からも視聴者からもかなり叩かれました。それでも大会を運営するにあたって「トーナメントとはこうあるべき」と信じたことだったので、やり続けました。<br/>
-今は大会で写真撮影もしていますし、プレイヤーが自分で発信するので、「Top4は会場の電気を消す」という取り組みは一つの役割を終えました。今は儀式的な側面と、副産物の「勝者側決勝です」だけが残りました。</p>
-
-<p>―― 叩かれていたんですね。そこまで頑張ってみて、今振り返るとよかったですか？</p>
-
-<p><strong>勝</strong>：よかったです。「勝者側決勝」という試合は、対戦する側は重要な一戦ですが、どうしても観戦する側にとっては半端な位置だったんです。プレイヤーは負けても次がありますし、観戦する側にとって最終決戦（Grand Final）と比べてどうしても危機感が薄いんですよね。<br/>
-かといって最終決戦になってから「今から最終決戦だから応援してね」と会場の皆さんに言っても手遅れで、いきなり言われても見る側は全然声を出す準備が出来ていないんです。最終決戦を特別なエクスペリエンスにするには、最終決戦の開始時には既に観客の皆さんが興奮していないといけないんです。「勝者側決勝」から観戦する風習を始めてから、間接的に最終決戦で見ている方の声・拍手が出るようになり、大会全体の非日常感が強まったと云えます。</p>
-
-<p><img src="/archives/index.html/images/WinnersFinals/i-knq8QzP-L.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
-[ウメブラSP4, 2019年。勝者側決勝を観るスマブラ勢。写真は <a href="https://darimoko.smugmug.com/">@Darimoko</a> から。2016年と比べるとかなり表情の有るフロアであると勝者側決勝氏は語る。]</p>
-
-<p>…ただ、私は関東の者なのですが、最近の『HST』や『修羅ブラ』を見ていると、あちらの皆さんの方が会場のフロアが “仕上がっている” 熱気が伝わって来ます。関東のウメブラも頑張らないとですね。</p>
-
-<p><img src="/archives/index.html/images/WinnersFinals/HST.png" alt="&quot;代替メッセージ&quot;" /><br/>
-[※HST, 修羅ブラ：HSTは北海道で、修羅ブラは福岡で開催されているスマブラのオフ大会シリーズ。写真は <a href="https://www.youtube.com/watch?v=ClhPTHaYQcA">HSTから</a>]</p>
-
-<p>―― 少し話題がそれますが、スマブラ勢はグランドファイナルのことを「最終決戦」と呼びますよね？これは何故でしょう？</p>
-
-<p><strong>勝</strong>：これはゲーム内要素に関係があります。『スマブラDX』の頃、「イベント戦」というゲームモードの最終関門が「最終決戦」という名前だったからです。これは最後の戦いかと見せかけて、勝ってもまだ「ホントの最終決戦」という戦いが残っています。これらをもじって、グランドファイナルを「最終決戦」・リセット後を「ホントの最終決戦」と呼ぶことが有ります。詳しくはスマブラDXをやってみてください。（編集註：スマブラX,4 でも「イベント戦」に「最終決戦」「ホントの最終決戦」があります。）</p>
-
-<p>―― 勝者側決勝さんの話題に戻りましょう。昨年は＃スマブラ流行語大賞 にノミネートされましたよね？おめでとうございます。</p>
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%9E%E3%83%96%E3%83%A9%E6%B5%81%E8%A1%8C%E8%AA%9E%E5%A4%A7%E8%B3%9E?src=hash&amp;ref_src=twsrc%5Etfw">#スマブラ流行語大賞</a><br>2018年大賞『全員参戦』 <a href="https://t.co/03HtoacmHo">pic.twitter.com/03HtoacmHo</a></p>&mdash; マジロー (@Majiro53) <a href="https://twitter.com/Majiro53/status/1076824882908848128?ref_src=twsrc%5Etfw">December 23, 2018</a></blockquote>
-
-
-<p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-
-<p>[※<a href="http://majiro27.blog.fc2.com/blog-entry-6.html">スマブラ流行語大賞</a> : マジローさんが2015年より継続している、スマブラ勢の界隈で流行った単語を集める恒例イベント。]</p>
-
-<p><strong>勝</strong>：大変光栄です。流行語には2年連続でノミネートされるということは性質上あり得ないでしょうが、逆に文化として定着できるようこれからも努めて行きます。</p>
-
-<p>―― 勝者側決勝さんは、今後勝者側決勝がどのような “文化” になって行って欲しいとお考えですか？</p>
-
-<p><strong>勝</strong>：
-文化というものは「非日常の中の非日常」では限界があります。ゲームの大会は、ネット経由で同じ趣味を持ったプレイヤーたちが集まる非日常です。その中の最終幕は「非日常の中の非日常」です。<br/>
-しかし人は結局オフラインのリアルライフに還らざるを得ません。勝者側決勝は、大会の世界を脱して「日常の中の非日常」を目指したいです。そのためのシャツでありグッズです。
-みなさんが日常の中で着る非日常のシャツって、なにかお気に入りの文化のグッズかと思います。それは映画のグッズであったりお気に入りのラーメン屋のシャツだったりするでしょう。今回のグッズは、勝者側決勝がこんな風に文化に溶け込んだあとの姿を妄想して作成しました。</p>
-
-<p>人生の特別な瞬間として、勝者側決勝を使って欲しいです。貴方がたとえスマブラを辞めても、貴方は勝者側決勝で居続けるのです。</p>
-
-<p>―― それでは、想定している全国の勝者側決勝ファミリーの皆さんに一言おねがいします。</p>
-
-<p><strong>勝</strong>：大会運営の方は、いつも自分の大会が盛り上がって欲しいとお考えかと思います。参加者の方が集中力欠いているなあって思ったときに、「勝者側決勝です」を使って引き締めてください。武器として津々浦々で活用頂けたら幸いです。
-そして参加者の方、どんな大会でも「勝者側決勝です」が聞こえたら、耳を傾けて口から怒号を発して下さい。運営は貴方を呼んでいます。</p>
-
-<p>ソーシャルメディアに投稿したら #勝者側決勝 を是非つけて下さい。</p>
-
-<p><img src="/archives/index.html/images/WinnersFinals/Default.png" alt="&quot;代替メッセージ&quot;" /><br/>
-[シャツのサンプル：<a href="https://suzuri.jp/ayuha167">https://suzuri.jp/ayuha167</a> ]</p>
-
-<p>―― 今日はありがとうございました！</p>
-
-<h2>以上、</h2>
-
-<p>こんにちは、筆者アユハです。フィクションを書いたのは10年以上ぶりです。</p>
-
-<p>今回はかなり表現を都合よく持って来ましたが、なにかブランドを構築するのであればこのくらい徹底的にやりたいと思っていました。</p>
-
-<p>筆者はコミケで18禁の同人誌を出していた頃がありました（80冊くらい売っていました）。普段の大会運営と異なり、物品を “売る” というときの独特の緊張感はその原点から変わっていません。買った人が「何買ったの？」「それ何のグッズ？」と訊かれて説明するのが面倒くさいモノって、買う価値が薄いと思います。買う方が迷わずに説明できるようにこの文を用意しました。</p>
-
-<p>一読頂いた方々、ありがとうございます。</p>
-
-<p><a class="twitter-share-button"
-  href="https://twitter.com/intent/tweet">
-Tweet</a></p>
 ]]></content>
   </entry>
   

@@ -1,0 +1,418 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>スマホからTwitchへライブ配信 2021 - 恋心は超グリーディ</title>
+  <meta name="author" content="アユハ/Ayuha">
+
+  
+  <meta name="description" content="スマホからTwitchへ、ゲームをキャプチャしたライブ配信が可能になったため（β版）、その手法について2021年1月現在のものをまとめました。 まだオフィシャルの説明は出ていませんが、特に日本の方に需要が有ると思い、β版の時点の情報をこちらに記します。機能は既存の Twitch &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="/archives/index.html/blog/2021/01/25">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="恋心は超グリーディ" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-140679606-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">恋心は超グリーディ</a></h1>
+  
+    <h2>主に日常で複数回質問されることを文面におこしたブログです。<a href="http://ayuha167.github.io/blog/2013/12/25/">筆者プロフィールはこちら</a> のページからお願いします。</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:/archives/index.html" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">スマホからTwitchへライブ配信 2021</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2021-01-25T15:38:27+09:00" pubdate data-updated="true">Jan 25<span>th</span>, 2021</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>スマホからTwitchへ、ゲームをキャプチャしたライブ配信が可能になったため（β版）、その手法について2021年1月現在のものをまとめました。</p>
+
+<!-- more -->
+
+
+<p>まだオフィシャルの説明は出ていませんが、特に日本の方に需要が有ると思い、β版の時点の情報をこちらに記します。機能は既存の Twitch アプリの中にあるため、既にご視聴で利用されている方はそのままいけます。ちなみに従来から可能だった「雑談配信」も同じ手順ですので、途中までご覧頂ければ説明をしています。</p>
+
+<h2>準備</h2>
+
+<p>Twitch アプリをお持ちの モバイル/スマホ/タブレット へダウンロードして下さい。</p>
+
+<p><img src="/images/mobile/AppStore.png" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［iOS での Twitch アプリ画面, 改めて評価数と評価値にビックリしています。］</p>
+
+<p>ダウンロードURL :</p>
+
+<ul>
+<li><a href="https://apps.apple.com/jp/app/twitch/id460177396">iOS Twitch アプリ</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=tv.twitch.android.app">Android Twitch アプリ</a></li>
+</ul>
+
+
+<p>勿論このアプリは視聴もできますので、既に入っている方も居ると思います。その場合は最新のバージョンへアップデートして下さい。（念の為、iOS も最新のものを推奨しています。）</p>
+
+<p>はじめての方は起動時にアカウントを作成頂きます。ライブ配信を想定されている方は、アカウント名が『チャンネル名』かつ『URL』になるのでご注意下さい。</p>
+
+<p>例えば筆者のユーザーIDは ayuha167 なので、ライブ配信するときは毎回：</p>
+
+<ul>
+<li><a href="twitch.tv/ayuha167">twitch.tv/ayuha167</a></li>
+</ul>
+
+
+<p>とツイートするだけで大丈夫です。アプリの中で検索する際も、筆者のチャンネル名は ayuha167 です。便利なのですが、今後もずっと用いるIDなので、よく考えてお決め下さい。</p>
+
+<p>Twitch 視聴画面の画像</p>
+
+<h2>開始</h2>
+
+<p>ではいざ配信を開始します。Android/iOS 共に可能ですが、今回は iOS の画面を用いて解説いたします。大きな差はないため、同様に進行してください。</p>
+
+<h3>①</h3>
+
+<p><img src="/images/mobile/i00.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［Twitch iOS アプリを起動した時の画面］</p>
+
+<p>アプリのトップ画面がこのように↑なっていますので、矢印の先にあるカメラ（🎥）のボタンを押します。</p>
+
+<h3>②</h3>
+
+<p><img src="/images/mobile/i01.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［Twitch iOS アプリ : 配信開始への入り口］</p>
+
+<p>この画面↑が現れたら正しいステップです。「ゲームを配信する」のボタンを押して下さい。<br/>
+※「雑談を配信する」は従来からついている機能です。こちらを押せばスマホについているカメラとマイクを用いて雑談配信が可能です。</p>
+
+<p>もし「権限が必要」と訊かれた場合は、「はい」を押したりスイッチをONにしたり、適宜権限付与をお願いします。</p>
+
+<h3>③</h3>
+
+<p><img src="/images/mobile/i02.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［Twitch iOS アプリ : ゲームタイトルを選択］</p>
+
+<p>ライブ配信をする際は最終的にスクリーンキャプチャになるのですが、この時点でゲームタイトルをご選択頂きます。</p>
+
+<h3>④</h3>
+
+<p><img src="/images/mobile/i03.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［Twitch iOS アプリ : 最後の段階］</p>
+
+<p>これで最後の画面です↑。「配信情報の編集」を押して配信のタイトルや細かい設定をしてください。<br/>
+音声設定・マイク設定をここから行えます。<br/>
+下の紫色の「◎」のボタンを押されると配信開始です。終了時もこのボタンを押して下さい。</p>
+
+<p><img src="/images/mobile/317369.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［Twitch Android アプリ : 最後の段階］</p>
+
+<p>Android ですと最後の画面が少し異なり、このようになっています↑。同様に配信タイトルを記入し、言語を「日本語」へ変更され、「ゲームをはじめる」ボタンから開始してください。</p>
+
+<h2>注意点</h2>
+
+<p>はじめて起動された場合はこのような注意書きが登場します。こちらに改めて置いておきます。</p>
+
+<p><img src="/images/mobile/317368.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［注意書き］</p>
+
+<p>こちらの注意書きを基にすると、以下のような対策を取ってください：</p>
+
+<ul>
+<li>普段スマホで通話するような準備をした方が良いです。イヤホンやマイク付きイヤホンをつけてください。逆に、外部に出してしまうスピーカーは解除しましょう。</li>
+<li>スマホの備え付けマイクを用いる場合、そこを手で遮らないで下さい。マイクに音声が入りません。</li>
+<li>通知が表示されないよう、iOS や Android の「設定」から「通知」を OFF にしましょう。</li>
+<li>画面ロックを完全に解除しておきましょう。スマホがスリープして画面が暗くなるとライブ配信が止まります。</li>
+</ul>
+
+
+<p>また、ライブ配信は基本的に「横向き」（Vertical）となります。</p>
+
+<h2>チャット（コメント）について</h2>
+
+<p>配信中に視聴者からいただくチャット（コメント）は、このように確認できます：</p>
+
+<ul>
+<li>Android の場合、配信オーバーレイでチャットを表示できます。</li>
+</ul>
+
+
+<p><img src="/images/mobile/i03_2.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［Twitch iOS アプリ : 配信マネージャーの位置］</p>
+
+<ul>
+<li>iOS の場合、Twitch アプリの右上から「配信マネージャー」を出すとチャット欄を見ることが出来ます。</li>
+</ul>
+
+
+<p>現状β版なので更に改良が加わることが見込まれますが、続報をお待ち下さい。</p>
+
+<h2>アーカイブ</h2>
+
+<p>ライブ配信のアーカイブを残す設定だけは現段階、ブラウザから設定せねばなりません。スマホのブラウザ（Safari, Chrome など）を開き、以下のURLへ入って下さい。</p>
+
+<ul>
+<li><a href="twitch.tv/dashboard">ダッシュボード</a> : twitch.tv/dashbaord</li>
+</ul>
+
+
+<p>ログインを要求されますので、ログインして下さい。</p>
+
+<p><img src="/images/mobile/i04.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［Twitch ダッシュボード］</p>
+
+<p>このような↑画面になりますので、左上の1. メニューを押し、さらにその中の2.「設定>チャンネル」タブを押して下さい。</p>
+
+<p><img src="/images/mobile/i05.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［Twitch ダッシュボード「設定>チャンネル」］</p>
+
+<p>この中の「過去の配信を保存する」をONにしてください。これで配信したアーカイブが自動で保存されます。</p>
+
+<h2>以上</h2>
+
+<p>現在の情報は以上です。これで念願のスマホからも Twitch へゲームのライブ配信が可能なので、是非お試し下さい。</p>
+
+<p>ご質問やフィードバックがございましたら、Twitter <a href="twitter.com/ayuha167">@ayuha167</a> へお寄せ下さい。</p>
+
+<h2>Twitchとは</h2>
+
+<p>最後にこちらを申し上げます。Twitch は世界をリードするライブ配信サービスです。どんなものでも皆で遊べるエクスペリエンスを用意すべく日々進化しています。</p>
+
+<p><img src="/images/mobile/TwitchNewLogo.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+［ロゴが新しくなっているので注意。<a href="https://brand.twitch.tv/downloads/twitch-brand-assets.zip">こちらからダウンロード</a>］</p>
+
+<p>余り外部との比較をしないのですが、最近は日本国内でも<a href="https://twitter.com/GikenTV/status/1345300720107487232">大人気ストリーマーが活躍しているニュース</a>があり、5年前では想像できない領域に達してきました。</p>
+
+<p>他の方のブログになりますが、Twitch の説明には色んな方の視点があります。以下参考に置いておきますが、気になりましたら是非検索なさってみてください。</p>
+
+<ul>
+<li><a href="https://shobolin.com/2018/07/19/how-to-watch-twitch/">https://shobolin.com/2018/07/19/how-to-watch-twitch/</a></li>
+<li><a href="https://mag.app-liv.jp/archive/117206">https://mag.app-liv.jp/archive/117206</a></li>
+</ul>
+
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">アユハ/Ayuha</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2021-01-25T15:38:27+09:00" pubdate data-updated="true">Jan 25<span>th</span>, 2021</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2021/01/13/" title="Previous Post: ゲーマーのコミュニティとは">&laquo; ゲーマーのコミュニティとは</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    
+<section>
+  <h1>About Me</h1>
+  <div id="twitter-profile" style="margin-top:0.5em;">
+    <p>
+      <strong>アユハ/Ayuha</strong> 
+      (<a href="http://twitter.com/ayuha167">@ayuha167</a>)
+    </p>
+    <p><a href="http://ayuha167.github.io/blog/2013/12/25/">筆者プロフィールはこちら</a> のページから。</p>
+  </div>
+  <script type="text/javascript">
+    $(function(){
+        var container = $('#twitter-profile'),
+            user = "ayuha167";
+        
+        function parseTwLinks(s) {
+          var twUrl = "http://www.twitter.com/"
+          s = s.replace(/ (@([\w]+))/g, function(match, p1, p2) {
+              return " <a href='"+twUrl+p2+"'>"+p1+"</a>"
+          }).replace(/ (#([\w]+))/g, function(match, p1, p2) {
+              return " <a href='"+twUrl+"#!/search?q=%23"+p2+"'>"+p1+"</a>"
+          })
+          return s
+        }
+
+        $.ajax({
+            url: "http://api.twitter.com/1/users/show.json?include_entities=false&screen_name="+user+"&callback=?"
+          , type: 'GET'
+          , dataType: 'jsonp'
+          , error: function (err) { $('#twitter-profile').addClass('error');  }
+          , success: function(data) {
+              container.html('<img class="left" src="http://api.twitter.com/1/users/profile_image/'+user+'.json?size=bigger" alt="@'+user+'"><p><strong>'+data.name+'</strong> (<a href="http://twitter.com/'+user+'">@'+user+'</a>)<br/>'+data.location+'</p><p>'+parseTwLinks(data.description)+'</p>');
+            }
+        })
+      });
+  </script>
+</section>
+
+<section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2021/01/25/">スマホからTwitchへライブ配信 2021</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2021/01/13/">ゲーマーのコミュニティとは</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2020/12/20/">スマブラ勢は「終点固定アイテムなし」ではない</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2020/11/11/">Authenticity オーセンティシティ とは</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2020/10/27/">「いいね」を貰うためにゲームをする主義について</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2021 - アユハ/Ayuha -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
