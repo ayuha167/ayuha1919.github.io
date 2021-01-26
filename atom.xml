@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[恋心は超グリーディ]]></title>
-  <link href="/archives/index.html/atom.xml" rel="self"/>
-  <link href="/archives/index.html/"/>
-  <updated>2021-01-25T20:27:16+09:00</updated>
-  <id>/archives/index.html/</id>
+  <link href="http://ayuha167.github.io/atom.xml" rel="self"/>
+  <link href="http://ayuha167.github.io/"/>
+  <updated>2021-01-26T11:01:45+09:00</updated>
+  <id>http://ayuha167.github.io/</id>
   <author>
     <name><![CDATA[アユハ/Ayuha]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[スマホからTwitchへライブ配信 2021]]></title>
-    <link href="/archives/index.html/blog/2021/01/25/"/>
+    <link href="http://ayuha167.github.io/blog/2021/01/25/"/>
     <updated>2021-01-25T15:38:27+09:00</updated>
-    <id>/archives/index.html/blog/2021/01/</id>
+    <id>http://ayuha167.github.io/blog/2021/01/</id>
     <content type="html"><![CDATA[<p>スマホからTwitchへ、ゲームをキャプチャしたライブ配信が可能になったため（β版）、その手法について2021年1月現在のものをまとめました。</p>
 
 <!-- more -->
@@ -29,7 +29,7 @@
 
 <p>Twitch アプリをお持ちの モバイル/スマホ/タブレット へダウンロードして下さい。</p>
 
-<p><img src="/archives/index.html/images/mobile/AppStore.png" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/mobile/AppStore.png" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
 ［iOS での Twitch アプリ画面, 改めて評価数と評価値にビックリしています。］</p>
 
 <p>ダウンロードURL :</p>
@@ -59,14 +59,14 @@
 
 <h3>①</h3>
 
-<p><img src="/archives/index.html/images/mobile/i00.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/mobile/i00.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
 ［Twitch iOS アプリを起動した時の画面］</p>
 
 <p>アプリのトップ画面がこのように↑なっていますので、矢印の先にあるカメラ（🎥）のボタンを押します。</p>
 
 <h3>②</h3>
 
-<p><img src="/archives/index.html/images/mobile/i01.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/mobile/i01.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
 ［Twitch iOS アプリ : 配信開始への入り口］</p>
 
 <p>この画面↑が現れたら正しいステップです。「ゲームを配信する」のボタンを押して下さい。<br/>
@@ -76,21 +76,21 @@
 
 <h3>③</h3>
 
-<p><img src="/archives/index.html/images/mobile/i02.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/mobile/i02.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
 ［Twitch iOS アプリ : ゲームタイトルを選択］</p>
 
 <p>ライブ配信をする際は最終的にスクリーンキャプチャになるのですが、この時点でゲームタイトルをご選択頂きます。</p>
 
 <h3>④</h3>
 
-<p><img src="/archives/index.html/images/mobile/i03.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/mobile/i03.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
 ［Twitch iOS アプリ : 最後の段階］</p>
 
 <p>これで最後の画面です↑。「配信情報の編集」を押して配信のタイトルや細かい設定をしてください。<br/>
 音声設定・マイク設定をここから行えます。<br/>
 下の紫色の「◎」のボタンを押されると配信開始です。終了時もこのボタンを押して下さい。</p>
 
-<p><img src="/archives/index.html/images/mobile/317369.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/mobile/317369.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
 ［Twitch Android アプリ : 最後の段階］</p>
 
 <p>Android ですと最後の画面が少し異なり、このようになっています↑。同様に配信タイトルを記入し、言語を「日本語」へ変更され、「ゲームをはじめる」ボタンから開始してください。</p>
@@ -99,7 +99,7 @@
 
 <p>はじめて起動された場合はこのような注意書きが登場します。こちらに改めて置いておきます。</p>
 
-<p><img src="/archives/index.html/images/mobile/317368.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/mobile/317368.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
 ［注意書き］</p>
 
 <p>こちらの注意書きは具体的にはこういったことを指します：</p>
@@ -123,7 +123,7 @@
 </ul>
 
 
-<p><img src="/archives/index.html/images/mobile/i03_2.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/mobile/i03_2.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
 ［Twitch iOS アプリ : 配信マネージャーの位置］</p>
 
 <ul>
@@ -146,12 +146,12 @@
 
 <p>ログインを要求されますので、ログインして下さい。</p>
 
-<p><img src="/archives/index.html/images/mobile/i04.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/mobile/i04.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
 ［Twitch ダッシュボード］</p>
 
 <p>このような↑画面になりますので、左上の1. メニューを押し、さらにその中の2.「設定>チャンネル」タブを押して下さい。</p>
 
-<p><img src="/archives/index.html/images/mobile/i05.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/mobile/i05.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
 ［Twitch ダッシュボード「設定>チャンネル」］</p>
 
 <p>この中の「過去の配信を保存する」をONにしてください。これで配信したアーカイブが自動で保存されます。</p>
@@ -166,7 +166,7 @@
 
 <p>最後にこちらを申し上げます。Twitch は世界をリードするライブ配信サービスです。どんなものでも皆で遊べるエクスペリエンスを用意すべく日々進化しています。</p>
 
-<p><img src="/archives/index.html/images/mobile/TwitchNewLogo.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/mobile/TwitchNewLogo.jpg" alt="&quot;スマホからTwitchへ配信！&quot;" /><br/>
 ［ロゴが新しくなっているので注意。<a href="https://brand.twitch.tv/downloads/twitch-brand-assets.zip">こちらからダウンロード</a>］</p>
 
 <p>余り外部との比較をしないのですが、最近は日本国内でも<a href="https://twitter.com/GikenTV/status/1345300720107487232">Twitch の大人気ストリーマーが活躍しているニュース</a>があり、5年前では想像できない領域に達してきました。</p>
@@ -183,9 +183,9 @@
   
   <entry>
     <title type="html"><![CDATA[ゲーマーのコミュニティとは]]></title>
-    <link href="/archives/index.html/blog/2021/01/13/"/>
+    <link href="http://ayuha167.github.io/blog/2021/01/13/"/>
     <updated>2021-01-13T18:34:49+09:00</updated>
-    <id>/archives/index.html/blog/2021/01/</id>
+    <id>http://ayuha167.github.io/blog/2021/01/</id>
     <content type="html"><![CDATA[<p>ゲーマーが使う用語である「コミュニティ」とは何でしょうか？</p>
 
 <!--more-->
@@ -204,7 +204,7 @@
 
 <p>筆者が「コミュニティ」について考えていたところで、丁度<a href="https://adventar.org/calendars/5161">『こみゅリポ Advent Calendar 2020』</a>を拝見したため、勝手ながら参照しながら概念をまとめました。</p>
 
-<p><img src="/archives/index.html/images/community/AdventCalendar.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/community/AdventCalendar.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［<a href="https://adventar.org/calendars/5161">『こみゅリポ Advent Calendar 2020』</a>のスクリーンショット。以下 &ldquo;Advent Calendar&rdquo; と述べた場合はこれを示します。］</p>
 
 <p>こちらの Advent Calendar は、25名の方（特に TO = Tournament Organizer）が各自の「コミュニティ」について書かれたものです。参加された方々はおそらく何かしらの共通意識があって「コミュニティ」について書いたりしているはずです。しかし、プレイするゲームが違うのに共通すると感じる「コミュニティ」という概念は何でしょうか？</p>
@@ -240,7 +240,7 @@
 
 <p>個々人によって複雑な思考は完全に一致はしませんが、スマブラ勢は同じ情報に影響を受け、同じことをきっかけに感情を動かされます。同じ大会を視ますし、上位プレイヤーの解説に耳を傾けます。自分は優勝を目指すのかエンジョイで居るかの姿勢は人次第ですが、どのイベントに行きたいか・誰が強いのか・何のニュースにスキャンダルを感じるのかという価値観はコミュニティの中で繋がっているということです。完全一致はしないまでも、どこかで価値観が地続きになっています。</p>
 
-<p><img src="/archives/index.html/images/community/MewTwo.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/community/MewTwo.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［画像は『スマブラハウス』<a href="https://www.youtube.com/watch?v=4n1NRh8xHfs">【Ver 7.0】王・MkLeoによるキャラランク解説！これには小池も納得</a>より。例が身近で恐縮ですが、「MkLeo は正しい」とか「なんでミュウツーそこなの？」とか「ヨッシーは？」と思っている価値観が「スマブラ勢」ということです。］</p>
 
 <p>この「重要さの判断基準が地続きになっている状態」を「同じ価値観」と申しています。（註<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>）</p>
@@ -301,7 +301,7 @@
 <p>「最強決定戦」と看板を掲げた大会で、現役を退いたストリーマーを集めていたら違和感があるでしょう。「最強」に矛盾するからです。ただこの単語が「コミュニティ」に置き換わると曖昧になり、数字を持つストリーマーが優遇されます。これは、コミュニティを「同じゲームを遊んでいる人」「ゲーム会社では無い存在」で形式的に分類してしまっているが故の混同であると考えます。<br/>
 筆者はストリーマーを否定している訳ではなく、コミュニティは数字を持たない多くの存在で成り立っていることを意識されて欲しいです。コミュニティのためにストリーマーを抜擢していても、それは「そのストリーマーのコミュニティ」であって「そのゲームのコミュニティ」とは限りません。</p>
 
-<p><img src="/archives/index.html/images/community/AnthroCommunity.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/community/AnthroCommunity.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［参考：<a href="http://www.cscd.osaka-u.ac.jp/user/rosaldo/090520community.html">大阪大学 COデザインセンター</a>より。こちらに文化人類学的アプローチからコミュニティの解説をしたページがあります。筆者の哲学的アプローチとは異なりますが豊富な資料がございます。］</p>
 
 <p>こう分類しますと、結果として、「個人イベント」や「非公式イベント」が「コミュニティイベント」とほぼ一致して来ます。どうしても企業が絡むと「これがやりたい」という価値観を好きなように維持できないからです。（註<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>）</p>
@@ -383,15 +383,15 @@
   
   <entry>
     <title type="html"><![CDATA[スマブラ勢は「終点固定アイテムなし」ではない]]></title>
-    <link href="/archives/index.html/blog/2020/12/20/"/>
+    <link href="http://ayuha167.github.io/blog/2020/12/20/"/>
     <updated>2020-12-20T14:32:01+09:00</updated>
-    <id>/archives/index.html/blog/2020/12/</id>
+    <id>http://ayuha167.github.io/blog/2020/12/</id>
     <content type="html"><![CDATA[<p>なぜこれを記そうかと思ったかと言えば、「スマブラ勢　終点固定」でぐぐるとそれを否定するウェブサイトがなかなかヒットしないためです。</p>
 
 <!-- more -->
 
 
-<p><img src="/archives/index.html/images/Smash/FD.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/Smash/FD.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［シークレットウィンドウで「スマブラ勢 終点固定」でぐぐった結果。1つ目はWii版『スマブラX』（2008年）のモノで、2つ目は任天堂による『スマブラ for 3DS』向け公式説明（2014年）であり、3つ目に至っては全然違う筆者のブログです。］</p>
 
 <p>※「スマブラ」は『大乱闘スマッシュブラザーズ』の略で、シリーズ作品のため略称は適宜通称を用います。今回は主に最新作である「SPECIAL」（SP, Nintendo Switch 版）について説明します。</p>
@@ -452,7 +452,7 @@
 
 <p>まず、注意頂きたいのですが、ユーザーが主導する競技的な 1on1 用の非公式大会でも「終点固定」ということは絶対に無いです。</p>
 
-<p><img src="/archives/index.html/images/Smash/Dv8kF4uUUAAJ2RO.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/Smash/Dv8kF4uUUAAJ2RO.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［アメリカでの最大級の大会での使用可能ステージです。「終点」も含まれていますが、それ以外もあります。］</p>
 
 <p>敢えて「絶対」と申しましたのは、終点は特殊なステージだからです。もしかしたらどこかに終点固定大会があるかもしれませんが、稀なはずです。前提として「終点」は「平面である」ということが特徴となっており、ユニークで独特ですらあります。非公式大会では、終点を選択可能なステージにほぼ必ず入れますが、試合でプレイヤーが選択するとは限りません。</p>
@@ -550,9 +550,9 @@
   
   <entry>
     <title type="html"><![CDATA[Authenticity オーセンティシティ とは]]></title>
-    <link href="/archives/index.html/blog/2020/11/11/"/>
+    <link href="http://ayuha167.github.io/blog/2020/11/11/"/>
     <updated>2020-11-11T21:29:15+09:00</updated>
-    <id>/archives/index.html/blog/2020/11/</id>
+    <id>http://ayuha167.github.io/blog/2020/11/</id>
     <content type="html"><![CDATA[<p>筆者がよく用いている表現である authenticity（オーセンティシティ）とは何かについて、一度文章に起こそうと思いました。</p>
 
 <!-- more -->
@@ -583,7 +583,7 @@
 
 <p>Authenticity の主語・主体はそのクリエイターです。本人の心の中の度合を表しますが、ファンや視聴者にもそれが伝わってしまうものをイメージしています。ファンはクリエイターの authenticity に共鳴してファンになって行きます。これは結構広く適用できまして、例えばプロゲーマーの熱心な気持ちや本当にゲームが好きな姿を見て視聴者が応援したくなる現象にも使えます。逆にヤラセで商品を宣伝していればファンの心は離れます。</p>
 
-<p><img src="/archives/index.html/images/authenticity/036_01.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/authenticity/036_01.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［最近はインフルエンサーマーケティングは一般的ですが、広告表示などについてルール議論が盛んです。なぜステマは効果があり、ヤラセは嫌がられるのでしょうか。画像は宣伝会議さん <a href="https://www.advertimes.com/20170203/article243867/">アドタイムズ</a> から。］</p>
 
 <h2>哲学での解釈</h2>
@@ -604,7 +604,7 @@
 
 <p>①の方の意味は哲学では <ruby>目的<rp>（</rp><rt>エトス</rt><rp>）</rp></ruby> や徳といった概念に近いです。①は運命・社会・DNAによってその人間に定められた最適な能力を表し、自分が何をしたいのかという感情とは独立だからです。そのため今回想定しているものとは異なります。（哲学書でも authenticity を「本来性」と訳した文献もありますが、それは字義的には①に近くなってしまうため、今回は不適です。）</p>
 
-<p><img src="/archives/index.html/images/authenticity/SDes.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/authenticity/SDes.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［『機動戦士ガンダムSEED Destiny』では、人間は「遺伝子的に最適な仕事をしよう」というプロジェクトが描かれていました。でも遺伝子的に最適なことは、やりたいこととは限りません。画像は <a href="https://www.amazon.co.jp/dp/B074FLXP3R/ref=dvm_jp_pv_sl_go_003_kw_p9Pczvi5c_c340080267832_g69834090178">Amazon Prime Video</a> から。］</p>
 
 <p>今日述べる哲学で用いられている authenticity とは、② の意味（「その人が本当にやりたいと思う気持ち」）です。ご注意ください。特に、社会的要求と個人的欲求は異なります。例えば出資者・大事な顧客の意向で不本意な仕事をしなくてはいけない場合は、①には当てはまりますが今回の②とは異なりますので、ヤラセは authenticity を下げます。</p>
@@ -616,7 +616,7 @@
 <p>画家・音楽家やあらゆる創作的活動を行う人達、中にはゲーマーも含まれますが、この人達の「自己実現」の究極形が authenticity であると考えられていました。<br/>
 特に西洋の価値観は、長らく個人・自由を求めて来ました。貴族・宗教・社会などの既存の枠組みに従うのではなく、個人がやりたいことを追い求める意志：authenticity は新しくて美しいモノでした。</p>
 
-<p><img src="/archives/index.html/images/authenticity/impression.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/authenticity/impression.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［モネ『印象・日の出』。1870-1880年くらいの印象派画家は、当時の偉い人から評価されなかった結果、自分たちのグループを作って技を追究していたところが authenticity 的です。画像は<a href="https://ja.wikipedia.org/wiki/%E5%8D%B0%E8%B1%A1%E3%83%BB%E6%97%A5%E3%81%AE%E5%87%BA">Wikipedia</a>から。］</p>
 
 <p>ですが20世紀後半。Authenticity はかなり非難されます。「自分がやりたいことを追求する気持ち」にはこんなツッコミが入りました：</p>
@@ -653,7 +653,7 @@
 
 <p>こうした経緯の上で、現代では authenticity という単語はクリエイティブな活動の場で用いられています。そのため、何かの描写や説明で authenticity が用いられている場合は、この A. B. 双方の意味を持っていることを確認されてください。</p>
 
-<p><img src="/archives/index.html/images/authenticity/DSC_4487.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/authenticity/DSC_4487.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［スマブラSPのオフ大会『ウメブラ』表彰式後の一幕。ゲーマーは競技者でもあり、クリエイターな側面も持ちます。部外者からは意外かもしれませんが、ゲーマーは社会的で対話的です。写真は <a href="https://darimoko.smugmug.com/">@darimoko</a> から。］</p>
 
 <h2>ゲーマーと authenticity</h2>
@@ -721,9 +721,9 @@
   
   <entry>
     <title type="html"><![CDATA[「いいね」を貰うためにゲームをする主義について]]></title>
-    <link href="/archives/index.html/blog/2020/10/27/"/>
+    <link href="http://ayuha167.github.io/blog/2020/10/27/"/>
     <updated>2020-10-27T19:28:38+09:00</updated>
-    <id>/archives/index.html/blog/2020/10/</id>
+    <id>http://ayuha167.github.io/blog/2020/10/</id>
     <content type="html"><![CDATA[<p>最近「Twitter でいいねを貰うためにゲームをする人」についてリアルの場で話題が挙がるため、自分の中での理屈をまとめておきます。昨今では esports, プロゲーマー, ゲームプレイに関して概念的な議論をされる方も増えたと感じています。ですが議論内容について、実は対立する概念をごっちゃにしていることも多いと感じたからです。</p>
 
 <!-- more -->
@@ -762,7 +762,7 @@
 
 <p>それでは、日常で現れる例を出しましょう。これは過去の偉人が例えたものですが、ダビデ像を想像してみてください。</p>
 
-<p><img src="/archives/index.html/images/individualism/David.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/individualism/David.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［ダビデ像。<a href="https://www.photo-ac.com/">photoAC</a>より］</p>
 
 <p>ゲーマーも含めた一般人全般で、①②の人が其々この全裸の芸術作品をご覧になったら、どのような反応を見せるでしょうか：</p>
@@ -801,7 +801,7 @@
 <p>この先にある主張が「選手を大事にして」です。例えばチームと選手の契約で揉めた時に、多くの外野の方は「選手を大事にして」と主張されますが、チームや組織と対比して「選手」の自由・人権を保護する内容は個人主義です。（反対に全体主義的な発言は「ミスった奴は自己責任」です。）<br/>
 間違えやすいですが、個人主義は「贔屓」とは異なります。例えば選手Aさんが所属チームとトラブルになったとしましょう。今回あなたが「選手を大事にすべき」と言いつつも、Bさんがトラブルになった際は「契約書も読まなかったのかよ！自己責任」とおっしゃるのであれば、それは「Aさん贔屓」なのであって、個人主義ではありません。個人主義とは、全体と個人を対比して、個人側の立場にある者を別け隔てなく大事にする考えです。</p>
 
-<p><img src="/archives/index.html/images/individualism/Liberals_politics.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/individualism/Liberals_politics.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［背景として、リベラル（個人主義派）は「権威・集団・純潔」に興味を示さないが、保守（全体主義派）は大事にしているという結果。 <a href="https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives?language=ja">Jonathan Haidt, TED</a> から。］</p>
 
 <h2>どっち派</h2>
@@ -824,7 +824,7 @@
 
 <p>更に現代の最前線を拝見しますと、個人主義的な面白さと全体主義的な承認欲求を双方満たすゲームが人気があると感じています。ゲームで自分が行ったスーパープレイを映像で切り抜いて Twitter にシェアすれば、たちまち多くの人から「いいね」が貰えます。順位や「いいね」は、他者からの評価であって、自分のスキルではありません。そういう意味で、特にバトルロワイヤル系タイトルは非常に全体主義の感情を刺激してくれる良いゲームです。（筆者もバトロワ系をプレイし、シェアして来ました。）</p>
 
-<p><img src="/archives/index.html/images/individualism/fall-guys.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/individualism/fall-guys.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［過去に様々な例がありますが、通称 &ldquo;Fall Guys&rdquo; は所謂 AAA ではないにも拘らず、今年世界中でヒットしたバトロワ系ゲームです。］</p>
 
 <p>するとこのように、ゲーマーはプレイする際は個人主義であるのに、ふと社会的な要素が現れると全体主義の表情をあらわにます。日本社会やソーシャルメディアでの「いいね」価値観と同様、全体主義に馴染んでおり、過保護なシステムに慣れているからでしょう。</p>
@@ -855,7 +855,7 @@
 
 <p>在野の方でも、ゲーマーとしての自分の履歴書や、やってみたいイベントのプレゼン資料を作ってシミュレーションをしてみると、やるべきことが思いつくはずです。イベントならばソーシャルメディア, 映像, ウェブサイト, ハコ, 機材, デザインなど、必要なモノは環境によって異なります。そもそも「習慣」が必要な場所もあります。プレゼンでは「顔の入ったシーンの写真」が有効なことが多いです。プレイヤーならば、目標は何でしょう。戦績が必要なのに大会がなければ、自分で作ることも視野に入ります。分からなければ、どこかオフラインイベントに行ってみて交流してみましょう。（いざとなったら、筆者の無責任ですが全国各地にスマブラ勢が居てオフ大会をやっているので当たってみて下さい。）いずれプロになるという際にも、こうした経験から「法律や契約とはどういうものなのか」という直観が役に立ちます。</p>
 
-<p><img src="/archives/index.html/images/individualism/nightwatch.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/individualism/nightwatch.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［レンブラントの『夜警』, <a href="https://www.rijksmuseum.nl/">Rijksmuseum</a>より。「王侯ではなく、平民が自分たちで何かをやる」という姿勢が現れた一作です。本当は夜でも警備中でも無いのですが。］</p>
 
 <p>確かに「選手は競技に専念できるべき」という発想もありますが、それはプロシーンで運営陣が持つべき理念です。それでもその理念は：</p>
@@ -903,9 +903,9 @@
   
   <entry>
     <title type="html"><![CDATA[映画『もののけ姫』普通の考察]]></title>
-    <link href="/archives/index.html/blog/2020/10/14/"/>
+    <link href="http://ayuha167.github.io/blog/2020/10/14/"/>
     <updated>2020-10-14T22:19:58+09:00</updated>
-    <id>/archives/index.html/blog/2020/10/</id>
+    <id>http://ayuha167.github.io/blog/2020/10/</id>
     <content type="html"><![CDATA[<p>作品について誰かと喋る時、噛み合わないことが多いため、自分がどのように作品を見ているかを記します。ここでは例として、構図的にも知名度的にも分かり易い作品として『もののけ姫』を挙げます。</p>
 
 <!-- more -->
@@ -941,7 +941,7 @@
 
 <p>作品外の用語のため恐縮です。弁証法の説明を申し上げます。弁証法とは、「概念A」と「概念B」が対立することで、新たな境地「概念C」が生まれることです（図1）。</p>
 
-<p><img src="/archives/index.html/images/dialectic/001.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/dialectic/001.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［図1. 弁証法について］</p>
 
 <p>フィクションの構成としてはよく用いられます。筆者は『もののけ姫』は弁証法的な見方をするのが王道だと考えています。</p>
@@ -964,7 +964,7 @@
 
 <p>でした。</p>
 
-<p><img src="/archives/index.html/images/dialectic/002.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/dialectic/002.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［図1. 弁証法について］</p>
 
 <p>結果として、人間チームは自然チームのボスであり象徴でもある「シシ神」様を撃ってしまうと、環境が壊れて自然チームも人間チームも全滅しかけてしまいます。しかし、融和を説く中間人物であったアシタカとサンが、人間の手で首を戻したことで最悪の事態は免れます。これが弁証法であるというのが筆者の視点です。自然と人間が対立して、どちらかが滅びるまで戦いが続くように見えますが、結果としては「共に生きる」という境地へ至ります（図2）。</p>
@@ -1025,9 +1025,9 @@
   
   <entry>
     <title type="html"><![CDATA[ゲーム：公式大会と非公式大会]]></title>
-    <link href="/archives/index.html/blog/2020/08/13/"/>
+    <link href="http://ayuha167.github.io/blog/2020/08/13/"/>
     <updated>2020-08-13T22:16:39+09:00</updated>
-    <id>/archives/index.html/blog/2020/08/</id>
+    <id>http://ayuha167.github.io/blog/2020/08/</id>
     <content type="html"><![CDATA[<p>昨今は esports が潮流ですが、ゲームイベントの中でも公式大会と非公式大会の立ち位置について、筆者がどう捉えているかをまとめたものです。</p>
 
 <!-- more -->
@@ -1077,7 +1077,7 @@
 
 <p>誤解されがちですが、グローバルで展開される MOBA や FPS は、赤字でもプロモーションをするために esports を活用しているのではなく、esports をした方が利益が挙がるから導入しています。Esports とは企画部のプロモーション事業なのではなく、開発部を含めたゲームの体の一部となっています。ゲーム内に大会・選手の情報があり、競技を応援する課金があります。</p>
 
-<p><img src="/archives/index.html/images/community/ti2018-teams.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/community/ti2018-teams.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［Dota2 では、バトルパス（シーズンパス）を購入したユーザーはゲーム内から優勝予想が出来たり、自分のアイコン・スキン等を贔屓のチームで彩ったりと可能です。画像 : <a href="https://www.negitaku.org/news/n-22674">Negitaku</a>より。］</p>
 
 <p>公式大会は、例えるならば絶対王政的です。競技ルールは会社の都合で決めて大丈夫であり、参加者の合議や多数決は採りません。筆者は別に公式大会を &ldquo;古い体制&rdquo; として批判しているのではありません。ゲーム会社は著作権者ですので、王権神授説は所与のものとして当然だと捉えています。「朕は国家なり」どころか、公式とはゲームそのものです。ゲームを発信するメッセージとして大会は機能します。大会の告知面でプレイヤーへの影響力は強いですし、優勝者にとっては公式大会は錦の旗であります。</p>
@@ -1163,7 +1163,7 @@
 
 <p>筆者が思いますに、現代の公式大会と非公式大会の良い部分が融合した時に、理想の大会構造が生まれると考えています。アメリカ独立に貢献したジェファーソンやフランクリンも、王政と議会が両立するイギリスの立憲君主制度（既に革命後）に一定の評価をしていました。今日は最後にこの王政と社会契約の融和について述べます。</p>
 
-<p><img src="/archives/index.html/images/community/CSGOMAjor.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/community/CSGOMAjor.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［歴代の CS:GO Major の一覧。<a href="https://liquipedia.net/counterstrike/Majors">Liquipedia</a> より。このうち &ldquo;StarLadder Berlin Major 2019&rdquo; は上述の動画。］</p>
 
 <p>例えば CS:GO (Counter-Strike: Global Offensive) です。CS:GO の前身 Counter-Strike シリーズは世界中で10年以上に亘り流行っており大会も多数存在しましたが、ゲーム会社 (Valve) はどんな大会との関係も明示していませんでした。そのため世界的に著名な大会は有りましたが、コミュニティから底上げで盛り上がっており、序列や権威が勲章的に明示されている訳ではありません。意志・熱意が先導している状態でした。</p>
@@ -1199,9 +1199,9 @@
   
   <entry>
     <title type="html"><![CDATA[ガリレオは何故有名なのか]]></title>
-    <link href="/archives/index.html/blog/2020/07/29/"/>
+    <link href="http://ayuha167.github.io/blog/2020/07/29/"/>
     <updated>2020-07-29T01:05:05+09:00</updated>
-    <id>/archives/index.html/blog/2020/07/</id>
+    <id>http://ayuha167.github.io/blog/2020/07/</id>
     <content type="html"><![CDATA[<p>近世に天動説を否定し、地動説を唱えた代表的人物が3名居ました。その中でもガリレオさんが人気があるなあと思ったため探って見た結果、自分でも予想していなかった疑問が湧きました。</p>
 
 <!-- more -->
@@ -1236,14 +1236,14 @@
 
 <p>デカルトさんやニュートンさんといった科学の大家と比べても、ガリレオさんは已然知名度が高いと筆者は感じています。これは皆様の感覚とも合致すると思いますが、実際に比較してみましょう。上記地動説の風雲児たち3名を持ってきました。以下の図を御覧ください：</p>
 
-<p><img src="/archives/index.html/images/science/galileo01.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/science/galileo01.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［Google Trends, 国内比較, 過去5年. 凡例がグラフに被る無礼をお許しください。］</p>
 
 <p>上は Google Trends です。日本の方がどのくらい各科学者を検索しているのかを比較しています。ガリレオさんやニュートンさんに関しては、小説・ドラマ・雑誌・競走馬など様々なモノに転用して名付けられていますが、その影響もコミで知名度であると考えています。その結果、日本ではガリレオさんが人気であり、ニュートンさんがそれに互角ということが分かりました。地動説を唱えた3名の中では、ガリレオさんはとびっきり強いです。（この文章では、「人気」と「知名度が高い」を同じ意味で用いています。区別していません。）</p>
 
 <p>それでは翻って、海外ではいかがでしょうか。同様に Google Trends で比較します。</p>
 
-<p><img src="/archives/index.html/images/science/galileo03.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/science/galileo03.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［Google Trends, 世界, 過去5年. ニュートンが人気。］</p>
 
 <p>予想外でしたが、ニュートン (Newton) が知名度にして群を抜いていることが浮かびました。（ちなみにコペルニクスは Kopernik でも Copernicus でも結果は余り変わりません。）<br/>
@@ -1255,14 +1255,14 @@
 
 <p>日本ではいかがでしょう。日本で最強であったガリレオさんとアインシュタインさんを、そしてゲスト1名とを比較しましょう。</p>
 
-<p><img src="/archives/index.html/images/science/galileo06.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/science/galileo06.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［Google Trends, 国内比較, 過去5年. 山中先生が強い。］</p>
 
 <p>ノーベル賞受賞の山中先生が最強であるという結果となりました。また、アインシュタインさんとガリレオさんは五分となっています。（ちなみに山中先生の次にヒットする「山中」は『NARUTO』に登場する「山中いの」でしたので、山中による誤差は無いと考えています。）</p>
 
 <p>それでは海外も比較します。海外でランキング1位であったニュートンさんを比較します↓</p>
 
-<p><img src="/archives/index.html/images/science/galileo05.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/science/galileo05.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［Google Trends, 世界, 過去5年. ニュートンが若干上。］</p>
 
 <p>このように、世界ではアインシュタインさんでさえニュートンさんには勝てないという結果でした。</p>
@@ -1277,7 +1277,7 @@
 
 <p>という結果でした。ガリレオさん・ニュートンさんは400-500年前の人物にも拘らず、共に20世紀のアインシュタインさんに勝るとも劣らない知名度がありました。</p>
 
-<p><img src="/archives/index.html/images/science/galileo07.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/science/galileo07.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［本日の登場人物、日本・海外の知名度をまとめました］</p>
 
 <h2>科学者の成果</h2>
@@ -1345,7 +1345,7 @@
 
 <p>そのためガリレオさんは、成果はケプラーさんに及ばないもののエピソードが有名な人物と筆者は考えています。また、エピソードについても、実際の内容は知っている像とは異なるものです。</p>
 
-<p><img src="/archives/index.html/images/science/RMN02013887-L.JPG" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/science/RMN02013887-L.JPG" alt="&quot;代替メッセージ&quot;" /><br/>
 ［参考『ヴァティカンの宗教裁判に引き出されたガリレオ』, ただしガリレオさんの死後300年での絵画です Photo © RMN-Grand Palais (musée du Louvre) / Hervé Lewandowski /distributed by AMF-DNPartcom］</p>
 
 <p>&hellip;以上、本日比較したかった地動説の3名を比較しました。Google Trends で比較したニュートンさん・デカルトさんは同じテーマで論じた方ではないのでここでは挙げません。こうして見ますと、ガリレオさんの成果は小さくは無いながら、ガリレオさんがコペルニクス先輩・ケプラーさんを差し置いて3名の中では飛び抜けて知名度があることは不思議に感じます。物体の落下についての成果を見た場合も、海外と同様に、「物体の落下」理論をまとめたニュートンさんに日本でもより知名度が集中してもおかしくないと感じます。</p>
@@ -1358,7 +1358,7 @@
 
 <p>実績的にではなく、なにか文化的にガリレオが推されている部分が有るのではないかと疑いました。改めて注目したいのは、科学者の知名度と国との対応です。Google Trends にて、各国で上の科学者のうち、どの者が最も検索されているかを表示しました。</p>
 
-<p><img src="/archives/index.html/images/science/galileo04.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/science/galileo04.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［Google Trends, 世界, 過去5年. 多数派の緑色はニュートン］</p>
 
 <p>多くの国ではニュートンの知名度が No.1 です。しかし、例外が幾つかあります。まずはコペルニクスの祖国ポーランドでは、コペルニクスが1位です。同様に、デカルトの祖国フランスではデカルトが1位でした。そして、ドイツとイタリアでは日本と同様にガリレオが1位という結果でした。イタリアはガリレオの祖国ですから納得できますが、ドイツと日本は異様です。</p>
@@ -1461,9 +1461,9 @@
   
   <entry>
     <title type="html"><![CDATA[『NARUTO』ストーリー考察]]></title>
-    <link href="/archives/index.html/blog/2020/07/11/"/>
+    <link href="http://ayuha167.github.io/blog/2020/07/11/"/>
     <updated>2020-07-11T18:06:02+09:00</updated>
-    <id>/archives/index.html/blog/2020/07/</id>
+    <id>http://ayuha167.github.io/blog/2020/07/</id>
     <content type="html"><![CDATA[<p>『NARUTO』は15年間週刊少年ジャンプで連載されていたマンガですが、筆者はこれを連載で読み続けていました。しかし、今コミックスを買って全巻読み、ひとまとまりで見た時にわかった視点がありますので、それを書き残します。</p>
 
 <!-- more -->
@@ -1633,9 +1633,9 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
   
   <entry>
     <title type="html"><![CDATA[共同体感覚とゲームシーン]]></title>
-    <link href="/archives/index.html/blog/2020/06/19/"/>
+    <link href="http://ayuha167.github.io/blog/2020/06/19/"/>
     <updated>2020-06-19T12:58:46+09:00</updated>
-    <id>/archives/index.html/blog/2020/06/</id>
+    <id>http://ayuha167.github.io/blog/2020/06/</id>
     <content type="html"><![CDATA[<p>この内容はゲームイベントで、運営に落ち度があっても参加者・観戦者がそれを暖かく応援する空気を如何に築くかというイメージとして、元々は前の記事 <a href="http://ayuha167.github.io/blog/2020/06/18/">『ゲームイベントと民度の対処法』</a> の一部として記したものです。</p>
 
 <!-- more -->
@@ -1691,7 +1691,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 
 <p>逆の例を挙げます。ゲーマーならご存知かと思いますが、ゲーム会社の公式イベントは叩かれることが多いです。進行が押したりなど運営に非がある場合もありますが、インタビューの方法やMCの撰定のような感情的な部分でも炎上することがあります。この要因としては、共同体感覚に関する心理学の話になるのですが、ゲーマーから公式イベントへ対し何か貢献できている実感が薄いからかと考えられます。ただ、公式大会側からすると共同体の意識を捨てるという肉を切ることで、より幅広いユーザーへリーチしたりプロダクションクオリティを高めたりする実を取ることがあります。エンゲージメントや authenticity についてはまた別の話ですので置いておきますが、「共同体感覚が有る・無い」の例を思考実験で理解いただけましたらここまでは大丈夫です。</p>
 
-<p><img src="/archives/index.html/images/Mindo/blogMindo.001.jpeg" alt="&quot;代替メッセージ&quot;" /></p>
+<p><img src="http://ayuha167.github.io/images/Mindo/blogMindo.001.jpeg" alt="&quot;代替メッセージ&quot;" /></p>
 
 <p>人気ゲームタイトルの中でも、オフライン・オンラインを問わずプレイヤーや運営の人が交流があるかどうかで、コミュニケーションの色が変わって来ます。これを受けてどのゲームが民度が高いなどと曖昧な主張したいわけではなく、今回の発端は「民度が低い」と言われてイベントの評価をひっくり返されることを防止することでしたので、共同体感覚を機能させて運営に楽をさせたいという意図です。ではいかにして共同体感覚を育成するかのアプローチを最後に記します。役立てて頂ければ、というよりもこの提言を受けてご自身の感覚と照らし合わせ、よりよいアイデアを頂ければ理想的です。</p>
 
@@ -1734,7 +1734,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 <p>本当にランダムに挙げた大会ですが、こちらの大会は「内輪」に当てはまるでしょうか。「内輪」には指標がないため思考実験でも検討しづらいのですが、スマブラ好きが集まった大会で今は覚えている人も多くないという意味では内輪ですし、オープントーナメントだったという側面で言えば内輪ではありません。こう見ると、数値や客観的な指標から内輪の判別は出来ないものです。<br/>
 それではどこに内輪批判の起源が有るでしょうか。これも今日は共同体感覚の欠如と考えます。以下の図をイメージして下さい。</p>
 
-<p><img src="/archives/index.html/images/Mindo/blogMindo.002.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/Mindo/blogMindo.002.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［図. ある大会Aが開かれる時にそれを親身に感じるかどうか］</p>
 
 <p>あるゲームタイトルのシーンで共同体感覚を育てるというのは、何も一つ大きな円に全員を入れるという意味（図右側）ではありません。むしろ小さな輪をローカルに生産しそれ同士が繋がっていることを実感頂くこと（図左側）が理想に近いです。<br/>
@@ -1773,9 +1773,9 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
   
   <entry>
     <title type="html"><![CDATA[ゲームイベントと民度の対処法]]></title>
-    <link href="/archives/index.html/blog/2020/06/18/"/>
+    <link href="http://ayuha167.github.io/blog/2020/06/18/"/>
     <updated>2020-06-18T15:32:11+09:00</updated>
-    <id>/archives/index.html/blog/2020/06/</id>
+    <id>http://ayuha167.github.io/blog/2020/06/</id>
     <content type="html"><![CDATA[<p>筆者は「民度」という言葉が嫌いであり、長らく苦しめられてきました。</p>
 
 <!-- more -->
@@ -1793,7 +1793,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 
 <p>「民度」という言葉は最近の語彙であることが知られています（<a href="https://enpedia.rxy.jp/wiki/%E6%B0%91%E5%BA%A6">Enpedia</a>）。科学的・文化人類学的・心理学的な検討はありません。Google 検索の define: コマンドでは「民度」はヒットしないほどマイナーな語彙です。</p>
 
-<p><img src="/archives/index.html/images/Mindo/Mindo01.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/Mindo/Mindo01.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［Google Trend : 民度（2004年から2020年4月まで）］</p>
 
 <p>Google Trends を拝見しますと「民度」という言葉は以前は余り使用されていませんでした。主に2011年より徐々に使用されるようになってきています。2004年8月に一度大きなピークが来ていますが、これは当時の石原都知事が特定の外国を指して「民度が低い」という発言をした時です。寧ろ、確たる証拠はありませんが、石原慎太郎さんが語彙「民度」の現代的使用法の始祖である可能性が有り、ゲーマーがこぞってその言語的フォロワーになっているとも言えます。（皆様も「民度」と発するときは一度政治的発言であることを思い出して頂きたいです。）今ではこの「民度」という単語が漢字圏に逆輸入されていますが詳しい経路は不明です。</p>
@@ -1828,7 +1828,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 
 <p>最近丁度いいところに <a href="https://blog.tinect.jp/?p=64938">『「過剰なビジネスマナーが存在する組織」はたいてい、停滞している。』</a> という記事がございました。一部の方が不快に思う行為を全体に主張する層は、普遍的に一定数いらっしゃるようです。他にも朝日新聞さんの社説ですが<a href="https://globe.asahi.com/article/13066642">『「迷惑だ」と言いつつ「なぜ」を考えない　日本人、思考停止していませんか』</a>では、他者に迷惑をかける行為を思考停止して絶対視している例が挙げられています。理由はともかく、観測として、日本では普遍的に自分が不快に思う相手の行為を一方的に無礼だと判断して批判する場合があります。日本でのマナーや礼儀についての謎・いたちごっこは複雑であり、ここには記せない量です。他の方の研究をどうか参考にされたいです。ですが体感的に、主観的な礼儀を持ち込む人が居るという傾向に賛同頂ければここから先に進めます。</p>
 
-<p><img src="/archives/index.html/images/Mindo/beer.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/Mindo/beer.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［画像は Brewing Japan<a href="https://brewing-japan.com/knowledge/lecture/post-454/">『忘年会や新年会で心がけたい！ビールの正しい注ぎ方、マナー（お酌）』</a> より。飲み会は精神性が重視されるため礼儀が一杯です。このビールのものは有名ですが、数年前にとっくりマナーの真偽が話題になりました。筆者は酒を飲みません。］</p>
 
 <p>前提にかえりますが、今日は大会運営のお話です。大会・イベントが「民度」という軸から評価を受けますと大変なことになります。成功した大会が失敗になります。特に民度審判は呼応性が高いですから、1名が主観から大会批判を始めますと連鎖的に批判が続きます。これを防ぎたいです。</p>
@@ -1885,9 +1885,9 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
   
   <entry>
     <title type="html"><![CDATA[大会でのモデレーションとその限界]]></title>
-    <link href="/archives/index.html/blog/2020/06/17/"/>
+    <link href="http://ayuha167.github.io/blog/2020/06/17/"/>
     <updated>2020-06-17T16:34:46+09:00</updated>
-    <id>/archives/index.html/blog/2020/06/</id>
+    <id>http://ayuha167.github.io/blog/2020/06/</id>
     <content type="html"><![CDATA[<p>この内容はゲームの大会でのライブ配信でチャット欄に不適切な投稿が有る時、どのような対処をするのかまとめたものですが、元々は1個上の記事 <a href="http://ayuha167.github.io/blog/2020/06/18/">『ゲームイベントと民度の対処法』</a> の一部として記したものです。</p>
 
 <!-- more -->
@@ -2005,9 +2005,9 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
   
   <entry>
     <title type="html"><![CDATA[ゼノブレイド：エーテルの背景知識]]></title>
-    <link href="/archives/index.html/blog/2020/06/05/"/>
+    <link href="http://ayuha167.github.io/blog/2020/06/05/"/>
     <updated>2020-06-05T18:26:56+09:00</updated>
-    <id>/archives/index.html/blog/2020/06/</id>
+    <id>http://ayuha167.github.io/blog/2020/06/</id>
     <content type="html"><![CDATA[<p>こんにちは、ゼノブレイド大好き人間ですが、<a href="http://ayuha167.github.io/blog/2020/06/04/">前回の投稿</a>に続いてゼノブレイドに登場する「エーテル」という概念の背景知識を説明しようと思います。</p>
 
 <!-- more -->
@@ -2017,7 +2017,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 
 <p>今回は余りゼノブレイドの内容が登場しません。ご安心の上、エーテルの説明をお楽しみ下さい。</p>
 
-<p><img src="/archives/index.html/images/Xenoblade/XenobladeDE.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/Xenoblade/XenobladeDE.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［<a href="https://www.nintendo.co.jp/switch/aubqa/">ゼノブレイドDE 公式サイト</a>より。］</p>
 
 <h2>エーテル</h2>
@@ -2028,7 +2028,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 
 <p>それでは古代ギリシャの説明をいたします。有名な話ですが、古代ギリシャでは万物の元の議論がなされていました。特に「四大元素」が主流の説となりました。日本語では 火・風・水・土 と訳されることが多いです。これは現代人からすると「妄想じゃん」と感じるのですが、当時の技術ではこの世の解釈はここが限界でした（前記事の「モナド」）。しかもこの説は長いこと支持され、西暦1600年のガリレオは地動説を主張するほど物理が得意だったにも拘らず、物質に関する持説にはまだ四大元素を使っています。</p>
 
-<p><img src="/archives/index.html/images/Xenoblade/4elements.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/Xenoblade/4elements.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［四大元素は今も世界中で様々なアートモチーフで使用されますが、むかし本気で科学的アプローチで四大元素を研究していた頃は大変だったことでしょう。<a href="https://stock.adobe.com/jp/images/nature-4-elements-of-nature-symblos-with-water-fire-earth-and-air-in-square-frame-vector-design/181936921">Adobeより</a>］</p>
 
 <p>ただ長らく四大元素には問題点がありました。地球上のモノは四大元素で出来ていることが説明できますが、空に浮かぶ天体は四大元素で出来ていなさそうという点です。太陽・月・惑星はどうも四大元素の理論に当てはまりません。証拠の一例を挙げますと、惑星はその特殊な軌道ゆえに古代から存在が知られていましたが「水金火木土」で5個あるので、四つに分類できません。</p>
@@ -2045,7 +2045,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 
 <p>紀元1800年、錬金術師たちによって第五元素エーテルが否定された頃。時を同じくして「光は波である」ということに気付き始めた物理学者たちがいました。</p>
 
-<p><img src="/archives/index.html/images/Xenoblade/illust_1.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/Xenoblade/illust_1.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［光は “波” の性質を持ちます。<a href="https://www.kepco.co.jp/brand/for_kids/teach/2017_08/detail1.html">関西電力より</a>。実は粒子としての性質も持ちます。］</p>
 
 <p>現代でも「光ははんぶん波である」と考えられています。波は一般的に、音や地震のように、何かの中を伝わるものです。波はなにかが揺れることなので、揺れる・伝わる本体がいなければ波が成立しないと考えられていました。しかし光が波であるなら、なにが揺れているのか不明でした。光は真空の中でも宇宙の中でも伝わります。そこで物理学者たちは意味が分からなくなり、このように考えました：</p>
@@ -2061,7 +2061,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 
 <p>ここから100年かけて、エーテルを観測する or 否定する様々な実験が行われました。その結果、「光はエーテルの中なんて伝わっていません」という説が証明されました。「エーテルって空想上の物質なのにどうやったんだよ…」と思われるかもしれませんが、科学はすごいものなので気になったら調べてみてください。特に有名なアインシュタインさんの特殊相対性理論が出ると、光が伝わる基としてのエーテルは完全否定されました。</p>
 
-<p><img src="/archives/index.html/images/Xenoblade/Einstein.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/Xenoblade/Einstein.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［光のエーテルを否定し切ったアインシュタインさん。Wikipediaより。］</p>
 
 <p>…ここまではご存知の方もいらっしゃると思います。筆者がここで念を押して申し上げたいのは、「というわけでエーテルの存在は否定されました」という考えは誤解であるということです。そもそも「この世はなんか空想の物質で満たされている」という発想は紀元1600年くらいから存在します。前記事で申し上げたライプニッツさんの「モナド」も同じジャンルの発想でした。確かに光が伝わる基であるエーテルは科学の発展によって否定されました。が、それは光が伝わる基としての機能が否定されたに過ぎません。エーテルやモナドのように、この世を人間が知らないモノが満たしている可能性についてはまだ否定しきれていません。気になった方は「この世は知らないモノで満たされているのかもしれない」と想像しながら生きてみてください。</p>
@@ -2087,9 +2087,9 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
   
   <entry>
     <title type="html"><![CDATA[ゼノブレイド：因果律の背景知識]]></title>
-    <link href="/archives/index.html/blog/2020/06/04/"/>
+    <link href="http://ayuha167.github.io/blog/2020/06/04/"/>
     <updated>2020-06-04T15:31:20+09:00</updated>
-    <id>/archives/index.html/blog/2020/06/</id>
+    <id>http://ayuha167.github.io/blog/2020/06/</id>
     <content type="html"><![CDATA[<p>こんにちは、ゼノブレイド大好き人間です。このたび『ゼノブレイド Definitive Edition』（DE）、つまりゼノブレイド1のリメイク作品、が発売されましたのでその背景知識（と筆者が踏んでいる）内容について、述べようと思います。みなさんもこれを読めば、ゼノブレイドをより楽しむことが出来ますし、明日からゼノブレイドDEをプレイした仲間と語り合うことが出来ます。ご活用下さい。</p>
 
 <!-- more -->
@@ -2097,7 +2097,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 
 <p>今日はネタバレを余り入れないよう努めました。いまゼノブレイドDEが途中の方も余り心配なく御覧いただけるよう配慮しましたが、なにか漏れていたらご容赦下さい。念の為、スマブラで登場する要素（シュルクは剣モナドを使っており、未来を見ることが出来る）までは用います。</p>
 
-<p><img src="/archives/index.html/images/Xenoblade/XenobladeDE.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/Xenoblade/XenobladeDE.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［<a href="https://www.nintendo.co.jp/switch/aubqa/">ゼノブレイドDE 公式サイト</a>より。拝読しましたらしっかりネタバレがありました。］</p>
 
 <p>ゼノブレイドは、1も2通して、ストーリーの中では「人間vs技術」という構図になっていました。これについては、3年前に筆者が『ゼノブレイド2』発売してプレイした直後の日記に書いております。プレイ直後に独りで考えた内容なので穴も多いですが、当時のまま残してあります。こちらはネタバレ有りの内容ですが、ご参考になさってください。</p>
@@ -2119,7 +2119,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 
 <p>1700年、ドイツにライプニッツさんが居ました。ライプニッツさんは哲学者でもあり数学者でもありました。当時は哲学と科学が分離していません。（現代日本人の価値観では「文系と理系なのに意味不明でしょ」と思うかもしれませんが、それは我々の価値観です。）そこで、ライプニッツさんは「モナド」と「予定調和」を絡めて主張し始めました。</p>
 
-<p><img src="/archives/index.html/images/Xenoblade/Gottfried_Wilhelm_von_Leibniz.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/Xenoblade/Gottfried_Wilhelm_von_Leibniz.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［神聖ローマ帝国の政治家、ゴットフリート・ヴィルヘルム・フォン・ライプニッツさん。設定が非常にかっこいいです。Wikipediaより。］</p>
 
 <p>筆者はライプニッツさんの著書を読んだわけではありません。エンジョイ勢ですが勝手に説明します。モナドとは世界を構成する空想上の原子のようなものです（モナドは日本語では「単子」と訳されます）。すごく大雑把に言いますとライプニッツさんは</p>
@@ -2185,7 +2185,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 
 <p>ゼノブレイドシリーズでは、物理法則が分かれば未来は全て分かり、因果律・予定調和が有る世界が描かれました。その予定調和を破るケースでは登場人物たちの意志・行動が関係しています。この「意志」は歴史上、ここまで述べていた「決定論」に対立するジャンルとして長く存在していました。今日はこのジャンルを「自由意志」と呼んで説明申し上げます。決定論・自由意志は歴史上、2000年くらいにわたって対立して来た議論です。</p>
 
-<p><img src="/archives/index.html/images/Xenoblade/002.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/Xenoblade/002.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［決定論 vs 自由意志 …厳密には必ずしも全てがそうではないのですが、ゼノブレイドを理解しやすくするために対立して置きます。］</p>
 
 <p>「自由意志」とは「いえーいでフリーダムな気持ち」という意味ではありません。この世で起きることは全て物理法則があるから未来のことまで決まっているという考え方が決定論に対し、「いや、人間の意志は物理法則の外にあるから、未来のことは人間の意志が関与する」という発想が自由意志です。物理法則に縛られない (free) なのでこういう名称になっています。厳密には「自由意志」は一つの名詞に過ぎないのですが、便宜上今日はこの自由意志をジャンル名でも呼びます。</p>
@@ -2223,9 +2223,9 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
   
   <entry>
     <title type="html"><![CDATA[“Esports後進国理論” の起源]]></title>
-    <link href="/archives/index.html/blog/2020/04/22/"/>
+    <link href="http://ayuha167.github.io/blog/2020/04/22/"/>
     <updated>2020-04-22T17:21:34+09:00</updated>
-    <id>/archives/index.html/blog/2020/04/</id>
+    <id>http://ayuha167.github.io/blog/2020/04/</id>
     <content type="html"><![CDATA[<p>なぜ人は私に会うと「日本は esports 遅れてるんでしょ？」と訊ねるのでしょうか。その秘密と実態について考えてみることにしました。</p>
 
 <!-- more -->
@@ -2257,7 +2257,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 
 <p>その「盛り上がり」に関係がありそうな統計を、部分的に恣意的に選んだものですが、見て行きます。（断っておきますが個人が勝手に作ったグラフですので気合を入れたそのスジの方が、しかるべき時に引用するに足るものかは保証しません。）前提として盛り上がりは絶対評価ではなく、海外の esports と比べて日本のそれの相対評価となります。まずはゲーム市場全体についてです。</p>
 
-<p><img src="/archives/index.html/images/esports/Blog_esports.001.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/esports/Blog_esports.001.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［図1. 世界ゲーム市場と日本：<a href="https://strivesponsorship.com/wp-content/uploads/2019/04/Newzoo-Global-Esports-Market-Report-2019.pdf">世界ゲーム市場, Newzoo</a>;
 <a href="https://www.famitsu.com/news/201906/07177561.html">日本国内消費, ファミ通</a>;
 <a href="https://iphone-mania.jp/news-211275/">一人あたりの支出額, iPhone Mania</a>;
@@ -2265,7 +2265,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 
 <p>というわけで日本はゲーム市場の13%です。世界の人口がちょうど77億7777万7777名を突破したと今月話題になっていました。人口1億の国がここまで活躍しているのは大健闘だと考えます。日本のGDPは世界の5%程度（<a href="https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=57&amp;pr.y=17&amp;sy=2019&amp;ey=2019&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=512%2C668%2C914%2C672%2C612%2C946%2C614%2C137%2C311%2C546%2C213%2C674%2C911%2C676%2C314%2C548%2C193%2C556%2C122%2C678%2C912%2C181%2C313%2C867%2C419%2C682%2C513%2C684%2C316%2C273%2C913%2C868%2C124%2C921%2C339%2C948%2C638%2C943%2C514%2C686%2C218%2C688%2C963%2C518%2C616%2C728%2C223%2C836%2C516%2C558%2C918%2C138%2C748%2C196%2C618%2C278%2C624%2C692%2C522%2C694%2C622%2C962%2C156%2C142%2C626%2C449%2C628%2C564%2C228%2C565%2C924%2C283%2C233%2C853%2C632%2C288%2C636%2C293%2C634%2C566%2C238%2C964%2C662%2C182%2C960%2C359%2C423%2C453%2C935%2C968%2C128%2C922%2C611%2C714%2C321%2C862%2C243%2C135%2C248%2C716%2C469%2C456%2C253%2C722%2C642%2C942%2C643%2C718%2C939%2C724%2C734%2C576%2C644%2C936%2C819%2C961%2C172%2C813%2C132%2C726%2C646%2C199%2C648%2C733%2C915%2C184%2C134%2C524%2C652%2C361%2C174%2C362%2C328%2C364%2C258%2C732%2C656%2C366%2C654%2C144%2C336%2C146%2C263%2C463%2C268%2C528%2C532%2C923%2C944%2C738%2C176%2C578%2C534%2C537%2C536%2C742%2C429%2C866%2C433%2C369%2C178%2C744%2C436%2C186%2C136%2C925%2C343%2C869%2C158%2C746%2C439%2C926%2C916%2C466%2C664%2C112%2C826%2C111%2C542%2C298%2C967%2C927%2C443%2C846%2C917%2C299%2C544%2C582%2C941%2C474%2C446%2C754%2C666%2C698&amp;s=NGDPD&amp;grp=0&amp;a=">IMF</a>より）で、それを超越していますから、GDP比率でも活躍しています。それでは、これに対して日本の esports でのプレゼンスはいかがでしょう。</p>
 
-<p><img src="/archives/index.html/images/esports/Blog_esports.002.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/esports/Blog_esports.002.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［図2. 世界esports市場と日本：<a href="https://strivesponsorship.com/wp-content/uploads/2019/04/Newzoo-Global-Esports-Market-Report-2019.pdf">世界, Newzoo</a>;
 <a href="https://www.bcnretail.com/market/detail/20200214_158502.html">国内, KADOKAWA Game Linkage</a>］</p>
 
@@ -2273,7 +2273,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 
 <p>続いて、ゲームカテゴリのライブ配信視聴時間を見ます。ネット上で、日本のユーザーはどれほどゲームに関すること（ゲームの二次制作コンテンツ）を視ているでしょうか。</p>
 
-<p><img src="/archives/index.html/images/esports/Blog_esports.003.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/esports/Blog_esports.003.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［図3. ライブ配信ゲームカテゴリ視聴時間, 全て単位は分, MWとは視聴分数のこと：<a href="https://newzoo.com/insights/articles/streamlabs-newzoo-q4-year-in-review-live-streaming-industry-report/">世界, Streamlabs/Newzoo</a>;
 <a href="https://www.giken.tv/news/cov-mw">日本, 配信技研</a>］</p>
 
@@ -2281,7 +2281,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 
 <p>それでは、大会の視聴時間のみを比較するといかがでしょうか？</p>
 
-<p><img src="/archives/index.html/images/esports/Blog_esports.004.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/esports/Blog_esports.004.jpeg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［図4. 大会視聴時間：<a href="https://strivesponsorship.com/wp-content/uploads/2019/04/Newzoo-Global-Esports-Market-Report-2019.pdf">世界, Newzoo</a>;
 日本, 配信技研 Giken Access］</p>
 
@@ -2294,7 +2294,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 
 <p>日本はゲーム売上と比べると esports は物足りません。ですが決して悲観するものではありません。日本は競技タイトルに多様性があり、日本独自の大会があります。そこは以下日本の Esports Tier List の画像・および記事をご覧頂いてもご理解頂けるかと存じます：</p>
 
-<p><img src="/archives/index.html/images/esports/TierList.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/esports/TierList.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［Esports Tiers in Japan 2019, <a href="https://www.giken.tv/news/esports-tiers-in-japan-2019">配信技研</a>］</p>
 
 <p>年間で大会の視聴時間が 100 million [min] を超えるタイトルが5つ有り、其々にプロプレイヤーが並び立っているのは市場として高いロバスト性があります。さながら、日本の経済全体のようです。ライブ配信の視聴時間を見れば、様々なストリーマーが活躍しており、他国に遜色ない視聴時間が生産されています。賞金という要素は Dota2 に依存するところが大きいですが、「日本では賞金が少ない = 日本の全てが駄目」という訳ではありません。これらを総じて鑑みるに、日本の esports はそこそこ頑張っているという評価が筆者の思うところです。ここは感情論ですが、探せば統計が出てくる時点である程度発展していると考えています。国別に探すと見つかりづらい場所があることも事実で、そういう場合は社内の者に訊かねばなりません。（角川系列のみなさん, 4Gamerさん, Negitaku さん本当にありがとうございます。）</p>
@@ -2365,7 +2365,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 <p>Ⅰ. まずは上の統計を並べていた頃です。
 ゲームの売上や視聴時間が十分にあるのに、esports 市場規模に繋がっていません。また、スポンサー料が割合的に大きいというのも、ファンの購買が割合的に少なかったり、またはファンに買ってもらうグッズが少ないことも原因にあるかもしれません。</p>
 
-<p><img src="/archives/index.html/images/esports/owarai.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/esports/owarai.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［類似したもので、日本のお笑い芸人は運営にならずに芸人で居続けるという議論。<a href="https://www.youtube.com/watch?v=GcEVfzy3FnA">Weekly Ochiai</a> から。この内容は面白く「広告収入よりもファンから直接収入に頼った方が強い」というゲーマーにも刺さる内容がありました。全体アーカイブが無いですが感想ブログがあったので<a href="https://masataka-blog.com/brand-20181122-owarai">こちら</a>。］</p>
 
 <p>国内の個人のゲームライブ配信に関しても、上でデータも見たように充分にございます。世界の水準に劣らない数のストリーマーが居ます。
@@ -2375,7 +2375,7 @@ NARUTO 作中には、「信じる」や「繋がり」に対立する意見を�
 
 <p>Ⅱ. つづいてですが、日米でイベントに参加して日本ユーザーの行動を比較すると、漠然と消極的と感じます。勿論「武装事件がない」「マナーがいい」という大きなメリットを持っているのですが、それと引き換えに積極性が少ないイメージです。この違和感を断片的に数値で比較しましょう。2020年1月24-26日という同じ日程で日米にて開かれたイベントがあります。その Google Trend を global で取りました。EVO Japan と Genesis です。</p>
 
-<p><img src="/archives/index.html/images/esports/gtrend.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/esports/gtrend.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［図5. EVO Japan 2020（日本）と Genesis7（アメリカ）の Google Trend］</p>
 
 <p>ツイート数が検索できれば理想的だったのですが、Google Trend とはある程度の相関があります。Genesis7 の方が少し高めになっています。この2イベントですが、共に3日間、複数タイトルが集まるオープントーナメントでした。種目は『スマブラSP』だけは共通しています。形式は似通ったイベントですが、エントリー人数を比較すると：</p>
@@ -2396,7 +2396,7 @@ EVO Japan と Genesis には運営形式の差がありますが、運営にユ�
 
 <p>ここはこじつけに近い理由になります。今回お馴染み <a href="https://strivesponsorship.com/wp-content/uploads/2019/04/Newzoo-Global-Esports-Market-Report-2019.pdf">Newzoo の2019総合資料</a> から、2018年でグローバルに見られていた大会視聴時間のトレンドを見てみます。</p>
 
-<p><img src="/archives/index.html/images/esports/2018TopGames.png" alt="&quot;代替メッセージ&quot;" /> <br/>
+<p><img src="http://ayuha167.github.io/images/esports/2018TopGames.png" alt="&quot;代替メッセージ&quot;" /> <br/>
 ［今回お馴染み <a href="https://strivesponsorship.com/wp-content/uploads/2019/04/Newzoo-Global-Esports-Market-Report-2019.pdf">Newzoo の2019総合資料</a> 2018年世界で大会が視聴されていたゲームリスト］</p>
 
 <p>2018年のデータですので今とは少し異なる情勢も有ると思いますが、カウントしてみます。挙がっている25タイトルのうち、mod 由来のゲームが3つ（LoL, CS:GO, Dota2）、modder が作ったゲームが1つ（PUBG）ございます。また、日本企業が出したタイトルは5つ（SFV, スマブラDX/WiiU, Tekken7, DBFZ）です。グローバルの競技シーンを見た時に、日本企業が出しているタイトルは奮闘しており、次いで欧米の mod も活躍していますが、日本ユーザーからの mod はありません。「日本か否か」という極端な二元的で比較したらそれは勿論日本ユーザーの mod が競技シーンに現れる確率は低いです。ただそれにしては日本企業は頑張っています。今議論したい企業とユーザーの対比では、日本は企業側は開発で大きく競技シーンに貢献していると言えるでしょう。</p>
@@ -2462,9 +2462,9 @@ EVO Japan と Genesis には運営形式の差がありますが、運営にユ�
   
   <entry>
     <title type="html"><![CDATA[Esports の定義について汎用性を持たせるなら]]></title>
-    <link href="/archives/index.html/blog/2020/04/21/"/>
+    <link href="http://ayuha167.github.io/blog/2020/04/21/"/>
     <updated>2020-04-21T18:46:51+09:00</updated>
-    <id>/archives/index.html/blog/2020/04/</id>
+    <id>http://ayuha167.github.io/blog/2020/04/</id>
     <content type="html"><![CDATA[<p>Esports の定義について、次の投稿の議論で用いるために便宜的にこちらで一度噛み砕くこととしました。</p>
 
 <!-- more -->
@@ -2568,9 +2568,9 @@ EVO Japan と Genesis には運営形式の差がありますが、運営にユ�
   
   <entry>
     <title type="html"><![CDATA[スター☆トゥインクルプリキュア 解釈]]></title>
-    <link href="/archives/index.html/blog/2020/01/30/"/>
+    <link href="http://ayuha167.github.io/blog/2020/01/30/"/>
     <updated>2020-01-30T17:17:37+09:00</updated>
-    <id>/archives/index.html/blog/2020/01/</id>
+    <id>http://ayuha167.github.io/blog/2020/01/</id>
     <content type="html"><![CDATA[<p>『スター☆トゥインクルプリキュア』で描かれた宇宙の説明と、その解釈を述べます。</p>
 
 <!-- more -->
@@ -2599,7 +2599,7 @@ EVO Japan と Genesis には運営形式の差がありますが、運営にユ�
 
 <p>『スター☆トゥインクルプリキュア』は宇宙で多様性を表現した作品です。まずはその世界観の説明をします。</p>
 
-<p><img src="/archives/index.html/images/Precure/StarTwinkle.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/Precure/StarTwinkle.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［<a href="http://www.toei-anim.co.jp/tv/precure/">スター☆トゥインクルプリキュア 東映アニメーションウェブサイト</a> より］</p>
 
 <p>今作でははじめに闇の組織「ノットレイダー」の手によって宇宙が侵略されていました。そこでプリキュアに目覚めた少女たちはロケットに乗って宇宙を巡り、<a href="http://www.toei-anim.co.jp/tv/precure/character/starprincess.php#tab">12星座を司る「スタープリンセス」</a>を救出し、宇宙に平穏をもたらすことを目指します。スタープリンセスは宇宙の創造主です。おひつじ座〜うお座 に対応して12名存在して宇宙をつくりましたが、最近ノットレイダーの力に敗れて解散してしまい、宇宙に闇が立ち込めていました。ただノットレイダーのボス「ダークネスト」は正体不明でした。ここまではスタンダードな設定かと思います。</p>
@@ -2620,7 +2620,7 @@ EVO Japan と Genesis には運営形式の差がありますが、運営にユ�
 
 <p>プリキュアの皆さんは宇宙を巡って様々な “違い” と衝突しますが、違いは魅力として描かれており、これを表した言葉が「キラやば」です。主人公ひかるは常に新しいものに接するたびに「キラやば」と発していました。</p>
 
-<p><img src="/archives/index.html/images/Precure/StarTwinkle02.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/Precure/StarTwinkle02.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［登場人物は宇宙に亘るため嘗てなく多様です。地球人と異なるのは外見だけでなく、価値観も目的も異なるため、訪問者であるプリキュアとは衝突しがちです。<a href="http://www.toei-anim.co.jp/tv/precure/character/space.php#tab">東映アニメーションウェブサイト</a> より］</p>
 
 <p>ここが今作で大事な点で、日本生まれ日本育ちのひかるが、地球や宇宙で価値観が異なるものに出会った時、敵対することがないのは当然ですが、：</p>
@@ -2649,7 +2649,7 @@ EVO Japan と Genesis には運営形式の差がありますが、運営にユ�
 
 <p>そして迎えた最終決戦。最後には蛇遣い座はプリキュアやスタープリンセスに完全勝利し、イマジネーションの力は宇宙からなくなってしまいます。これには勿論プリキュアの持っていたイマジネーションの力も含まれており、プリキュアたち5名は変身する能力も失いました。宇宙は闇に包まれ、イマジネーションのない宇宙となり、蛇遣い座の目標は達成されます。（すごくストーリーを丸めて説明しました。）</p>
 
-<p><img src="/archives/index.html/images/Precure/story_img_1.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/Precure/story_img_1.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［プリキュアはこの蛇遣い座に屈します。<a href="http://www.toei-anim.co.jp/tv/precure/episode/summary/48/">東映アニメーション公式サイト スター☆トゥインクルプリキュア48話</a>より］</p>
 
 <p>全て終わったかと思ったその時、プリキュアは突如力がみなぎって来て復活を遂げます。これは1年を通じて、自分のイマジネーションが備わったからでした。スタープリンセスの12星座が宇宙創造の際に “配布した” イマジネーションではなく、プリキュア自身が対話や対立の経験を通して “身につけた” 独自のイマジネーションです。これが作中で「トゥインクルイマジネーション」と呼ばれていたものであると私は解釈しています。プリキュアは復活し、自分の力で蛇遣い座の闇を振り払いました。こうして宇宙に平和が戻りました。</p>
@@ -2727,9 +2727,9 @@ EVO Japan と Genesis には運営形式の差がありますが、運営にユ�
   
   <entry>
     <title type="html"><![CDATA[コミュニティ大会運営をする時に考えていること2020]]></title>
-    <link href="/archives/index.html/blog/2020/01/06/"/>
+    <link href="http://ayuha167.github.io/blog/2020/01/06/"/>
     <updated>2020-01-06T20:44:03+09:00</updated>
-    <id>/archives/index.html/blog/2020/01/</id>
+    <id>http://ayuha167.github.io/blog/2020/01/</id>
     <content type="html"><![CDATA[<p>自分がコミュニティイベントを運営する時に考えていることです。すみません、こちらの記事は9000字ほどあります。</p>
 
 <!-- more -->
@@ -2743,7 +2743,7 @@ EVO Japan と Genesis には運営形式の差がありますが、運営にユ�
 
 <p>さて本題ですが、やはり日本では企業主催イベントは足りています。ファミ通さんや4Gamerさんを拝見しても、日々ゲーム・Esports等ユーザーが求める交流・競争の場は目白押しです。殊に2018年「eスポーツ元年」が謳われて以降、企業イベントは増えたと考えています。日本で企業が主催するゲームを用いた大会は本当によく詰められており、最も褒められるべきものです。</p>
 
-<p><img src="/archives/index.html/images/community/esportsx.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/community/esportsx.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［東京ゲームショウ2019 での『eスポーツX』ステージ、の門。年に一度の文字通り大舞台です。<a href="https://www.bcnretail.com/market/detail/20190917_136806.html">BCNさん『国も注目するeSportsの今　JeSU、活動報告で賞金問題に言及』より</a>］</p>
 
 <p>しかし弱点があります：</p>
@@ -2777,7 +2777,7 @@ EVO Japan と Genesis には運営形式の差がありますが、運営にユ�
 <p>例えば、自宅に友達5人位あつまって対戦することは、セーフ（のはず）です。個人利用の範囲とは自宅を主に想定していると推測しています。それでは、Switch を持参して球場のスタンド席で友達と一緒にアウトドアで対戦することはいかがでしょうか？更には、貸会議室を借りて数十人で集まって対戦するのはいかがでしょうか？どこまでが個人なのか、議論になって来ます。<br/>
 ここは本当に版元会社によりけりです。アメリカに本社があるようなメーカーならば（Valveなど）、どのくらいまでユーザーがイベントを開いて良いのかガイドラインがあります。そういったメーカーの free to play なゲームはコミュニティイベントが長期的に存在する方がゲームの長期的な収益にも繋がるためです。</p>
 
-<p><img src="/archives/index.html/images/community/R6S.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/community/R6S.png" alt="&quot;代替メッセージ&quot;" /><br/>
 ［最近では、UBIソフトさんが個人開催の大会に関してガイドラインを出しました。海外メーカーのパッケージ買い切り型タイトルです。<a href="https://ubiblog-jp.com/2019/12/18/community-license/">「レインボーシックス シージ」を利用した非営利トーナメントライセンスについて</a>］</p>
 
 <p>■追記 : <a href="https://igdajapan-esports.blogspot.com/2020/06/2020620.html">コミュニティ大会に関するガイドライン・ライセンス情報まとめ</a> オオギさんによる記事で、今あるゲーム会社によるイベントガイドラインの総まとめとなっています。</p>
@@ -2826,7 +2826,7 @@ EVO Japan と Genesis には運営形式の差がありますが、運営にユ�
 
 <p>定性的な内容ですが、日本のゲーム会社の方にも「コミュニティイベントを開いて交流を図っているユーザー」を快く思っていて「後押ししたい」と心の中で感じている方も比較的多くいらっしゃいます。</p>
 
-<p><img src="/archives/index.html/images/community/DSC_1512-L.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/community/DSC_1512-L.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［コミュニティ大会『ウメブラ』。写真は <a href="https://darimoko.smugmug.com/">Darimoko</a> より］</p>
 
 <h2>定義</h2>
@@ -2894,7 +2894,7 @@ EVO Japan と Genesis には運営形式の差がありますが、運営にユ�
 
 <p>大会を盛り上げようとする余り、コミュニティイベントも企業イベントもどれも同じように見えてしまうと、個人的に一番残念です。なにを求めているのか、独自性を意識するべきです。</p>
 
-<p><img src="/archives/index.html/images/community/i-78b4zQg-X4.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/community/i-78b4zQg-X4.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
 [アメリカで毎年開催されるスマブラ向けコミュニティ大会『Genesis』。アメリカのコミュニティはいつも筆者の文化的・技術的目標です。写真は <a href="https://gallery.rmpaul.com/">Robert Paul</a> より。]</p>
 
 <h2>ルール</h2>
@@ -2974,7 +2974,7 @@ EVO Japan と Genesis には運営形式の差がありますが、運営にユ�
 
 <p>16世紀、カトリックをアジアに広めたいがためにイエズス会はわざわざ創始者フランシスコ・ザビエルが自らアジアへ赴きました。メディアだけで存在が広まるなら「入門 真之基督教」みたいな書を漢文体で出せばアジア全域で布教することが可能だった訳ですが、それでは不十分であることをイエズス会は知っていました（実際250種以上のキリスト教関連書が当時漢語で出ています）。物理的に、人間が現地に行かなければ、熱意を共有できません。ザビエルですらスペインから日本まで船で来ているというのに、一介のゲーマーである筆者が布教しに回らない訳にはいかない訳です。</p>
 
-<p><img src="/archives/index.html/images/community/y_5ce90b5c8e3dc.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/community/y_5ce90b5c8e3dc.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
 ［ほかタイトルの方と交流するのに手っ取り早いのは C4LAN へ行くことです。<a href="https://www.famitsu.com/news/201905/25176788.html">ファミ通さん『ゲームイベント界のキメラ“C4 LAN 2019 SPRING”リポート。物産展と盆踊りと少々のお色気が参加者を襲う』</a> から］</p>
 
 <p>他の大会に行くことで自分の大会のコンセプトの独自性が見えてくる面もございますので、ぜひ試してみてください。</p>
@@ -3057,9 +3057,9 @@ Dota2 のトーナメントをオンラインで開催し、そのオフライ�
   
   <entry>
     <title type="html"><![CDATA[私が何故炎上商法を是としないか - トロッコ問題にからめて]]></title>
-    <link href="/archives/index.html/blog/2019/11/01/"/>
+    <link href="http://ayuha167.github.io/blog/2019/11/01/"/>
     <updated>2019-11-01T22:44:52+09:00</updated>
-    <id>/archives/index.html/blog/2019/11/</id>
+    <id>http://ayuha167.github.io/blog/2019/11/</id>
     <content type="html"><![CDATA[<p>「炎上商法」は高度なインターネット文明が成立して以降、あらゆる方面で行われてきた手法です。一方「トロッコ問題」は、この命題が提案されたのは20世紀でありながら、元の概念は18世紀から存在しました。これら2つの命題を関連させてご説明したいです。</p>
 
 <!-- more -->
@@ -3124,7 +3124,7 @@ Dota2 のトーナメントをオンラインで開催し、そのオフライ�
 
 <p>打って変わって、通称「トロッコ問題」についてです。</p>
 
-<p><img src="/archives/index.html/images/Trolly/Trolly.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/Trolly/Trolly.png" alt="&quot;代替メッセージ&quot;" /><br/>
 [トロッコ問題の画像。ありがたい<a href="https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AD%E3%83%83%E3%82%B3%E5%95%8F%E9%A1%8C">Wikipedia</a>より]</p>
 
 <p>画像をご覧になれば意味は一目瞭然かと思いますが、ここではじっくり定義を申し上げます。</p>
@@ -3186,7 +3186,7 @@ Dota2 のトーナメントをオンラインで開催し、そのオフライ�
 
 <p>炎上商法はインターネットでの広告収入をアテにしたものとなっていますので、広告の話をしましょう。前提として日本ではテレビが非常に強いです。（テレビマシンの製造ではなく、テレビ電波を通じて消費できるコンテンツのこと。）「世代別ターゲティングでネットに分がある所も有るのでは？」と思いきや日本の10代後半〜20代のテレビ視聴習慣が有る割合は85%（以下図）で、ネットが最も効果を発揮する世代ですら、ネット広告よりもテレビ広告の方がリーチがあるという残酷なものになっています。</p>
 
-<p><img src="/archives/index.html/images/Trolly/201806011151_2.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/Trolly/201806011151_2.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
 [<a href="https://www.bcnretail.com/market/detail/20180602_62801.html">BCNRetail</a>より。インターネットの味方：サイバーエージェント調べでもこの数値となっている。]</p>
 
 <p>リーチという指標では、テレビは日本最強という前提に立ちます。インターネットが広告で勝てるとしたら、それは双方向性やエンゲージメント率に関する点です。エンゲージメント率とは、その広告・宣伝を見た人が行動を取ってくれるかの指標です。詳しくは<a href="http://ayuha167.github.io/blog/2018/11/07/">筆者のこちら</a>をお読みください。例えば商品を紹介する場合、リーチの面で云えば勿論テレビ番組で取り挙げられた方が合計の売上には繋がるのですが、地上波であれば目安15秒1回100万円の広告料がかかります。一方インターネットであれば格安でメッセージを届けられるのに対し購買につながる可能性が高いということです。</p>
@@ -3213,9 +3213,9 @@ Dota2 のトーナメントをオンラインで開催し、そのオフライ�
   
   <entry>
     <title type="html"><![CDATA[2019年コミュニティ大会での参加者限界の壁]]></title>
-    <link href="/archives/index.html/blog/2019/09/25/"/>
+    <link href="http://ayuha167.github.io/blog/2019/09/25/"/>
     <updated>2019-09-25T16:10:33+09:00</updated>
-    <id>/archives/index.html/blog/2019/09/</id>
+    <id>http://ayuha167.github.io/blog/2019/09/</id>
     <content type="html"><![CDATA[<p>今2019年、スマブラのコミュニティ大会の開催にあたり、ぶつかっている問題は意外な内容です。この問題点・解決策に関して、論じて行きたいです。</p>
 
 <!-- more -->
@@ -3242,7 +3242,7 @@ Dota2 のトーナメントをオンラインで開催し、そのオフライ�
 
 <p>といった案が考えられます。これらの案が解決策として機能するのか、筆者の独断で1つずつ見て行きます。</p>
 
-<p><img src="/archives/index.html/images/genkai2019/DSC_1512-L.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/genkai2019/DSC_1512-L.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
 [現在のウメブラの様子。大量の参加者は大会としては嬉しい限りですが、毎月この人数を収容する場を提供せねばと考えると急に頭を抱えます。写真は <a href="https://darimoko.smugmug.com/">@darimoko</a> から]</p>
 
 <h2>会場を広くする</h2>
@@ -3251,7 +3251,7 @@ Dota2 のトーナメントをオンラインで開催し、そのオフライ�
 
 <p>1日で大会を実行できる時間は有限です。それに対し、スマブラの1試合にかかる時間は10分ほどかかるため、1日で開催できる大会規模には限界があります。そのため、1日で開催できるダブルエリミネーショントーナメントは700名ほどが現在の理論の限界となっています。</p>
 
-<p><img src="/archives/index.html/images/genkai2019/Mastercup11.png" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/genkai2019/Mastercup11.png" alt="&quot;代替メッセージ&quot;" /><br/>
 [タイムリーですが、鉄拳『MASTERCUP』が同様の状況となったことがアナウンスされました。MASTERCUP は今年は約1350名（5on5なので250組以上）での1Day大会であり、「最低でもチーム戦を2回出来る大会」から「初戦のみ1回負けたら即敗退」の方式となったことがアナウンスされました。<a href="http://mastercupofficial.com/22728">MASTERCUPウェブサイトより</a>）</p>
 
 <p>会場を広くすれば見学枠（トーナメントに参加しない観客）を増やすことは可能ですが、1日でトーナメントを進行するという前提では、今の問題を完全に解決することはできません。</p>
@@ -3302,7 +3302,7 @@ Dota2 のトーナメントをオンラインで開催し、そのオフライ�
 
 <p>「Invitational で盛り上げる」「複数回大会を開き選抜方式にして最後に Masters をやる」といった大会は豪華さ・プロダクションクオリティで勝負する切り口に入って行きますが、ウメブラではステージ建築や照明の技術を持っていないため、どうしても企業イベントに見劣りしてしまいます。この世界はやるにしても公式イベントや企業イベントにお任せするべきかなあと筆者は思っています。</p>
 
-<p><img src="/archives/index.html/images/genkai2019/evojapan.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/genkai2019/evojapan.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
 [演出の例としてこちら『EvoJapan2018』。現在とは運営団体が異なる形で開催されていました。画像は <a href="https://www.4gamer.net/games/999/G999905/20180209009/">4Gamer</a> より。この時の大会は<a href="https://shibuya-game.com/archives/22452">「1.2億円の赤字」というニュース</a>が当時出ていました。ただこの赤字は運営の1陣営から出た内容なので実際はこの倍くらい予算がかかると勝手に推測できます。これは何もおかしな話ではなく、このくらいライトアップした派手演出をする場合、一般的に云って全体で数億円くらいかかってしまうものです。]</p>
 
 <h2>参加費を上げる</h2>
@@ -3352,7 +3352,7 @@ Dota2 のトーナメントをオンラインで開催し、そのオフライ�
 
 <p>そもそも議論の前提が「コミュニティイベントについて」でしたので、この議論が詰まるのは必然と云えば必然です。ただ競技欲を考えると、やはりコミュニティ主催でトーナメントを頻繁に開催することは必要だなあと再確認できます。</p>
 
-<p><img src="/archives/index.html/images/genkai2019/nextcsgomajor.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/genkai2019/nextcsgomajor.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
 [よく用いられるEsportsの参考画像, <a href="https://www.talkesport.com/news/next-csgo-major-to-be-held-in-january-2017/">TalkEsport.com より</a>。こちらは ESL One Katowice, つまり CS:GO のメジャー大会。CS:GO, Dota2 を擁するゲーム会社 Valve には「参加者1000人以下のイベントなら自由にやっていいよ」というレギュレーションがあり、いまこの「1000人」という数字がどういう意味を持つのか、身をもって経験しています。]</p>
 
 <h1>ここまでの議論</h1>
@@ -3376,7 +3376,7 @@ Dota2 のトーナメントをオンラインで開催し、そのオフライ�
 
 <p>もし年に9回1000名規模の大会があるならば、ウメブラ運営が各地の大会と運営を協力し・ウメブラ自体の開催頻度を下げることも可能になります。現在128人規模で運営をされている大会がいきなり1000人・あるいは500人を目指そうとも機材について無理がありましょうから、そこはウメブラが協力することも可能です。協力申し上げた場合、物理的にその日にウメブラ開催はなくなります。</p>
 
-<p><img src="/archives/index.html/images/genkai2019/DSC_1746-L.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
+<p><img src="http://ayuha167.github.io/images/genkai2019/DSC_1746-L.jpg" alt="&quot;代替メッセージ&quot;" /><br/>
 [スマブラSPの場合、2日で500名のダブルエリミネーションの場合60台くらいモニタがあれば進行可能です。写真は <a href="https://darimoko.smugmug.com/">@darimoko</a> から]</p>
 
 <p>助けになるか分かりませんが、大会被りに関して少し楽観的な資料をここで申し上げます。アメリカでは2019年の間におおよそ8回ほど1000名以上エントリーの大会がございます。日本に居る身からアメリカを見ると「アメリカではたくさん1000名規模大会があるし、スケジュールもしっかり管理されていて羨ましい」と感じるかもしれませんが、実際は少し異なります。1000名大会がどこかで開催されている裏で、100名規模の大会が他地域でいくつか開かれています。大会は被っているのです。また、ローカルで100~200名規模の大会を年に何度か開いている運営（Monthly）と、1000名大会を開く運営（Annual）は異なります。例を出しますと、GenesisやTheBigHouseは年に一度しか運営をせず、SynthesisやSmashWorksのような月一大会運営とは別組織になっているということです。（おそらくSocalに位置する2GGのような例外を除き基本的にこのスタイルです。）ウメブラはMonthlyを開催しながらAnnualも開催していますが、どちらかにシフトするのもアリかもしれません。</p>
